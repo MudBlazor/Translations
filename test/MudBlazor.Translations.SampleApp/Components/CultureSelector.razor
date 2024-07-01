@@ -1,0 +1,51 @@
+@using System.Globalization
+@inject NavigationManager Navigation
+
+@if (SupportedCultures.Length > 0)
+{
+    <MudSelect T="@CultureInfo" SelectedValuesChanged="@LanguageChanged" MultiSelection="false" Variant="@Variant"
+               SelectedValues="@(new[] { CultureInfo.CurrentCulture })" Label="@Label" Class="@Class" Style="@Style">
+        @foreach (CultureInfo culture in SupportedCultures)
+        {
+            <MudSelectItem Value="@culture">@culture.NativeName</MudSelectItem>
+        }
+    </MudSelect>
+}
+
+@code
+{
+    [Parameter, EditorRequired]
+    public required CultureInfo[] SupportedCultures { get; set; }
+
+    [Parameter]
+    public string Label { get; set; } = "Language";
+
+    [Parameter]
+    public Variant Variant { get; set; } = Variant.Outlined;
+
+    [Parameter]
+    public string? Class { get; set; }
+
+    [Parameter]
+    public string? Style { get; set; }
+
+    private void LanguageChanged(IEnumerable<CultureInfo> cultures)
+    {
+        CultureInfo? value = cultures.FirstOrDefault();
+
+        if (value is null)
+        {
+            return;
+        }
+
+        if (CultureInfo.CurrentCulture.Equals(value))
+        {
+            return;
+        }
+
+        string uri = new Uri(Navigation.Uri).GetComponents(UriComponents.PathAndQuery, UriFormat.Unescaped);
+        string cultureEscaped = Uri.EscapeDataString(value.Name);
+        string uriEscaped = Uri.EscapeDataString(uri);
+        Navigation.NavigateTo($"Culture/SelectCulture?culture={cultureEscaped}&redirectUri={uriEscaped}", forceLoad: true);
+    }
+}

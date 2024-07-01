@@ -16,8 +16,11 @@ dotnet add package MudBlazor.Translations
 ```csharp
 using MudBlazor.Translations;
 // ...
-builder.Services.AddLocalizationInterceptor<MudTranslationsInterceptor>();
+builder.Services.AddMudTranslations();
 ```
+
+To learn more about Localization in Blazor visit the [ASP.NET Core Blazor globalization and localization](https://learn.microsoft.com/en-us/aspnet/core/blazor/globalization-localization)
+documentation page.
 
 ## Supported Languages
 
