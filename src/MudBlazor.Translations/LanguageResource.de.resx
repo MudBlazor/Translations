@@ -22,7 +22,7 @@
     <value>Anwenden</value>
   </data>
   <data name="MudDataGrid.Clear" xml:space="preserve">
-    <value>Leeren</value>
+    <value>Zurücksetzen</value>
   </data>
   <data name="MudDataGrid.Cancel" xml:space="preserve">
     <value>Abbrechen</value>
@@ -52,7 +52,7 @@
     <value>Daten aktualisieren</value>
   </data>
   <data name="MudDataGrid.Unsort" xml:space="preserve">
-    <value>Nicht sortieren</value>
+    <value>Sortierung zurücksetzen</value>
   </data>
   <data name="MudDataGrid.True" xml:space="preserve">
     <value>wahr</value>
@@ -61,7 +61,7 @@
     <value>falsch</value>
   </data>
   <data name="MudDataGrid.Filter" xml:space="preserve">
-    <value>Filter</value>
+    <value>Filtern</value>
   </data>
   <data name="MudAlert_Close" xml:space="preserve">
     <value>Alert schließen</value>
