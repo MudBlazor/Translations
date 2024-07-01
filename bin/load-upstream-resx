@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+URL="https://raw.githubusercontent.com/MudBlazor/MudBlazor/dev/src/MudBlazor/Resources/LanguageResource.resx"
+OUTPUT="src/MudBlazor.Translations/LanguageResource.resx"
+
+wget -O $OUTPUT $URL
