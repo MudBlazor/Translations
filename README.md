@@ -22,7 +22,7 @@ builder.Services.AddMudTranslations();
 To learn more about Localization in Blazor visit the [ASP.NET Core Blazor globalization and localization](https://learn.microsoft.com/en-us/aspnet/core/blazor/globalization-localization)
 documentation page.
 
-## Supported Languages
+## Translation Status
 
 [![Translation status](https://hosted.weblate.org/widget/mudblazor/multi-auto.svg)](https://hosted.weblate.org/engage/mudblazor/)
 
