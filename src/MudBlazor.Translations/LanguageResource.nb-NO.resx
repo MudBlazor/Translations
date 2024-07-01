@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid.AddFilter" xml:space="preserve">
+    <value>Legg til filter</value>
+  </data>
+  <data name="MudDataGrid.Loading" xml:space="preserve">
+    <value>Laster inn …</value>
+  </data>
+  <data name="MudDataGrid.ShowAll" xml:space="preserve">
+    <value>Vis alle</value>
+  </data>
+  <data name="MudDataGrid.Columns" xml:space="preserve">
+    <value>Kolonner</value>
+  </data>
+  <data name="MudDataGrid.ExpandAllGroups" xml:space="preserve">
+    <value>Utvid alle grupper</value>
+  </data>
+  <data name="MudDataGrid.CollapseAllGroups" xml:space="preserve">
+    <value>Fold sammen alle grupper</value>
+  </data>
+  <data name="MudDataGrid.RefreshData" xml:space="preserve">
+    <value>Oppdater data</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Siste side</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Neste side</value>
+  </data>
+  <data name="MudDataGrid.Apply" xml:space="preserve">
+    <value>Bruk</value>
+  </data>
+  <data name="MudDataGrid.Clear" xml:space="preserve">
+    <value>Tøm</value>
+  </data>
+  <data name="MudDataGrid.Cancel" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="MudDataGrid.Save" xml:space="preserve">
+    <value>Lagre</value>
+  </data>
+  <data name="MudDataGrid.HideAll" xml:space="preserve">
+    <value>Skjul alle</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Første side</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Forrige side</value>
+  </data>
 </root>
