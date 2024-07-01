@@ -1,0 +1,32 @@
+name: Publish NuGet package
+
+on:
+    workflow_dispatch:
+
+env:
+    HUSKY: 0
+
+jobs:
+    build:
+
+        runs-on: ubuntu-latest
+        environment: production
+
+        steps:
+            -   uses: actions/checkout@v4
+                with:
+                    fetch-depth: 0
+            -   name: Setup .NET
+                uses: actions/setup-dotnet@v4
+                with:
+                    dotnet-version: |
+                        7.0.x
+                        8.0.x
+            -   name: Restore dependencies
+                run: dotnet restore
+            -   name: Build
+                run: dotnet build -c Release --no-restore /p:PublicRelease=true
+            -   name: Push to nuget.org
+                env:
+                    NUGET_KEY: ${{ secrets.NUGET_KEY }}
+                run: dotnet nuget push "src/*/bin/Release/*.nupkg" --api-key "$NUGET_KEY" --skip-duplicate --source https://api.nuget.org/v3/index.json
