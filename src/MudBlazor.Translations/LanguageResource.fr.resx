@@ -13,252 +13,252 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MudDataGrid.is before" xml:space="preserve">
-    <value></value>
+    <value>est avant</value>
   </data>
   <data name="MudDataGrid.MoveDown" xml:space="preserve">
-    <value></value>
+    <value>Déplacer vers le bas</value>
   </data>
   <data name="MudDataGrid.starts with" xml:space="preserve">
-    <value></value>
+    <value>commence par</value>
   </data>
   <data name="MudDataGrid.MoreThan" xml:space="preserve">
-    <value></value>
+    <value>&gt;</value>
   </data>
   <data name="MudInput_Increment" xml:space="preserve">
-    <value></value>
+    <value>Incrémenter</value>
   </data>
   <data name="MudDataGrid.Operator" xml:space="preserve">
-    <value></value>
+    <value>opérateur</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
-    <value></value>
+    <value>Changer de mode</value>
   </data>
   <data name="MudDataGrid.MoveUp" xml:space="preserve">
-    <value></value>
+    <value>Déplacer vers le haut</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
-    <value></value>
+    <value>Glissière alpha</value>
   </data>
   <data name="MudDataGrid.is" xml:space="preserve">
-    <value></value>
+    <value>est</value>
   </data>
   <data name="MudDataGrid.is not" xml:space="preserve">
-    <value></value>
+    <value>n'est pas</value>
   </data>
   <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value></value>
+    <value>Choisir couleur</value>
   </data>
   <data name="MudDataGrid.equals" xml:space="preserve">
-    <value></value>
+    <value>égal</value>
   </data>
   <data name="MudDataGrid.LessThan" xml:space="preserve">
-    <value></value>
+    <value>&lt;</value>
   </data>
   <data name="MudDataGrid.is empty" xml:space="preserve">
-    <value></value>
+    <value>est vide</value>
   </data>
   <data name="MudPagination_NextPage" xml:space="preserve">
-    <value></value>
+    <value>Prochaine page</value>
   </data>
   <data name="MudDataGrid.Columns" xml:space="preserve">
-    <value></value>
+    <value>Colonnes</value>
   </data>
   <data name="MudDataGrid.Save" xml:space="preserve">
-    <value></value>
+    <value>Sauvegarder</value>
   </data>
   <data name="MudDataGrid.MoreThanOrEqual" xml:space="preserve">
-    <value></value>
+    <value>&gt;=</value>
   </data>
   <data name="MudDataGrid.is on or before" xml:space="preserve">
-    <value></value>
+    <value>est le ou avant</value>
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
-    <value></value>
+    <value>Changer vers vue palette</value>
   </data>
   <data name="MudPagination_FirstPage" xml:space="preserve">
-    <value></value>
+    <value>Première page</value>
   </data>
   <data name="MudChip_Close" xml:space="preserve">
-    <value></value>
+    <value>Fermer puce</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
-    <value></value>
+    <value>Changer vers vue grille</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
-    <value></value>
+    <value>Fermer la bannière</value>
   </data>
   <data name="MudDataGrid.CollapseAllGroups" xml:space="preserve">
-    <value></value>
+    <value>Réduire tous les groupes</value>
   </data>
   <data name="MudDataGrid.contains" xml:space="preserve">
-    <value></value>
+    <value>contient</value>
   </data>
   <data name="MudDataGrid.Sort" xml:space="preserve">
-    <value></value>
+    <value>Trier</value>
   </data>
   <data name="MudDataGrid.FilterValue" xml:space="preserve">
-    <value></value>
+    <value>Valeur du filtre</value>
   </data>
   <data name="MudDataGrid.Apply" xml:space="preserve">
-    <value></value>
+    <value>Appliquer</value>
   </data>
   <data name="MudDataGrid.LessThanOrEqual" xml:space="preserve">
-    <value></value>
+    <value>&lt;=</value>
   </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
-    <value></value>
+    <value>Aller vers le prochain mois {0}</value>
   </data>
   <data name="MudTablePager_NextPage" xml:space="preserve">
-    <value></value>
+    <value>Prochaine page</value>
   </data>
   <data name="MudCarousel_Next" xml:space="preserve">
-    <value></value>
+    <value>Prochaine diapositive</value>
   </data>
   <data name="MudPagination_PreviousPage" xml:space="preserve">
-    <value></value>
+    <value>Page précédente</value>
   </data>
   <data name="MudDataGrid.ends with" xml:space="preserve">
-    <value></value>
+    <value>termine par</value>
   </data>
   <data name="MudInput_Clear" xml:space="preserve">
-    <value></value>
+    <value>Effacer</value>
   </data>
   <data name="MudCarousel_Index" xml:space="preserve">
-    <value></value>
+    <value>Diapositif {0}</value>
   </data>
   <data name="MudDataGrid.NotEqual" xml:space="preserve">
-    <value></value>
+    <value>!=</value>
   </data>
   <data name="MudDataGrid.HideAll" xml:space="preserve">
-    <value></value>
+    <value>Tout cacher</value>
   </data>
   <data name="MudDataGrid.RefreshData" xml:space="preserve">
-    <value></value>
+    <value>Rafraîchir données</value>
   </data>
   <data name="MudCarousel_Previous" xml:space="preserve">
-    <value></value>
+    <value>Diapositive précédente</value>
   </data>
   <data name="MudDataGrid.Ungroup" xml:space="preserve">
-    <value></value>
+    <value>Dégrouper</value>
   </data>
   <data name="MudDataGrid.Cancel" xml:space="preserve">
-    <value></value>
+    <value>Annuler</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
-    <value></value>
+    <value>Fermer boîte de dialogue</value>
   </data>
   <data name="MudDataGrid.Hide" xml:space="preserve">
-    <value></value>
+    <value>Cacher</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
-    <value></value>
+    <value>Glissière de teinte</value>
   </data>
   <data name="MudDataGrid.Loading" xml:space="preserve">
-    <value></value>
+    <value>Chargement en cours...</value>
   </data>
   <data name="MudDataGrid.Filter" xml:space="preserve">
-    <value></value>
+    <value>Filtre</value>
   </data>
   <data name="MudInput_Decrement" xml:space="preserve">
-    <value></value>
+    <value>Décrémenter</value>
   </data>
   <data name="MudAlert_Close" xml:space="preserve">
-    <value></value>
+    <value>Fermer alerte</value>
   </data>
   <data name="MudPagination_LastPage" xml:space="preserve">
-    <value></value>
+    <value>Dernière page</value>
   </data>
   <data name="MudDataGrid.Equal" xml:space="preserve">
-    <value></value>
+    <value>=</value>
   </data>
   <data name="MudDataGrid.not contains" xml:space="preserve">
-    <value></value>
+    <value>ne contient pas</value>
   </data>
   <data name="MudDataGrid.ExpandAllGroups" xml:space="preserve">
-    <value></value>
+    <value>Étendre tous les groupes</value>
   </data>
   <data name="MudDataGrid.is not empty" xml:space="preserve">
-    <value></value>
+    <value>n'est pas vide</value>
   </data>
   <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value></value>
+    <value>Basculer aperçu de couleur choisie</value>
   </data>
   <data name="MudDataGrid.True" xml:space="preserve">
-    <value></value>
+    <value>vrai</value>
   </data>
   <data name="MudDataGrid.Value" xml:space="preserve">
-    <value></value>
+    <value>Valeur</value>
   </data>
   <data name="MudDataGrid.AddFilter" xml:space="preserve">
-    <value></value>
+    <value>Ajouter filtre</value>
   </data>
   <data name="MudDataGrid.ShowAll" xml:space="preserve">
-    <value></value>
+    <value>Tout afficher</value>
   </data>
   <data name="MudPagination_PageIndex" xml:space="preserve">
-    <value></value>
+    <value>Page {0}</value>
   </data>
   <data name="MudDataGrid.Group" xml:space="preserve">
-    <value></value>
+    <value>Grouper</value>
   </data>
   <data name="MudTablePager_LastPage" xml:space="preserve">
-    <value></value>
+    <value>Dernière page</value>
   </data>
   <data name="MudDataGrid.False" xml:space="preserve">
-    <value></value>
+    <value>faux</value>
   </data>
   <data name="MudRatingItem_Label" xml:space="preserve">
-    <value></value>
+    <value>Évaluation {0}</value>
   </data>
   <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
-    <value></value>
+    <value>Sommaire</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
-    <value></value>
+    <value>Aller vers l'année précédente {0}</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
-    <value></value>
+    <value>Fermer sélecteur</value>
   </data>
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
-    <value></value>
+    <value>Aller vers le mois précédent {0}</value>
   </data>
   <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value></value>
+    <value>Choisir couleur palette</value>
   </data>
   <data name="MudTablePager_FirstPage" xml:space="preserve">
-    <value></value>
+    <value>Première page</value>
   </data>
   <data name="MudPagination_CurrentPage" xml:space="preserve">
-    <value></value>
+    <value>Page actuelle {0}</value>
   </data>
   <data name="MudDataGrid.Clear" xml:space="preserve">
-    <value></value>
+    <value>Effacer</value>
   </data>
   <data name="MudTablePager_PreviousPage" xml:space="preserve">
-    <value></value>
+    <value>Page précédente</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
-    <value></value>
+    <value>Changer vers vue spectre</value>
   </data>
   <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
-    <value></value>
+    <value>Basculer {0}</value>
   </data>
   <data name="MudDataGrid.not equals" xml:space="preserve">
-    <value></value>
+    <value>pas égal</value>
   </data>
   <data name="MudDataGrid.is after" xml:space="preserve">
-    <value></value>
+    <value>est après</value>
   </data>
   <data name="MudDataGrid.is on or after" xml:space="preserve">
-    <value></value>
+    <value>est le ou après</value>
   </data>
   <data name="MudDataGrid.Column" xml:space="preserve">
-    <value></value>
+    <value>Colonne</value>
   </data>
   <data name="MudDataGrid.Unsort" xml:space="preserve">
-    <value></value>
+    <value>Désactiver le tri</value>
   </data>
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
-    <value></value>
+    <value>Aller vers la prochaine année {0}</value>
   </data>
 </root>
