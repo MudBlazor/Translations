@@ -1,6 +1,7 @@
 [![GitHub](https://img.shields.io/github/license/meenzen/MudBlazor.Translations.svg)](https://github.com/meenzen/MudBlazor.Translations/blob/main/LICENSE)
 [![NuGet](https://img.shields.io/nuget/v/MudBlazor.Translations.svg)](https://www.nuget.org/packages/MudBlazor.Translations)
 [![NuGet](https://img.shields.io/nuget/dt/MudBlazor.Translations.svg)](https://www.nuget.org/packages/MudBlazor.Translations)
+[![Translation status](https://hosted.weblate.org/widget/mudblazor/svg-badge.svg)](https://hosted.weblate.org/engage/mudblazor/)
 
 # MudBlazor.Translations
 
@@ -13,12 +14,18 @@ dotnet add package MudBlazor.Translations
 ```
 
 ```csharp
-// todo
+using MudBlazor.Translations;
+// ...
+builder.Services.AddLocalizationInterceptor<MudTranslationsInterceptor>();
 ```
+
+## Supported Languages
+
+[![Translation status](https://hosted.weblate.org/widget/mudblazor/multi-auto.svg)](https://hosted.weblate.org/engage/mudblazor/)
 
 ## Contributing
 
-todo
+If you want to contribute to the translations, please visit the [Weblate project](https://hosted.weblate.org/engage/mudblazor/).
 
 ## License
 
