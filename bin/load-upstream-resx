@@ -3,4 +3,18 @@
 URL="https://raw.githubusercontent.com/MudBlazor/MudBlazor/dev/src/MudBlazor/Resources/LanguageResource.resx"
 OUTPUT="src/MudBlazor.Translations/LanguageResource.resx"
 
+replacements=(
+    "MudDataGrid.!=|MudDataGrid.NotEqual"
+    "MudDataGrid.=|MudDataGrid.Equal"
+    "MudDataGrid.&gt;=|MudDataGrid.MoreThanOrEqual"
+    "MudDataGrid.&gt;|MudDataGrid.MoreThan"
+    "MudDataGrid.&lt;=|MudDataGrid.LessThanOrEqual"
+    "MudDataGrid.&lt;|MudDataGrid.LessThan"
+)
+
 wget -O $OUTPUT $URL
+
+for replacement in "${replacements[@]}"; do
+    IFS="|" read -r -a parts <<< "$replacement"
+    sed -i "s/${parts[0]}/${parts[1]}/g" $OUTPUT
+done

@@ -201,22 +201,22 @@
   <data name="MudDataGrid.is not empty" xml:space="preserve">
     <value>is not empty</value>
   </data>
-  <data name="MudDataGrid.=" xml:space="preserve">
+  <data name="MudDataGrid.Equal" xml:space="preserve">
     <value>=</value>
   </data>
-  <data name="MudDataGrid.!=" xml:space="preserve">
+  <data name="MudDataGrid.NotEqual" xml:space="preserve">
     <value>!=</value>
   </data>
-  <data name="MudDataGrid.&gt;" xml:space="preserve">
+  <data name="MudDataGrid.MoreThan" xml:space="preserve">
     <value>&gt;</value>
   </data>
-  <data name="MudDataGrid.&gt;=" xml:space="preserve">
+  <data name="MudDataGrid.MoreThanOrEqual" xml:space="preserve">
     <value>&gt;=</value>
   </data>
-  <data name="MudDataGrid.&lt;" xml:space="preserve">
+  <data name="MudDataGrid.LessThan" xml:space="preserve">
     <value>&lt;</value>
   </data>
-  <data name="MudDataGrid.&lt;=" xml:space="preserve">
+  <data name="MudDataGrid.LessThanOrEqual" xml:space="preserve">
     <value>&lt;=</value>
   </data>
   <data name="MudDataGrid.is" xml:space="preserve">

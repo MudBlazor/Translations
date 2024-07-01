@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFrameworks>netstandard2.0;net8.0</TargetFrameworks>
+        <TargetFramework>net8.0</TargetFramework>
 
         <PackageId>MudBlazor.Translations</PackageId>
         <PackageDescription>Community translations for the MudBlazor component library.</PackageDescription>
@@ -9,10 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="PolySharp" Version="1.14.1">
-            <PrivateAssets>all</PrivateAssets>
-            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-        </PackageReference>
+        <PackageReference Include="MudBlazor" Version="7.0.0" />
         <PackageReference Include="Microsoft.CodeAnalysis.ResxSourceGenerator" Version="3.11.0-beta1.24225.1">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -23,6 +20,7 @@
         <EmbeddedResource Update="*.resx">
             <EmitFormatMethods>true</EmitFormatMethods>
             <Public>true</Public>
+            <AsConstants>true</AsConstants>
         </EmbeddedResource>
     </ItemGroup>
 
