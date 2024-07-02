@@ -7,19 +7,35 @@
 
 Community translations for the MudBlazor component library.
 
+## Compatibility
+
+| MudBlazor | MudBlazor.Translations |
+|-----------|------------------------|
+| 7.x.x     | 1.x.x                  |
+
 ## Installation
+
+Install the package
 
 ```bash
 dotnet add package MudBlazor.Translations
 ```
 
+Add the following to the relevant sections of `Program.cs`
+
 ```csharp
 using MudBlazor.Translations;
-// ...
+```
+
+```csharp
 builder.Services.AddMudTranslations();
 ```
 
-To learn more about Localization in Blazor visit the [ASP.NET Core Blazor globalization and localization](https://learn.microsoft.com/en-us/aspnet/core/blazor/globalization-localization)
+> [!IMPORTANT]
+> Blazor localization needs to be configured, otherwise Blazor will default to English.
+
+To learn more about Localization in Blazor visit
+the [ASP.NET Core Blazor globalization and localization](https://learn.microsoft.com/en-us/aspnet/core/blazor/globalization-localization)
 documentation page.
 
 ## Translation Status
@@ -28,7 +44,8 @@ documentation page.
 
 ## Contributing
 
-If you want to contribute to the translations, please visit the [Weblate project](https://hosted.weblate.org/engage/mudblazor/).
+If you want to contribute to the translations, please visit
+the [Weblate project](https://hosted.weblate.org/engage/mudblazor/).
 
 ## License
 
