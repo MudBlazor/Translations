@@ -205,7 +205,7 @@
     <value>ist nicht</value>
   </data>
   <data name="MudDataGrid.is after" xml:space="preserve">
-    <value>ist hinter</value>
+    <value>ist nach</value>
   </data>
   <data name="MudDataGrid.Operator" xml:space="preserve">
     <value>Operator</value>
@@ -232,7 +232,7 @@
     <value>Erhöhen</value>
   </data>
   <data name="MudDataGrid.MoveUp" xml:space="preserve">
-    <value>Nach oben bewegen</value>
+    <value>Nach oben verschieben</value>
   </data>
   <data name="MudDataGrid.Sort" xml:space="preserve">
     <value>Sortieren</value>

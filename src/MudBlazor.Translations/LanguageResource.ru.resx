@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MudDataGrid.Apply" xml:space="preserve">
+    <value>Применить</value>
+  </data>
+  <data name="MudDataGrid.Clear" xml:space="preserve">
+    <value>Стереть</value>
+  </data>
+  <data name="MudDataGrid.Cancel" xml:space="preserve">
+    <value>Отменить</value>
+  </data>
+  <data name="MudDataGrid.HideAll" xml:space="preserve">
+    <value>Скрыть Все</value>
+  </data>
+  <data name="MudDataGrid.RefreshData" xml:space="preserve">
+    <value>Обновить Данные</value>
+  </data>
+  <data name="MudDataGrid.Filter" xml:space="preserve">
+    <value>Фильтр</value>
+  </data>
+  <data name="MudDataGrid.AddFilter" xml:space="preserve">
+    <value>Добавить Фильтр</value>
+  </data>
+  <data name="MudDataGrid.starts with" xml:space="preserve">
+    <value>начинается с</value>
+  </data>
+  <data name="MudDataGrid.Loading" xml:space="preserve">
+    <value>Загрузка...</value>
+  </data>
+  <data name="MudDataGrid.Save" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="MudDataGrid.Columns" xml:space="preserve">
+    <value>Столбцы</value>
+  </data>
+  <data name="MudDataGrid.Hide" xml:space="preserve">
+    <value>Скрыть</value>
+  </data>
+  <data name="MudDataGrid.ExpandAllGroups" xml:space="preserve">
+    <value>Раскрыть Все Группы</value>
+  </data>
+  <data name="MudDataGrid.ShowAll" xml:space="preserve">
+    <value>Показать Все</value>
+  </data>
+  <data name="MudDataGrid.CollapseAllGroups" xml:space="preserve">
+    <value>Скрыть Все Группы</value>
+  </data>
+  <data name="MudDataGrid.Group" xml:space="preserve">
+    <value>Группировать</value>
+  </data>
+  <data name="MudDataGrid.FilterValue" xml:space="preserve">
+    <value>Значение фильтра</value>
+  </data>
+  <data name="MudDataGrid.equals" xml:space="preserve">
+    <value>равно</value>
+  </data>
+  <data name="MudDataGrid.Ungroup" xml:space="preserve">
+    <value>Разгруппировать</value>
+  </data>
+  <data name="MudDataGrid.contains" xml:space="preserve">
+    <value>содержит</value>
+  </data>
+  <data name="MudDataGrid.not contains" xml:space="preserve">
+    <value>не содержит</value>
+  </data>
+  <data name="MudDataGrid.is empty" xml:space="preserve">
+    <value>пустой</value>
+  </data>
+  <data name="MudDataGrid.Equal" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid.not equals" xml:space="preserve">
+    <value>не равно</value>
+  </data>
+  <data name="MudDataGrid.ends with" xml:space="preserve">
+    <value>заканчивается</value>
+  </data>
+  <data name="MudDataGrid.is not empty" xml:space="preserve">
+    <value>не пустой</value>
+  </data>
+  <data name="MudDataGrid.NotEqual" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid.MoreThan" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid.MoreThanOrEqual" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid.LessThan" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid.LessThanOrEqual" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid.Operator" xml:space="preserve">
+    <value>Оператор</value>
+  </data>
+  <data name="MudDataGrid.Value" xml:space="preserve">
+    <value>Значение</value>
+  </data>
+  <data name="MudDataGrid.True" xml:space="preserve">
+    <value>истина</value>
+  </data>
+  <data name="MudDataGrid.False" xml:space="preserve">
+    <value>ложь</value>
+  </data>
+  <data name="MudDataGrid.Unsort" xml:space="preserve">
+    <value>Разупорядочивать</value>
+  </data>
+  <data name="MudDataGrid.Column" xml:space="preserve">
+    <value>Столбец</value>
+  </data>
+  <data name="MudDataGrid.Sort" xml:space="preserve">
+    <value>Упорядочивать</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Последняя страница</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Увеличить</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Текущая страница {0}</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Следущая страница</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Очистить</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Уменьшить</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Предыдущая страница</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Следущая страница</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Закрыть уведомление</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Страница {0}</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Переключить Режим</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Первая страница</value>
+  </data>
+</root>
