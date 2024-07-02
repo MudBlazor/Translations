@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,103 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid.Apply" xml:space="preserve">
+    <value>Применить</value>
+  </data>
+  <data name="MudDataGrid.Clear" xml:space="preserve">
+    <value>Стереть</value>
+  </data>
+  <data name="MudDataGrid.Cancel" xml:space="preserve">
+    <value>Отменить</value>
+  </data>
+  <data name="MudDataGrid.HideAll" xml:space="preserve">
+    <value>Скрыть Все</value>
+  </data>
+  <data name="MudDataGrid.RefreshData" xml:space="preserve">
+    <value>Обновить Данные</value>
+  </data>
+  <data name="MudDataGrid.Filter" xml:space="preserve">
+    <value>Фильтр</value>
+  </data>
+  <data name="MudDataGrid.AddFilter" xml:space="preserve">
+    <value>Добавить Фильтр</value>
+  </data>
+  <data name="MudDataGrid.starts with" xml:space="preserve">
+    <value>начинается с</value>
+  </data>
+  <data name="MudDataGrid.Loading" xml:space="preserve">
+    <value>Загрузка...</value>
+  </data>
+  <data name="MudDataGrid.Save" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="MudDataGrid.Columns" xml:space="preserve">
+    <value>Столбцы</value>
+  </data>
+  <data name="MudDataGrid.Hide" xml:space="preserve">
+    <value>Скрыть</value>
+  </data>
+  <data name="MudDataGrid.ExpandAllGroups" xml:space="preserve">
+    <value>Раскрыть Все Группы</value>
+  </data>
+  <data name="MudDataGrid.ShowAll" xml:space="preserve">
+    <value>Показать Все</value>
+  </data>
+  <data name="MudDataGrid.CollapseAllGroups" xml:space="preserve">
+    <value>Скрыть Все Группы</value>
+  </data>
+  <data name="MudDataGrid.Group" xml:space="preserve">
+    <value>Группировать</value>
+  </data>
+  <data name="MudDataGrid.FilterValue" xml:space="preserve">
+    <value>Значение фильтра</value>
+  </data>
+  <data name="MudDataGrid.equals" xml:space="preserve">
+    <value>равно</value>
+  </data>
+  <data name="MudDataGrid.Ungroup" xml:space="preserve">
+    <value>Разгруппировать</value>
+  </data>
+  <data name="MudDataGrid.contains" xml:space="preserve">
+    <value>содержит</value>
+  </data>
+  <data name="MudDataGrid.not contains" xml:space="preserve">
+    <value>не содержит</value>
+  </data>
+  <data name="MudDataGrid.is empty" xml:space="preserve">
+    <value>пустой</value>
+  </data>
+  <data name="MudDataGrid.Equal" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid.not equals" xml:space="preserve">
+    <value>не равно</value>
+  </data>
+  <data name="MudDataGrid.ends with" xml:space="preserve">
+    <value>заканчивается</value>
+  </data>
+  <data name="MudDataGrid.is not empty" xml:space="preserve">
+    <value>не пустой</value>
+  </data>
+  <data name="MudDataGrid.NotEqual" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid.MoreThan" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid.MoreThanOrEqual" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid.LessThan" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid.LessThanOrEqual" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid.Operator" xml:space="preserve">
+    <value>Оператор</value>
+  </data>
+  <data name="MudDataGrid.Value" xml:space="preserve">
+    <value>Значение</value>
+  </data>
 </root>
