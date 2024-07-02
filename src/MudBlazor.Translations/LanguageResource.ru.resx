@@ -157,4 +157,55 @@
   <data name="MudDataGrid.Value" xml:space="preserve">
     <value>Значение</value>
   </data>
+  <data name="MudDataGrid.True" xml:space="preserve">
+    <value>истина</value>
+  </data>
+  <data name="MudDataGrid.False" xml:space="preserve">
+    <value>ложь</value>
+  </data>
+  <data name="MudDataGrid.Unsort" xml:space="preserve">
+    <value>Разупорядочивать</value>
+  </data>
+  <data name="MudDataGrid.Column" xml:space="preserve">
+    <value>Столбец</value>
+  </data>
+  <data name="MudDataGrid.Sort" xml:space="preserve">
+    <value>Упорядочивать</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Последняя страница</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Увеличить</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Текущая страница {0}</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Следущая страница</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Очистить</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Уменьшить</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Предыдущая страница</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Следущая страница</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Закрыть уведомление</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Страница {0}</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Переключить Режим</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Первая страница</value>
+  </data>
 </root>
