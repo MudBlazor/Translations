@@ -8,6 +8,7 @@ namespace MudBlazor.Translations;
 /// </summary>
 public class MudTranslationsInterceptor : ILocalizationInterceptor
 {
+    /// <inheritdoc />
     public LocalizedString Handle(string key, params object[] arguments)
     {
         // rewrite upstream key to match overrides

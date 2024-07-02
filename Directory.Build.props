@@ -11,7 +11,7 @@
 
         <Company>MudBlazor</Company>
         <Authors>Samuel Meenzen, MudBlazor Contributors</Authors>
-        <PackageTags>Blazor, MudBlazor, Material, Material-Design, Components, Blazor-Components, Blazor-Library</PackageTags>
+        <PackageTags>Blazor, MudBlazor, Material, Material-Design, Components, Blazor-Components, Blazor-Library, Localization, Localize, Resource, Resx, Globalization</PackageTags>
         <RepositoryUrl>https://github.com/MudBlazor/Translations</RepositoryUrl>
         <PackageProjectUrl>https://mudblazor.com/</PackageProjectUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
