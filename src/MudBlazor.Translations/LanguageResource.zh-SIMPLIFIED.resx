@@ -242,13 +242,13 @@
     <value>转至上个月 {0}</value>
   </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
-    <value>转到下个月</value>
+    <value>转到下个月 {0}</value>
   </data>
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
     <value>转到下一年 {0}</value>
   </data>
   <data name="MudPagination_CurrentPage" xml:space="preserve">
-    <value>当前页面</value>
+    <value>当前页面 {0}</value>
   </data>
   <data name="MudPagination_FirstPage" xml:space="preserve">
     <value>第一页</value>
