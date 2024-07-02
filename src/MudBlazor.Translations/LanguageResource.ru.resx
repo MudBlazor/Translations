@@ -208,4 +208,103 @@
   <data name="MudPagination_FirstPage" xml:space="preserve">
     <value>Первая страница</value>
   </data>
+  <data name="MudDataGrid.is not" xml:space="preserve">
+    <value>не является</value>
+  </data>
+  <data name="MudDataGrid.is after" xml:space="preserve">
+    <value>после</value>
+  </data>
+  <data name="MudDataGrid.is before" xml:space="preserve">
+    <value>раньше</value>
+  </data>
+  <data name="MudDataGrid.is" xml:space="preserve">
+    <value>является</value>
+  </data>
+  <data name="MudDataGrid.is on or after" xml:space="preserve">
+    <value>включено или позже</value>
+  </data>
+  <data name="MudDataGrid.is on or before" xml:space="preserve">
+    <value>включено или раньше</value>
+  </data>
+  <data name="MudDataGrid.MoveUp" xml:space="preserve">
+    <value>Двигаться Вверх</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Переключить {0}</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Закрыть Чип</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Переключиться на Вид Сетки</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Переключиться на Вид Палитры</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Слайдер Оттенка</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Альфа Слайдер</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>Выберите Цвет Палитры</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Закрыть Выбор</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Перейти к предыдущему году {0}</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Оглавление</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Закрыть диалог</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Предыдущая страница</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Перейти к следующему</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} Рейтинг</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Индекс {0}</value>
+  </data>
+  <data name="MudColorPicker_ColorDot" xml:space="preserve">
+    <value>Выбор Цвета Точки</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Первая страница</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Последняя страница</value>
+  </data>
+  <data name="MudDataGrid.MoveDown" xml:space="preserve">
+    <value>Двигаться Вниз</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Закрыть Оповещение</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Перейти к следующему году {0}</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Переключиться на Просмотр Спектра</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Перейти к предыдущему месяцу {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Перейти к следующему месяцу {0}</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Перейти к предыдущему</value>
+  </data>
+  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
+    <value>Переключить Текущий Цвет</value>
+  </data>
 </root>
