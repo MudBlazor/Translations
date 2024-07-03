@@ -41,10 +41,8 @@ resharper_web_config_module_not_resolved_highlighting = warning
 resharper_web_config_type_not_resolved_highlighting = warning
 resharper_web_config_wrong_module_highlighting = warning
 
-# Resx files
-[*.resx]
+[*.{resx,csproj,Build.props}]
 indent_size = 2
-indent_style = 2
 
 # C# files
 [*.cs]
