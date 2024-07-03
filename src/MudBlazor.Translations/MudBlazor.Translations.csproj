@@ -1,36 +1,43 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-    <PropertyGroup>
-        <TargetFrameworks>net7.0;net8.0</TargetFrameworks>
+  <PropertyGroup>
+    <TargetFrameworks>net7.0;net8.0</TargetFrameworks>
 
-        <PackageId>MudBlazor.Translations</PackageId>
-        <PackageDescription>Community translations for the MudBlazor component library.</PackageDescription>
-        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    </PropertyGroup>
+    <PackageId>MudBlazor.Translations</PackageId>
+    <PackageDescription>Community translations for the MudBlazor component library.</PackageDescription>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
 
-    <ItemGroup>
-        <PackageReference Include="MudBlazor" Version="7.0.0" />
-        <PackageReference Include="Microsoft.CodeAnalysis.ResxSourceGenerator" Version="3.11.0-beta1.24225.1">
-            <PrivateAssets>all</PrivateAssets>
-            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-        </PackageReference>
-    </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MudBlazor" Version="7.0.0" />
+    <PackageReference Include="Microsoft.CodeAnalysis.ResxSourceGenerator" Version="3.11.0-beta1.24225.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
 
-    <ItemGroup>
-        <EmbeddedResource Update="*.resx">
-            <EmitFormatMethods>true</EmitFormatMethods>
-            <Public>true</Public>
-            <AsConstants>true</AsConstants>
-        </EmbeddedResource>
-    </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="*.resx">
+      <EmitFormatMethods>true</EmitFormatMethods>
+      <Public>true</Public>
+      <AsConstants>true</AsConstants>
+    </EmbeddedResource>
+  </ItemGroup>
 
-    <ItemGroup>
-        <None Include="../../README.md" Pack="true" PackagePath="/"/>
-    </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\$(PackageIcon)">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\$(PackageReadmeFile)">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
-    <Target Name="Husky" BeforeTargets="Restore;CollectPackageReferences" Condition="'$(HUSKY)' != 0 and '$(IsCrossTargetingBuild)' == 'true'">
-        <Exec Command="dotnet tool restore" StandardOutputImportance="Low" StandardErrorImportance="High"/>
-        <Exec Command="dotnet husky install" StandardOutputImportance="Low" StandardErrorImportance="High" WorkingDirectory="../.."/>
-    </Target>
+  <Target Name="Husky" BeforeTargets="Restore;CollectPackageReferences" Condition="'$(HUSKY)' != 0 and '$(IsCrossTargetingBuild)' == 'true'">
+    <Exec Command="dotnet tool restore" StandardOutputImportance="Low" StandardErrorImportance="High"/>
+    <Exec Command="dotnet husky install" StandardOutputImportance="Low" StandardErrorImportance="High" WorkingDirectory="../.."/>
+  </Target>
 
 </Project>
