@@ -24,11 +24,14 @@ public class MudTranslationsInterceptor : ILocalizationInterceptor
         };
 
         bool notFound = false;
-        string? translation = LanguageResource.ResourceManager.GetString(fixedKey, CultureInfo.CurrentCulture);
+        string? translation = LanguageResource.ResourceManager.GetString(fixedKey, CultureInfo.CurrentUICulture);
 
         // Weblate likes to create empty stubs for missing translations, so we need to ignore those and
         // use english as a fallback.
-        if (!Equals(CultureInfo.CurrentCulture, CultureInfo.InvariantCulture) && string.IsNullOrWhiteSpace(translation))
+        if (
+            !Equals(CultureInfo.CurrentUICulture, CultureInfo.InvariantCulture)
+            && string.IsNullOrWhiteSpace(translation)
+        )
         {
             translation = LanguageResource.ResourceManager.GetString(fixedKey, CultureInfo.InvariantCulture);
             notFound = true;

@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudBlazor.Translations", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudBlazor.Translations.SampleApp", "test\MudBlazor.Translations.SampleApp\MudBlazor.Translations.SampleApp.csproj", "{0A9D5D8B-662C-4998-96DF-03C9F12742FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudBlazor.Translations.Tests", "test\MudBlazor.Translations.Tests\MudBlazor.Translations.Tests.csproj", "{0110C313-69E9-459F-90F1-4E33B60DE710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0A9D5D8B-662C-4998-96DF-03C9F12742FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A9D5D8B-662C-4998-96DF-03C9F12742FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A9D5D8B-662C-4998-96DF-03C9F12742FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0110C313-69E9-459F-90F1-4E33B60DE710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0110C313-69E9-459F-90F1-4E33B60DE710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0110C313-69E9-459F-90F1-4E33B60DE710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0110C313-69E9-459F-90F1-4E33B60DE710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
