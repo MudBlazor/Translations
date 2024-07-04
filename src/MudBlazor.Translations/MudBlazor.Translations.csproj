@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <EmbeddedResource Update="*.resx">
-      <EmitFormatMethods>true</EmitFormatMethods>
       <Public>true</Public>
       <AsConstants>true</AsConstants>
     </EmbeddedResource>
