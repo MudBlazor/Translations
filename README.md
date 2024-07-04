@@ -2,6 +2,7 @@
 [![NuGet](https://img.shields.io/nuget/v/MudBlazor.Translations.svg)](https://www.nuget.org/packages/MudBlazor.Translations)
 [![NuGet](https://img.shields.io/nuget/dt/MudBlazor.Translations.svg)](https://www.nuget.org/packages/MudBlazor.Translations)
 [![Translation status](https://hosted.weblate.org/widget/mudblazor/svg-badge.svg)](https://hosted.weblate.org/engage/mudblazor/)
+[![Discord](https://img.shields.io/discord/786656789310865418?color=%237289da&label=Discord&logo=discord&logoColor=%237289da&style=flat-square)](https://discord.gg/mudblazor)
 
 # MudBlazor.Translations
 
@@ -42,11 +43,15 @@ documentation page.
 
 [![Translation status](https://hosted.weblate.org/widget/mudblazor/multi-auto.svg)](https://hosted.weblate.org/engage/mudblazor/)
 
-## Contributing
-
-If you want to contribute to the translations, please visit
-the [Weblate project](https://hosted.weblate.org/engage/mudblazor/).
-
 ## License
 
-Distributed under the [MIT License](https://choosealicense.com/licenses/mit/). See `LICENSE` for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+
+## Contributing
+
+Contributions are welcome! Please see the [CONTRIBUTING](CONTRIBUTING.md) guide for more details.
+
+## Contact
+
+For questions or support, please open an issue on this repository.
+
