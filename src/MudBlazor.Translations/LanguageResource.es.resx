@@ -52,7 +52,7 @@
     <value />
   </data>
   <data name="MudDataGrid.Apply" xml:space="preserve">
-    <value />
+    <value>Aplicar</value>
   </data>
   <data name="MudDataGrid.Hide" xml:space="preserve">
     <value />
