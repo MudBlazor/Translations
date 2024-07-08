@@ -11,20 +11,8 @@ public class MudTranslationsInterceptor : ILocalizationInterceptor
     /// <inheritdoc />
     public LocalizedString Handle(string key, params object[] arguments)
     {
-        // rewrite upstream key to match overrides
-        string fixedKey = key switch
-        {
-            "MudDataGrid.=" => "MudDataGrid.Equal",
-            "MudDataGrid.!=" => "MudDataGrid.NotEqual",
-            "MudDataGrid.>" => "MudDataGrid.MoreThan",
-            "MudDataGrid.>=" => "MudDataGrid.MoreThanOrEqual",
-            "MudDataGrid.<" => "MudDataGrid.LessThan",
-            "MudDataGrid.<=" => "MudDataGrid.LessThanOrEqual",
-            _ => key
-        };
-
         bool notFound = false;
-        string? translation = LanguageResource.ResourceManager.GetString(fixedKey, CultureInfo.CurrentUICulture);
+        string? translation = LanguageResource.ResourceManager.GetString(key, CultureInfo.CurrentUICulture);
 
         // Weblate likes to create empty stubs for missing translations, so we need to ignore those and
         // use english as a fallback.
@@ -33,7 +21,7 @@ public class MudTranslationsInterceptor : ILocalizationInterceptor
             && string.IsNullOrWhiteSpace(translation)
         )
         {
-            translation = LanguageResource.ResourceManager.GetString(fixedKey, CultureInfo.InvariantCulture);
+            translation = LanguageResource.ResourceManager.GetString(key, CultureInfo.InvariantCulture);
             notFound = true;
         }
 
