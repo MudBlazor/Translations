@@ -307,4 +307,133 @@
   <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
     <value>Переключить Текущий Цвет</value>
   </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Столбцы</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Загрузка...</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Скрыть Все</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Показать Все</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Разупорядочивать</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>не пустой</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Двигаться Вверх</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>равно</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>является</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>раньше</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>не равно</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>заканчивается</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>не является</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>после</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>включено или позже</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Оператор</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Значение</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Добавить Фильтр</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Раскрыть Все Группы</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Скрыть Все Группы</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Обновить Данные</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>истина</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>ложь</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Скрыть</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Разгруппировать</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Группировать</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Значение фильтра</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>содержит</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>не содержит</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>начинается с</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>пустой</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>включено или раньше</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Столбец</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Отменить</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Фильтр</value>
+  </data>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>Применить</value>
+  </data>
 </root>
