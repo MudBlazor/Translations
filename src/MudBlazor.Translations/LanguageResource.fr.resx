@@ -43,7 +43,7 @@
     <value>Fermer la bannière</value>
   </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
-    <value>Aller vers le prochain mois {0}</value>
+    <value>Prochain mois {0}</value>
   </data>
   <data name="MudTablePager_NextPage" xml:space="preserve">
     <value>Prochaine page</value>
@@ -94,13 +94,13 @@
     <value>Sommaire</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
-    <value>Aller vers l'année précédente {0}</value>
+    <value>Année précédente {0}</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
     <value>Fermer sélecteur</value>
   </data>
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
-    <value>Aller vers le mois précédent {0}</value>
+    <value>Mois précédent {0}</value>
   </data>
   <data name="MudColorPicker_PaletteColor" xml:space="preserve">
     <value>Choisir couleur palette</value>
@@ -121,7 +121,7 @@
     <value>Basculer {0}</value>
   </data>
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
-    <value>Aller vers la prochaine année {0}</value>
+    <value>Prochaine année {0}</value>
   </data>
   <data name="MudDataGrid_True" xml:space="preserve">
     <value>vrai</value>
@@ -248,5 +248,17 @@
   </data>
   <data name="MudDataGrid_Sort" xml:space="preserve">
     <value>Trier</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Cacher</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>est le ou après</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Déplacer vers le bas</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Déplacer vers le haut</value>
   </data>
 </root>
