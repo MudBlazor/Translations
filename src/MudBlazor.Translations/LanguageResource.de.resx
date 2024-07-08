@@ -94,13 +94,13 @@
     <value>Modus wechseln</value>
   </data>
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
-    <value>Zum nächsten Jahr {0}</value>
+    <value>Nächstes Jahr {0}</value>
   </data>
   <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
     <value>Inhaltsverzeichnis</value>
   </data>
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
-    <value>Zum vorherigen Monat {0}</value>
+    <value>Vorheriger Monat {0}</value>
   </data>
   <data name="MudPagination_CurrentPage" xml:space="preserve">
     <value>Aktuelle Seite {0}</value>
@@ -127,13 +127,13 @@
     <value>Index {0}</value>
   </data>
   <data name="MudCarousel_Next" xml:space="preserve">
-    <value>Zur nächsten Seite</value>
+    <value>Nächstes</value>
   </data>
   <data name="MudRatingItem_Label" xml:space="preserve">
     <value>{0} Bewertung</value>
   </data>
   <data name="MudCarousel_Previous" xml:space="preserve">
-    <value>Zur vorherigen Seite</value>
+    <value>Vorheriges</value>
   </data>
   <data name="MudDataGrid.Ungroup" xml:space="preserve">
     <value>Gruppierung aufheben</value>
@@ -184,13 +184,13 @@
     <value>!=</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
-    <value>Zum vorherigen Jahr {0}</value>
+    <value>Vorheriges Jahr {0}</value>
   </data>
   <data name="MudDataGrid.MoreThan" xml:space="preserve">
     <value>&gt;</value>
   </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
-    <value>Zum nächsten Monat {0}</value>
+    <value>Nächster Monat {0}</value>
   </data>
   <data name="MudDataGrid.LessThan" xml:space="preserve">
     <value>&lt;</value>
