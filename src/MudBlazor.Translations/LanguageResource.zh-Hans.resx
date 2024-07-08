@@ -307,4 +307,94 @@
   <data name="MudSnackbar_Close" xml:space="preserve">
     <value>关闭小吃吧</value>
   </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>显示所有</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>列</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>展开全部组</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>伪</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>过滤值</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>包含</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>以。。开始</value>
+  </data>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>申请</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>取消排序</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>藏</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>是空的</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>不包含</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>清除</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>加载中...</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>添加筛选器</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>筛选</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>以。。结束</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>全部藏起来</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>折叠所有组</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>刷新数据</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>真</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>取消群组</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>分组分组</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>等于</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>不等于</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>不为空</value>
+  </data>
 </root>
