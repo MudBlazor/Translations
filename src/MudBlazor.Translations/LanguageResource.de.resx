@@ -261,4 +261,13 @@
   <data name="MudDataGrid_Sort" xml:space="preserve">
     <value>Sortieren</value>
   </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Zeilen pro Seite:</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Alle</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} von {2}</value>
+  </data>
 </root>
