@@ -261,4 +261,13 @@
   <data name="MudDataGrid_MoveUp" xml:space="preserve">
     <value>Déplacer vers le haut</value>
   </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Lignes par page :</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Tous</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} de {2}</value>
+  </data>
 </root>
