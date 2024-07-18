@@ -16,13 +16,13 @@
     <value>Alternar {0}</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
-    <value />
+    <value>Cerrar selector</value>
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
-    <value />
+    <value>Cambiar a la vista de paleta</value>
   </data>
   <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value />
+    <value>Alternar color actual</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Control deslizante del tono</value>
@@ -43,7 +43,7 @@
     <value>{0} Valoración</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
-    <value />
+    <value>Cambiar vista de rango</value>
   </data>
   <data name="MudTablePager_NextPage" xml:space="preserve">
     <value>Siguiente página</value>
@@ -55,28 +55,28 @@
     <value>Cerrar notificación</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
-    <value />
+    <value>Cambiar a la vista de cuadrícula</value>
   </data>
   <data name="MudPagination_NextPage" xml:space="preserve">
     <value>Siguiente página</value>
   </data>
   <data name="MudPagination_FirstPage" xml:space="preserve">
-    <value />
+    <value>Primera página</value>
   </data>
   <data name="MudChip_Close" xml:space="preserve">
-    <value />
+    <value>Cerrar Chip</value>
   </data>
   <data name="MudColorPicker_PaletteColor" xml:space="preserve">
     <value>Seleccione el color de la paleta</value>
   </data>
   <data name="MudAlert_Close" xml:space="preserve">
-    <value />
+    <value>Cerrar alerta</value>
   </data>
   <data name="MudTablePager_FirstPage" xml:space="preserve">
-    <value />
+    <value>Primera página</value>
   </data>
   <data name="MudInput_Clear" xml:space="preserve">
-    <value />
+    <value>Limpiar</value>
   </data>
   <data name="MudCarousel_Next" xml:space="preserve">
     <value>Siguiente</value>
@@ -85,10 +85,10 @@
     <value>Aumentar</value>
   </data>
   <data name="MudCarousel_Index" xml:space="preserve">
-    <value />
+    <value>Índice {0}</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
-    <value />
+    <value>Cerrar diálogo</value>
   </data>
   <data name="MudPagination_CurrentPage" xml:space="preserve">
     <value>Página actual {0}</value>
@@ -100,13 +100,13 @@
     <value>Página {0}</value>
   </data>
   <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
-    <value />
+    <value>Tabla de Contenidos</value>
   </data>
   <data name="MudInput_Decrement" xml:space="preserve">
     <value>Disminuir</value>
   </data>
   <data name="MudPagination_LastPage" xml:space="preserve">
-    <value />
+    <value>Última página</value>
   </data>
   <data name="MudCarousel_Previous" xml:space="preserve">
     <value>Anterior</value>
@@ -118,10 +118,10 @@
     <value>El próximo mes {0}</value>
   </data>
   <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value />
+    <value>Seleccionar color del punto</value>
   </data>
   <data name="MudTablePager_LastPage" xml:space="preserve">
-    <value />
+    <value>Última pagina</value>
   </data>
   <data name="MudDataGrid_Clear" xml:space="preserve">
     <value>Limpiar</value>
