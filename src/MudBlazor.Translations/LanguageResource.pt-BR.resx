@@ -304,4 +304,10 @@
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
     <value>Linhas por página:</value>
   </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Adicionar Filtro</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Expandir Todos os Grupos</value>
+  </data>
 </root>
