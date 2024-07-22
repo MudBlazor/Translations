@@ -289,4 +289,28 @@
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
     <value>Mês anterior {0}</value>
   </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Recolher Todos Grupos</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>é vazio</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>não é vazio</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} de {2}</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Linhas por página:</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Adicionar Filtro</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Expandir Todos os Grupos</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Todos</value>
+  </data>
 </root>
