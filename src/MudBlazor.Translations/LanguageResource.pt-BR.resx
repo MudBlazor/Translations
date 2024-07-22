@@ -289,4 +289,13 @@
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
     <value>Mês anterior {0}</value>
   </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Recolher Todos Grupos</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>é vazio</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>não é vazio</value>
+  </data>
 </root>
