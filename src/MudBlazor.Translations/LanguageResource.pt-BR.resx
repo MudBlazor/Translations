@@ -310,4 +310,7 @@
   <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
     <value>Expandir Todos os Grupos</value>
   </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Todos</value>
+  </data>
 </root>
