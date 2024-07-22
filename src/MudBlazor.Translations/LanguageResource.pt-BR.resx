@@ -298,4 +298,7 @@
   <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
     <value>não é vazio</value>
   </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} de {2}</value>
+  </data>
 </root>
