@@ -301,4 +301,7 @@
   <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
     <value>{0}-{1} de {2}</value>
   </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Linhas por página:</value>
+  </data>
 </root>
