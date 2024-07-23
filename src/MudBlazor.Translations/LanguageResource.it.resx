@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,112 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Alterna{0}</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Chiudi Alert</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Chiudi Chip</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Chiudi Picker</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Passa alla Vista Spectrum</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Passa alla Vista Griglia</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>Seleziona Colore Palette</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Cambia Modalità</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Pagina corrente {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Prima pagina</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Ultima pagina</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Chiudi finestra</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Pulisci</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Decrementa</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Incrementa</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Indice</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Prossima pagina</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Pagina precedente</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Chiudi snackbar</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Passa alla Vista Palette</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Slider Opacità</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Pagina successiva</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Indice {0}</value>
+  </data>
+  <data name="MudColorPicker_ColorDot" xml:space="preserve">
+    <value>Seleziona Punto di Colore</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>Valutazione {0}</value>
+  </data>
+  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
+    <value>Alterna Colore Corrente</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Slider Tonalità</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Pagina {0}</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Pagina precedente</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Ultima pagina</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Prima pagina</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Vai all'anno successivo {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Vai al mese precedente {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Vai al mese successivo {0}</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Vai al prossimo</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Vai al precedente</value>
+  </data>
 </root>
