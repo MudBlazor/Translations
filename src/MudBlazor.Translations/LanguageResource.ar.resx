@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>إضافة فلتر</value>
+  </data>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>تطبيق</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>إلغاء</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>تحميل..</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>حفظ</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>إخفاء الكل</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>إظهار الكل</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>توسيع كل التجميعات</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>طي كل التجميعات</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>تحديث البيانات</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>صحيح</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>إخفاء</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>إلغاء التجميع</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>إلغاء الترتيب</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>فلتر</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>تجميع</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>قيمة الفلتر</value>
+  </data>
 </root>
