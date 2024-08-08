@@ -109,4 +109,10 @@
   <data name="MudDataGrid_FilterValue" xml:space="preserve">
     <value>قيمة الفلتر</value>
   </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>الأعمدة</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>خطأ</value>
+  </data>
 </root>
