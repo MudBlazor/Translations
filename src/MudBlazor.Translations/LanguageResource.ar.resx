@@ -115,4 +115,22 @@
   <data name="MudDataGrid_False" xml:space="preserve">
     <value>خطأ</value>
   </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>لا يساوي</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>لا يحتوي</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>يحتوي</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>يساوي</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>ترتيب</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>الكل</value>
+  </data>
 </root>
