@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,262 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>nem egyenlő</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>kezdődik</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Törlés</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} - {2}</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Színárnyalat csúszka</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Oldal {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Következő hónap {0}</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Aktuális oldal {0}</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Utolsó oldal</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Következő oldal</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Előző oldal</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Előző</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Párbeszédablak bezárása</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Csökkentés</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Előző oldal</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Snackbar bezárása</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} Értékelés</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Utolsó oldal</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Minden</value>
+  </data>
+  <data name="MudColorPicker_ColorDot" xml:space="preserve">
+    <value>Színpont kiválasztása</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Sorok oldalanként:</value>
+  </data>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>Alkalmaz</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>Törlés</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Új szűrő</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Mégse</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Betöltés...</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Mentés</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Összes elrejtése</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Összes megjelenítése</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Oszlopok</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Összes csoport kibontása</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Összes csoport bezárása</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Adatok frissítése</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>igaz</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>hamis</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Rendezés törlése</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Szűrő</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Elrejt</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Csoportosítás megszüntetése</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Csoportosítás</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Szűrőérték</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>tartalmazza</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>nem tartalmazza</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>egyenlő</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>végződik</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>üres</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>nem üres</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>az</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>nem</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>utána</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>vagy utána</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>előtte</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>vagy korábban</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Oszlop</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Operátor</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Érték</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Mozgás lefelé</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Mozgás felfelé</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Rendezés</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Váltás {0}</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Figyelmeztetés bezárása</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Chip bezárása</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Kiválasztó bezárása</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Váltás Spektrum nézetre</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Váltás Rács nézetre</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Váltás Paletta nézetre</value>
+  </data>
+  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
+    <value>Jelenlegi szín váltása</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Alpha csúszka</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>Paletta színének kiválasztása</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Mód váltása</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Előző év {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Következő év {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Előző hónap {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Első oldal</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Index {0}</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Következő</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Növelés</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Tartalomjegyzék</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Első oldal</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Következő oldal</value>
+  </data>
 </root>
