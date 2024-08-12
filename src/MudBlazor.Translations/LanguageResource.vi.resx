@@ -64,4 +64,256 @@
   <data name="MudDataGrid_Clear" xml:space="preserve">
     <value>Xoá toàn bộ</value>
   </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Hiển thị tất cả nhóm</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Tải lại</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>bao gồm</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>kết thúc với</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Tuỳ chỉnh cột</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Giá trị</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Di chuyển xuống</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>đúng</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>không phải</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Lọc</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Cột</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Di chuyển lên</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Chọn màu kiểu Spectrum</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Chọn màu kiểu Palette</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Thanh trượt Alpha</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Tắt thông báo</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Đóng Chip</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Đóng Picker</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Chọn màu kiểu lưới</value>
+  </data>
+  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
+    <value>Chuyển đổi màu hiện tại</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>Chọn Pallete màu</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Tăng</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Số dòng mỗi trang:</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Tháng trước {0}</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Mục lục</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Trang trước</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Thêm bộ lọc</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Huỷ</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Đang tải...</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Lưu</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Ẩn tất cả</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Hiển thị tất cả</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Ẩn toàn bộ nhóm</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>sai</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Tắt bộ lọc</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Bộ lọc</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Ẩn</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Huỷ nhóm</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Tạo nhóm</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Giá trị lọc</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>không bao gồm</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>bằng</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>không bằng</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>bắt đầu với</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>không có giá trị</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>có giá trị</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>là</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>sau</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>từ ngày này trở đi</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>trước</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>từ ngày này về trước</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Phương thức</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Chuyển đổi {0}</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Thanh trượt Hue</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Đổi chế độ</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Năm trước {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Năm sau {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Tháng sau {0}</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Trang hiện tại {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Trang đầu</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Trang cuối</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Trang sau</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Trang {0}</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Trang trước</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} Sao</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Trang {0}</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Sau</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Trước</value>
+  </data>
+  <data name="MudColorPicker_ColorDot" xml:space="preserve">
+    <value>Chọn màu</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Đóng hộp thoại</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Xoá</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Giảm</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Trang đầu</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Trang cuối</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Trang sau</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Đóng thông báo</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Tất cả</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} trong {2}</value>
+  </data>
 </root>
