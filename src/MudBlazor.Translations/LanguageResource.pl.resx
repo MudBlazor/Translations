@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -62,16 +62,16 @@
     <value>Zamknij alert</value>
   </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
-    <value>Następny miesiąc</value>
+    <value>Następny miesiąc {0}</value>
   </data>
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
-    <value>Następny rok</value>
+    <value>Następny rok {0}</value>
   </data>
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
-    <value>Poprzedni miesiąc</value>
+    <value>Poprzedni miesiąc {0}</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
-    <value>Poprzedni rok</value>
+    <value>Poprzedni rok {0}</value>
   </data>
   <data name="MudCarousel_Index" xml:space="preserve">
     <value>Indeks</value>
@@ -167,7 +167,7 @@
     <value>Filtruj</value>
   </data>
   <data name="MudDataGrid_FilterValue" xml:space="preserve">
-    <value>Filtruj wartość</value>
+    <value>Wartość filtru</value>
   </data>
   <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
     <value>&gt;=</value>
@@ -176,7 +176,7 @@
     <value>&gt;</value>
   </data>
   <data name="MudDataGrid_Group" xml:space="preserve">
-    <value>Grupa</value>
+    <value>Grupuj</value>
   </data>
   <data name="MudDataGrid_Hide" xml:space="preserve">
     <value>Ukryj</value>
@@ -242,13 +242,13 @@
     <value>Zapisz</value>
   </data>
   <data name="MudDataGrid_ShowAll" xml:space="preserve">
-    <value>Zapisz wszystko</value>
+    <value>Pokaż wszystko</value>
   </data>
   <data name="MudDataGrid_Sort" xml:space="preserve">
     <value>Sortuj</value>
   </data>
   <data name="MudDataGrid_StartsWith" xml:space="preserve">
-    <value>zaczyna się</value>
+    <value>zaczyna się na</value>
   </data>
   <data name="MudDataGrid_True" xml:space="preserve">
     <value>prawda</value>
