@@ -274,4 +274,7 @@
   <data name="MudDataGrid_Hide" xml:space="preserve">
     <value>Cховати</value>
   </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Перемкнутися на спектральний вид</value>
+  </data>
 </root>
