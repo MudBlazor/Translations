@@ -268,4 +268,10 @@
   <data name="MudDataGrid_Ungroup" xml:space="preserve">
     <value>Розгрупувати</value>
   </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>хиба</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Cховати</value>
+  </data>
 </root>
