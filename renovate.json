@@ -5,5 +5,16 @@
     ],
     "ignorePresets": [
         ":ignoreModulesAndTests"
+    ],
+    "packageRules": [
+        {
+            "matchPackageNames": ["MudBlazor"],
+            "enabled": false
+        },
+        {
+            "matchPackageNames": ["MudBlazor"],
+            "matchUpdateTypes": ["major"],
+            "enabled": true
+        }
     ]
 }
