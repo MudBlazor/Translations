@@ -233,7 +233,7 @@
     <value>előtte</value>
   </data>
   <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
-    <value>vagy korábban</value>
+    <value>vagy előtte</value>
   </data>
   <data name="MudDataGrid_Column" xml:space="preserve">
     <value>Oszlop</value>
@@ -245,10 +245,10 @@
     <value>Érték</value>
   </data>
   <data name="MudDataGrid_MoveDown" xml:space="preserve">
-    <value>Mozgás lefelé</value>
+    <value>Mozgatás le</value>
   </data>
   <data name="MudDataGrid_MoveUp" xml:space="preserve">
-    <value>Mozgás felfelé</value>
+    <value>Mozgatás fel</value>
   </data>
   <data name="MudDataGrid_Sort" xml:space="preserve">
     <value>Rendezés</value>
