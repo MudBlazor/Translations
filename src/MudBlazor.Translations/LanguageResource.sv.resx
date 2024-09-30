@@ -280,4 +280,16 @@
   <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
     <value>{0}-{1} av {2}</value>
   </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Avgruppera</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Flytta ner</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} Betyg</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Slå ihop alla grupper</value>
+  </data>
 </root>
