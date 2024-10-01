@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,238 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>Tillämpa</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Laddar...</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Spara</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Dölj alla</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Lägg till filter</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Kolumner</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>Rensa</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Visa alla</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>är</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>är inte</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Expandera alla grupper</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>sant</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>falskt</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>innehåller inte</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Ta bort sortering</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Uppdatera data</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Filtervärde</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>innehåller</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Filter</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Dölj</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Gruppera</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>är efter</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>är på eller efter</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>är på eller före</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>är före</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Värde</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Kolumn</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Sortera</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Kulörreglage</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Opacitetsreglage</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Flytta upp</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Växla {0}</value>
+  </data>
+  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
+    <value>Växla nuvarande färg</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Nästa månad {0}</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Stäng varning</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Nästa år {0}</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Stäng väljare</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Stäng chip</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>Välj palettfärg</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Föregående år {0}</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Nuvarande sida {0}</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Föregående sida</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Föregående månad {0}</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Index {0}</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Sista sidan</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Första sidan</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Nästa sida</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Sida {0}</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Stäng dialog</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Sista sidan</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Föregående sida</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Innehåll</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Första sidan</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Rensa</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Minska</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Nästa</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Föregående</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Öka</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Nästa sida</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Stäng banderoll</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Rader per sida:</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>börjar med</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>slutar med</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>är tom</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>är inte tom</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Alla</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} av {2}</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Avgruppera</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Flytta ner</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} Betyg</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Slå ihop alla grupper</value>
+  </data>
 </root>
