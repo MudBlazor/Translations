@@ -64,4 +64,76 @@
   <data name="MudDataGrid_Save" xml:space="preserve">
     <value>Opslaan</value>
   </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>wissen</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Filter toevoegen</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Laden...</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Alles verbergen</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Alles weergeven</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Alle groepen uitbreiden</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Alle groepen samenvouwen</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Gegevens verversen</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>bevat niet</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>is gelijk aan</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>begint met</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>eindigt met</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>is leeg</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Annuleren</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Kolommen</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>Waar</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Filterwaarde</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>Fout</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Sortering verwijderen</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Degroeperen</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Filter</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>bevat</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Verbergen</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Groeperen</value>
+  </data>
 </root>
