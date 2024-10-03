@@ -136,4 +136,55 @@
   <data name="MudDataGrid_Group" xml:space="preserve">
     <value>Groeperen</value>
   </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Sluit melding</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Alpha Slider</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>Selecteer paletkleur</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Vorig jaar {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Volgend jaar {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Vorige maand {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Volgende maand {0}</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Huidige pagina {0}</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Laatste pagina</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Volgende pagina</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Pagina {0}</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} Beoordeling</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Index {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Eerste pagina</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Vorige pagina</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Vorige</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Volgende</value>
+  </data>
 </root>
