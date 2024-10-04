@@ -64,4 +64,127 @@
   <data name="MudDataGrid_Save" xml:space="preserve">
     <value>Opslaan</value>
   </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>wissen</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Filter toevoegen</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Laden...</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Alles verbergen</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Alles weergeven</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Alle groepen uitbreiden</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Alle groepen samenvouwen</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Gegevens verversen</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>bevat niet</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>is gelijk aan</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>begint met</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>eindigt met</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>is leeg</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Annuleren</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Kolommen</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>Waar</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Filterwaarde</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>Fout</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Sortering verwijderen</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Degroeperen</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Filter</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>bevat</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Verbergen</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Groeperen</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Sluit melding</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Alpha Slider</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>Selecteer paletkleur</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Vorig jaar {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Volgend jaar {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Vorige maand {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Volgende maand {0}</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Huidige pagina {0}</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Laatste pagina</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Volgende pagina</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Pagina {0}</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} Beoordeling</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Index {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Eerste pagina</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Vorige pagina</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Vorige</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Volgende</value>
+  </data>
 </root>
