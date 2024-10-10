@@ -313,4 +313,7 @@
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
     <value>Todos</value>
   </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Fechar</value>
+  </data>
 </root>
