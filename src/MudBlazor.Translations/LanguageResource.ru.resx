@@ -310,4 +310,10 @@
   <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
     <value>{0}-{1} из {2}</value>
   </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>Очистить</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Отсортировать</value>
+  </data>
 </root>
