@@ -74,7 +74,7 @@
     <value>Poprzedni rok {0}</value>
   </data>
   <data name="MudCarousel_Index" xml:space="preserve">
-    <value>Indeks</value>
+    <value>Indeks {0}</value>
   </data>
   <data name="MudCarousel_Next" xml:space="preserve">
     <value>Następny</value>
