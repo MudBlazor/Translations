@@ -270,4 +270,19 @@
   <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
     <value>{0}-{1} von {2}</value>
   </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Zurück</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Überspringen</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Abschließen</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Weiter</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Zurücksetzen</value>
+  </data>
 </root>
