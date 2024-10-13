@@ -134,7 +134,7 @@
     <value>Op d'viregt Joer {0}</value>
   </data>
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
-    <value>Op d'nächst Joer</value>
+    <value>Op d'nächst Joer {0}</value>
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Op d'Palettenusiicht wiesselen</value>
