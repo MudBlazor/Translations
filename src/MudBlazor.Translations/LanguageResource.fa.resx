@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>نمایش همه</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>نادرست</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>بستن همه گروه ها</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>درست</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>نابرابر</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>شامل</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>برابر</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>افزودن فیلتر</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>در حال بارگذاری...</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>پاک کردن</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>ذخیره</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>مخفی کردن همه</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>ستون ها</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>گسترش همه گروه ها</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>نامرتب</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>فیلتر</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>حذف گروه</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>مقدار فیلتر</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>شروع با</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>پایان با</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>خالیست</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>خالی نیست</value>
+  </data>
 </root>
