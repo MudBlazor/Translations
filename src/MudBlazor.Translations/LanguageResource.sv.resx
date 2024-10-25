@@ -292,4 +292,7 @@
   <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
     <value>Slå ihop alla grupper</value>
   </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>lika med</value>
+  </data>
 </root>
