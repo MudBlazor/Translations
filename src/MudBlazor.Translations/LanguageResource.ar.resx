@@ -139,4 +139,7 @@
   <data name="MudDataGrid_StartsWith" xml:space="preserve">
     <value>يبدأ بـ</value>
   </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>ينتهي بـ</value>
+  </data>
 </root>
