@@ -133,4 +133,7 @@
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
     <value>الكل</value>
   </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>مسح</value>
+  </data>
 </root>
