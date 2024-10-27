@@ -136,4 +136,7 @@
   <data name="MudDataGrid_Clear" xml:space="preserve">
     <value>مسح</value>
   </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>يبدأ بـ</value>
+  </data>
 </root>
