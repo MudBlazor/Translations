@@ -163,7 +163,7 @@
     <value>Ausblenden</value>
   </data>
   <data name="MudDataGrid_Group" xml:space="preserve">
-    <value>Gruppe</value>
+    <value>Gruppieren</value>
   </data>
   <data name="MudDataGrid_Contains" xml:space="preserve">
     <value>enthält</value>
