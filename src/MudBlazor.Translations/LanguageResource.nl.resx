@@ -187,4 +187,127 @@
   <data name="MudCarousel_Next" xml:space="preserve">
     <value>Volgende</value>
   </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>is niet leeg</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>is</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>is niet</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>is na</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>is voor</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>is op of na</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>is op of voor</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Kolom</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Operator</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Waarde</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Naar Boven</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Sorteren</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Schakel {0}</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Chip sluiten</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Kiezer Sluiten</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Overschakelen naar spectrumweergave</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Overschakelen naar rasterweergave</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Overschakelen naar paletweergave</value>
+  </data>
+  <data name="MudColorPicker_ColorDot" xml:space="preserve">
+    <value>Selecteer Kleur Dot</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Dialoog sluiten</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Leegmaken</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Laatste pagina</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Eerste pagina</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Volgende pagina</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Vorige pagina</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Snackbar sluiten</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Naar Beneden</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Tint slider</value>
+  </data>
+  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
+    <value>Huidige kleur schakelen</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Alle</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Verlagen</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Verhogen</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} van {2}</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Inhoudsopgave</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Rijen per pagina:</value>
+  </data>
 </root>
