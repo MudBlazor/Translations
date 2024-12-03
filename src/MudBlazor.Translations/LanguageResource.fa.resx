@@ -124,4 +124,25 @@
   <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
     <value>خالی نیست</value>
   </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>لغو</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>تازه سازی</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>پنهان</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>بستن انتخابگر</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>نمایش طیفی</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>نمایش جدولی</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>نمایش پالتی</value>
+  </data>
 </root>
