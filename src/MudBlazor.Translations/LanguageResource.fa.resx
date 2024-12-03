@@ -145,4 +145,28 @@
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>نمایش پالتی</value>
   </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>هست</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>نیست</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>قبل از</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>ستون</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>عملگر</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>مقدار</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>بستن اعلان</value>
+  </data>
 </root>
