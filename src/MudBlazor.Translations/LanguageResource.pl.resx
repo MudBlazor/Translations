@@ -316,4 +316,19 @@
   <data name="MudTablePager_PreviousPage" xml:space="preserve">
     <value>Poprzednia strona</value>
   </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Finalizuj</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Następny</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Poprzedni</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Resetuj</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Pomiń</value>
+  </data>
 </root>
