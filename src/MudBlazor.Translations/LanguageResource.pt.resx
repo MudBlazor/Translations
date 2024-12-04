@@ -73,4 +73,28 @@
   <data name="MudDataGrid_ShowAll" xml:space="preserve">
     <value>Exibir Todos</value>
   </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Carregando...</value>
+  </data>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>Aplicar</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Incluir Filtro</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Colunas</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Atualizar Dados</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>verdadeiro</value>
+  </data>
 </root>
