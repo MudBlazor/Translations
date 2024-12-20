@@ -97,4 +97,22 @@
   <data name="MudDataGrid_True" xml:space="preserve">
     <value>verdadeiro</value>
   </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Próximo</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Anterior</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Finalizado</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Pular</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Reiniciar</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>falso</value>
+  </data>
 </root>
