@@ -80,7 +80,7 @@
     <value>Aplicar</value>
   </data>
   <data name="MudDataGrid_AddFilter" xml:space="preserve">
-    <value>Incluir Filtro</value>
+    <value>Adicionar Filtro</value>
   </data>
   <data name="MudDataGrid_Cancel" xml:space="preserve">
     <value>Cancelar</value>
@@ -195,5 +195,29 @@
   </data>
   <data name="MudDataGrid_Operator" xml:space="preserve">
     <value>Operador</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Mudar para Visualização de Espectro</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>Contém</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>Não Contém</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>Está Vazio</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>Não Está Vazio</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Mudar para Visualização em Grade</value>
+  </data>
+  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
+    <value>Alternar Cor Atual</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Controle Deslizante de Matiz</value>
   </data>
 </root>
