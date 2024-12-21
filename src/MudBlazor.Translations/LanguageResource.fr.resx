@@ -25,7 +25,7 @@
     <value>Choisir couleur</value>
   </data>
   <data name="MudPagination_NextPage" xml:space="preserve">
-    <value>Prochaine page</value>
+    <value>Page suivante</value>
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Changer vers vue palette</value>
@@ -46,10 +46,10 @@
     <value>Prochain mois {0}</value>
   </data>
   <data name="MudTablePager_NextPage" xml:space="preserve">
-    <value>Prochaine page</value>
+    <value>Page suivante</value>
   </data>
   <data name="MudCarousel_Next" xml:space="preserve">
-    <value>Prochaine diapositive</value>
+    <value>Diapositive suivante</value>
   </data>
   <data name="MudPagination_PreviousPage" xml:space="preserve">
     <value>Page précédente</value>
@@ -58,7 +58,7 @@
     <value>Effacer</value>
   </data>
   <data name="MudCarousel_Index" xml:space="preserve">
-    <value>Diapositif {0}</value>
+    <value>Diapositive {0}</value>
   </data>
   <data name="MudCarousel_Previous" xml:space="preserve">
     <value>Diapositive précédente</value>
@@ -205,7 +205,7 @@
     <value>Rafraîchir données</value>
   </data>
   <data name="MudDataGrid_Filter" xml:space="preserve">
-    <value>Filtre</value>
+    <value>Filtrer</value>
   </data>
   <data name="MudDataGrid_Contains" xml:space="preserve">
     <value>contient</value>
@@ -269,5 +269,20 @@
   </data>
   <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
     <value>{0}-{1} de {2}</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Recommencer</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Terminer</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Suivant</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Précédent</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Passer</value>
   </data>
 </root>
