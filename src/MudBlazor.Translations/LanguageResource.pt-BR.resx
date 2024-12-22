@@ -316,4 +316,10 @@
   <data name="MudChip_Close" xml:space="preserve">
     <value>Fechar</value>
   </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Avançar</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Voltar</value>
+  </data>
 </root>
