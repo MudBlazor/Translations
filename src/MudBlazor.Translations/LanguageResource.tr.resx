@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Son sayfa</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Kaydet</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Değer</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Önceki yıl {0}</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Temizle</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Sonraki yıl {0}</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Sayfa {0}</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Sırala</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Yükleniyor...</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Önceki ay {0}</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Önceki sayfa</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Önceki sayfa</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Önceki</value>
+  </data>
 </root>
