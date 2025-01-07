@@ -285,4 +285,31 @@
   <data name="MudStepper_Reset" xml:space="preserve">
     <value>Zurücksetzen</value>
   </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Letzte Seite</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Filter öffnen</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Nächste Seite</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Gruppe erweitern</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Filter entfernen</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Spaltenoptionen anzeigen</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Erste Seite</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Filter zurücksetzen</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Vorherige Seite</value>
+  </data>
 </root>
