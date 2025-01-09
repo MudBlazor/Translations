@@ -312,4 +312,43 @@
   <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
     <value>Vorherige Seite</value>
   </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Konvertierung nach {0} vom Typ {1} nicht möglich</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Keine gültige GUID</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Weniger</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Keine gültige Nummer</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Kein Wert von {0}</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Mehr</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Konvertierungsfehler: {0}</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Kein gültiger Boolean</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Konvertierung in Typ {0} nicht implementiert</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Keine gültiges Datum</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Keine gültige Zeitspanne</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>{0} ungültig</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Konvertierung von {0} nach {1} fehlgeschlagen: {2}</value>
+  </data>
 </root>
