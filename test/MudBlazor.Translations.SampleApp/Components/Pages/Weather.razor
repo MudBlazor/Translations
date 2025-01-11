@@ -1,18 +1,17 @@
 ﻿@page "/weather"
 
-
 <PageTitle>Weather</PageTitle>
 
 <MudText Typo="Typo.h3" GutterBottom="true">Weather forecast</MudText>
 <MudText Typo="Typo.body1" Class="mb-8">This component demonstrates fetching data from the server.</MudText>
 
-@if (forecasts == null)
+@if (_forecasts == null)
 {
     <MudProgressCircular Color="Color.Default" Indeterminate="true"/>
 }
 else
 {
-    <MudDataGrid T="WeatherForecast" Items="@forecasts" Hover="true" Elevation="0" RowsPerPage="10" Height="600px"
+    <MudDataGrid T="WeatherForecast" Items="@_forecasts" Hover="true" Elevation="0" RowsPerPage="10" Height="600px"
                  Filterable="true" SortMode="SortMode.Multiple" EditMode="DataGridEditMode.Form">
         <Columns>
             <PropertyColumn Property="x => x.Date" Title="Date"/>
@@ -21,13 +20,14 @@ else
             <PropertyColumn Property="x => x.Summary" Title="Summary"/>
         </Columns>
         <PagerContent>
-            <MudDataGridPager T="WeatherForecast" />
+            <MudDataGridPager T="WeatherForecast"/>
         </PagerContent>
     </MudDataGrid>
 }
 
-@code {
-    private WeatherForecast[]? forecasts;
+@code
+{
+    private WeatherForecast[]? _forecasts;
 
     protected override async Task OnInitializedAsync()
     {
@@ -36,7 +36,7 @@ else
 
         var startDate = DateOnly.FromDateTime(DateTime.Now);
         var summaries = new[] { "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" };
-        forecasts = Enumerable.Range(1, 100).Select(index => new WeatherForecast
+        _forecasts = Enumerable.Range(1, 100).Select(index => new WeatherForecast
         {
             Date = startDate.AddDays(index),
             TemperatureC = Random.Shared.Next(-20, 55),
@@ -44,12 +44,11 @@ else
         }).ToArray();
     }
 
-    private class WeatherForecast
+    private sealed class WeatherForecast
     {
         public DateOnly Date { get; set; }
         public int TemperatureC { get; set; }
         public string? Summary { get; set; }
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
     }
-
 }
