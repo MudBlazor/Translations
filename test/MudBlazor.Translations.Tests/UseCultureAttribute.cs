@@ -1,6 +1,6 @@
 using System.Globalization;
 using System.Reflection;
-using Xunit.Sdk;
+using Xunit.v3;
 
 namespace MudBlazor.Translations.Tests;
 
@@ -18,7 +18,7 @@ public class UseCultureAttribute : BeforeAfterTestAttribute
         _uiCulture = new CultureInfo(uiCulture);
     }
 
-    public override void Before(MethodInfo methodUnderTest)
+    public override void Before(MethodInfo methodUnderTest, IXunitTest test)
     {
         _originalCulture = CultureInfo.CurrentCulture;
         _originalUICulture = CultureInfo.CurrentUICulture;
@@ -26,7 +26,7 @@ public class UseCultureAttribute : BeforeAfterTestAttribute
         Thread.CurrentThread.CurrentUICulture = _uiCulture;
     }
 
-    public override void After(MethodInfo methodUnderTest)
+    public override void After(MethodInfo methodUnderTest, IXunitTest test)
     {
         Thread.CurrentThread.CurrentCulture = _originalCulture!;
         Thread.CurrentThread.CurrentUICulture = _originalUICulture!;
