@@ -13,6 +13,7 @@ Community translations for the MudBlazor component library.
 | MudBlazor | MudBlazor.Translations |
 |-----------|------------------------|
 | 7.x.x     | 1.x.x                  |
+| 8.x.x     | 2.x.x                  |
 
 ## Installation
 
