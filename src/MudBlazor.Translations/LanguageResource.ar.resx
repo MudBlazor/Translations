@@ -142,4 +142,7 @@
   <data name="MudDataGrid_EndsWith" xml:space="preserve">
     <value>ينتهي بـ</value>
   </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>فارغ</value>
+  </data>
 </root>
