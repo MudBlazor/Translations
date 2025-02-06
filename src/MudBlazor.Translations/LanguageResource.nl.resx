@@ -310,4 +310,7 @@
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
     <value>Rijen per pagina:</value>
   </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>is niet gelijk aan</value>
+  </data>
 </root>
