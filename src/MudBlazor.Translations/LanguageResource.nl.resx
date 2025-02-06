@@ -313,4 +313,19 @@
   <data name="MudDataGrid_NotEquals" xml:space="preserve">
     <value>is niet gelijk aan</value>
   </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Volgende</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Afronden</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Overslaan</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Vorige</value>
+  </data>
 </root>
