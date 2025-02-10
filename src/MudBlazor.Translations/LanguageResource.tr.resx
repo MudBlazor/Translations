@@ -97,4 +97,19 @@
   <data name="MudCarousel_Previous" xml:space="preserve">
     <value>Önceki</value>
   </data>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>Uygula</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>Temizle</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Filtre Ekle</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Tüm Grupları Genişlet</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Tüm Grupları Daralt</value>
+  </data>
 </root>
