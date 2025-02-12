@@ -295,4 +295,7 @@
   <data name="MudDataGrid_Equals" xml:space="preserve">
     <value>lika med</value>
   </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>är inte lika med</value>
+  </data>
 </root>
