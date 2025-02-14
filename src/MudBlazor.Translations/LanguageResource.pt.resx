@@ -220,4 +220,7 @@
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Controle Deslizante de Matiz</value>
   </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Ordenar</value>
+  </data>
 </root>
