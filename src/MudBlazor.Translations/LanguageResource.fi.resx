@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,181 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>Käytä</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>Tyhjennä</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Lisää suodatin</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Keskeytä</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Ladataan...</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Tallenna</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Piilota kaikki</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Näytä kaikki</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Sarakkeet</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Laajenna kaikki ryhmät</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Poista lajittelu</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Suodata</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Piilota</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Poista ryhmittely</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Ryhmä</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Suodatusarvo</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>sisältää</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>ei ole tyhjä</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>ei sisällä</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>alkaa</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>on tyhjä</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>on</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>ei ole</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>on jälkeen</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>on ennen</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Operaattori</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Arvo</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Sulje hälytys</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>Valitse paletin väri</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Vaihda taulukkonäkymään</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Edellinen vuosi {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Edellinen kuukausi {0}</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Viimeinen sivu</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Nykyinen sivu {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Ensimmäinen sivu</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Seuraava sivu</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Sivu {0}</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Edellinen sivu</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>Luokitus {0}</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Seuraava</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Edellinen</value>
+  </data>
+  <data name="MudColorPicker_ColorDot" xml:space="preserve">
+    <value>Valitse väripiste</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Sulje valintaikkuna</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Tyhjennä</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Sisällysluettelo</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Ensimmäinen sivu</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Kaikki</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} / {2}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Seuraava vuosi {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Seuraava kuukausi {0}</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Viimeinen sivu</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Edellinen sivu</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Seuraava sivu</value>
+  </data>
 </root>
