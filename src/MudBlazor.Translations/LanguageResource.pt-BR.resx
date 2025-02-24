@@ -322,4 +322,7 @@
   <data name="MudStepper_Previous" xml:space="preserve">
     <value>Voltar</value>
   </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Pular</value>
+  </data>
 </root>
