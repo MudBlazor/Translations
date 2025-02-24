@@ -223,4 +223,10 @@
   <data name="MudDataGrid_Sort" xml:space="preserve">
     <value>Ordenar</value>
   </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Fechar Alerta</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Alternar {0}</value>
+  </data>
 </root>
