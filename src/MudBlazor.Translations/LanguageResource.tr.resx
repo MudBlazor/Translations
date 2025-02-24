@@ -58,45 +58,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MudPagination_LastPage" xml:space="preserve">
-    <value>Son sayfa</value>
-  </data>
-  <data name="MudDataGrid_Save" xml:space="preserve">
-    <value>Kaydet</value>
-  </data>
-  <data name="MudDataGrid_Value" xml:space="preserve">
-    <value>Değer</value>
-  </data>
-  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
-    <value>Önceki yıl {0}</value>
-  </data>
-  <data name="MudInput_Clear" xml:space="preserve">
-    <value>Temizle</value>
-  </data>
-  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
-    <value>Sonraki yıl {0}</value>
-  </data>
-  <data name="MudPagination_PageIndex" xml:space="preserve">
-    <value>Sayfa {0}</value>
-  </data>
-  <data name="MudDataGrid_Sort" xml:space="preserve">
-    <value>Sırala</value>
-  </data>
-  <data name="MudDataGrid_Loading" xml:space="preserve">
-    <value>Yükleniyor...</value>
-  </data>
-  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
-    <value>Önceki ay {0}</value>
-  </data>
-  <data name="MudPagination_PreviousPage" xml:space="preserve">
-    <value>Önceki sayfa</value>
-  </data>
-  <data name="MudTablePager_PreviousPage" xml:space="preserve">
-    <value>Önceki sayfa</value>
-  </data>
-  <data name="MudCarousel_Previous" xml:space="preserve">
-    <value>Önceki</value>
-  </data>
   <data name="MudDataGrid_Apply" xml:space="preserve">
     <value>Uygula</value>
   </data>
@@ -106,10 +67,334 @@
   <data name="MudDataGrid_AddFilter" xml:space="preserve">
     <value>Filtre Ekle</value>
   </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Yükleniyor...</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Kaydet</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Hepsini Gizle</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Tümünü Göster</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Sütunlar</value>
+  </data>
   <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
     <value>Tüm Grupları Genişlet</value>
   </data>
   <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
     <value>Tüm Grupları Daralt</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Verileri Yenile</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>doğru</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>yanlış</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Sıralamayı Kaldır</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Filtre</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Gizle</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Grubu Dağıt</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Grup</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Filtre değeri</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>içerir</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>içermez</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>eşittir</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>eşit değil</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>ile başlar</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>ile biter</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>boştur</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>boş değildir</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>eşittir</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>eşit değildir</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>sonrasıdır</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>tarihine eşittir veya sonrasıdır</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>öncesidir</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>tarihine eşittir veya öncesidir</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Sütun</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Operatör</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Değer</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Aşağı Taşı</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Yukarı Taşı</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Sırala</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Değiştir {0}</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Uyarıyı Kapat</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Chip'i Kapat</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Renk Seçiciyi Kapat</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Spektrum Görünümüne Geç</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Izgara Görünümüne Geç</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Palet Görünümüne Geç</value>
+  </data>
+  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
+    <value>Geçerli Rengi Değiştir</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Renk Slider</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Ana Slider</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>Palet Rengini Seç</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Mod Değiştir</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Önceki yıl {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Sonraki yıl {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Önceki ay {0}</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Mevcut sayfa {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>İlk sayfa</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Son sayfa</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Sonraki sayfa</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Sayfa {0}</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Önceki sayfa</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} Derecelendirme</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Indeks {0}</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Sonraki</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Önceki</value>
+  </data>
+  <data name="MudColorPicker_ColorDot" xml:space="preserve">
+    <value>Renk Noktası Seç</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>İletişim kutusunu kapat</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Temizle</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Azalt</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Arttır</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>İçindekiler</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>İlk Sayfa</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Son Sayfa</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Sonraki sayfa</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Önceki sayfa</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Snackbar'ı kapat</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Sayfa başına satır sayısı:</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Hepsi</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} / {2}</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Sonraki</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Önceki</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Atla</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Sıfırla</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Tamamla</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Filtreyi Temizle</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Filtreleri aç</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Grubu Genişlet/Daralt</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Filtreyi Kaldır</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>İlk Sayfa</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Önceki Sayfa</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Sonraki Sayfa</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Son Sayfa</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Sütun Seçeneklerini Göster</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Geçerli bir boolean değil</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Geçerli bir numara değil</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Geçerli bir GUID değil</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>{0} değeri değil</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Geçerli bir date time değil</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Geçerli bir zaman aralığı değil</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Geçerli bir {0} değil</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>{0} türüne dönüştürme implemente edilmedi</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Dönüştürme hatası: {0}</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>{0}'dan {1}'e dönüştürme başarısız oldu: {2}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>{1} türünden {0}'a dönüştürülemiyor</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Daha az</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Daha fazla</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Sonraki ay {0}</value>
   </data>
 </root>
