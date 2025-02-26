@@ -268,4 +268,16 @@
   <data name="MudColorPicker_Close" xml:space="preserve">
     <value>Fechar Seletor</value>
   </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Modo de Troca</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>Selecionar Cor da Paleta</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Controle Deslizante de Alfa</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Ano anterior {0}</value>
+  </data>
 </root>
