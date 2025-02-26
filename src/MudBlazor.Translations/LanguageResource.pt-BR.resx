@@ -325,4 +325,13 @@
   <data name="MudStepper_Skip" xml:space="preserve">
     <value>Pular</value>
   </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Completar</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Limpar Filtros</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Exibir Filtros</value>
+  </data>
 </root>
