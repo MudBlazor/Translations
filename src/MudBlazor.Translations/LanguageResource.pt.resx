@@ -265,4 +265,7 @@
   <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
     <value>{0}-{1} de {2}</value>
   </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Fechar Seletor</value>
+  </data>
 </root>
