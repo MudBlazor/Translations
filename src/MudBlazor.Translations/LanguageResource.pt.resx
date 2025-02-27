@@ -260,7 +260,7 @@
     <value>Mostra opções da coluna</value>
   </data>
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
-    <value>Mês anterior</value>
+    <value>Mês anterior {0}</value>
   </data>
   <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
     <value>{0}-{1} de {2}</value>
