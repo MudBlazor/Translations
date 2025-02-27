@@ -86,7 +86,7 @@
     <value>Cancelar</value>
   </data>
   <data name="MudDataGrid_Save" xml:space="preserve">
-    <value>Salvar</value>
+    <value>Gravar</value>
   </data>
   <data name="MudDataGrid_Columns" xml:space="preserve">
     <value>Colunas</value>
@@ -107,7 +107,7 @@
     <value>Finalizado</value>
   </data>
   <data name="MudStepper_Skip" xml:space="preserve">
-    <value>Pular</value>
+    <value>Saltar</value>
   </data>
   <data name="MudStepper_Reset" xml:space="preserve">
     <value>Reiniciar</value>
@@ -228,5 +228,41 @@
   </data>
   <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
     <value>Alternar {0}</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Mais</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Menos</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Limpar filtro</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Mostrar filtros</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Remover filtro</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Primerira página</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Página anterior</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Página seguinte</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Última página</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Mostra opções da coluna</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Mês anterior</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} de {2}</value>
   </data>
 </root>
