@@ -206,10 +206,10 @@
     <value>Não Contém</value>
   </data>
   <data name="MudDataGrid_IsEmpty" xml:space="preserve">
-    <value>Está Vazio</value>
+    <value>É vazio</value>
   </data>
   <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
-    <value>Não Está Vazio</value>
+    <value>Não é vazio</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
     <value>Mudar para Visualização em Grade</value>
