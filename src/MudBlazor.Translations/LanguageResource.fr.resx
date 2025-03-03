@@ -297,4 +297,10 @@
   <data name="MudDataGridPager_LastPage" xml:space="preserve">
     <value>Dernière page</value>
   </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Effacer les filtres</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Ouvrir les filtres</value>
+  </data>
 </root>
