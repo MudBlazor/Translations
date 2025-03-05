@@ -285,4 +285,22 @@
   <data name="MudStepper_Skip" xml:space="preserve">
     <value>Passer</value>
   </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Booléen non valide</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Supprimer les filtres</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Page précédente</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Dernière page</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Effacer les filtres</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Ouvrir les filtres</value>
+  </data>
 </root>
