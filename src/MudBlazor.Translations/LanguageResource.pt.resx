@@ -355,4 +355,10 @@
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
     <value>Tudo</value>
   </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Fechar Etiqueta</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Alternar para Visualização de Paleta</value>
+  </data>
 </root>
