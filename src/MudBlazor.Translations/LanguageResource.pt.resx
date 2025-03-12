@@ -140,7 +140,7 @@
     <value>Desagrupar</value>
   </data>
   <data name="MudDataGrid_Group" xml:space="preserve">
-    <value>Grupo</value>
+    <value>Agrupar</value>
   </data>
   <data name="MudDataGrid_FilterValue" xml:space="preserve">
     <value>Valor do filtro</value>
@@ -212,13 +212,13 @@
     <value>Não é vazio</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
-    <value>Mudar para Visualização em Grade</value>
+    <value>Mudar para Visualização em Grelha</value>
   </data>
   <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
     <value>Alternar Cor Atual</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
-    <value>Controle Deslizante de Matiz</value>
+    <value>Deslizador de Matiz</value>
   </data>
   <data name="MudDataGrid_Sort" xml:space="preserve">
     <value>Ordenar</value>
