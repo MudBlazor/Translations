@@ -395,6 +395,6 @@
     <value>Conversão de {0} para {1} falhou: {2}</value>
   </data>
   <data name="Converter_UnableToConvert" xml:space="preserve">
-    <value>Não possível converter de {0} para o tipo {1}</value>
+    <value>Não é possível converter de {1} para o tipo {0}</value>
   </data>
 </root>
