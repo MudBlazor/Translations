@@ -290,7 +290,7 @@
     <value>Não é um GUID válido</value>
   </data>
   <data name="Converter_NotValueOf" xml:space="preserve">
-    <value>Não é um valor de {0} válido</value>
+    <value>Não é um valor de {0}</value>
   </data>
   <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
     <value>Alternar Expansão do Grupo</value>
