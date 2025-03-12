@@ -303,4 +303,52 @@
   <data name="MudDataGrid_OpenFilters" xml:space="preserve">
     <value>Ouvrir les filtres</value>
   </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Nombre non valide</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>GUID non valide</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Valeur non comprise dans {0}</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Date/heure non valide</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Durée non valide</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>{0} non valide</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Conversion du type {0} non implémentée</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Erreur de conversion : {0}</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>La conversion de {0} en {1} a échouée : {2}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Impossible de convertir en {0} depuis le type {1}</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Moins</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Plus</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Première page</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Voir les options de la colonne</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Page suivante</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Réduire/Agrandir le groupe</value>
+  </data>
 </root>
