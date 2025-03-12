@@ -376,4 +376,19 @@
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
     <value>Linhas por página:</value>
   </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Não é uma data hora válido</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Não é um intervalo de tempo válido</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Não é {0} válido</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Conversor do Tipo {0} não implementado</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Erro de conversão:{0}</value>
+  </data>
 </root>
