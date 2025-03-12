@@ -101,7 +101,7 @@
     <value>Viregt Säit</value>
   </data>
   <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Faarf uwielen</value>
+    <value>Faarf Punkt uwielen</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
     <value>Dialog zoumaachen</value>
