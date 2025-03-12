@@ -275,7 +275,7 @@
     <value>Selecionar Cor da Paleta</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
-    <value>Controle Deslizante de Alfa</value>
+    <value>Controle Deslizante do Canal Alfa</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
     <value>Ano anterior {0}</value>
