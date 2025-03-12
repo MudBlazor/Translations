@@ -361,4 +361,19 @@
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Alternar para Visualização de Paleta</value>
   </data>
+  <data name="MudColorPicker_ColorDot" xml:space="preserve">
+    <value>Seleciona Cor do Ponto</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Fechar janela</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Diminuir</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Aumentar</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Linhas por página:</value>
+  </data>
 </root>
