@@ -391,4 +391,7 @@
   <data name="Converter_ConversionError" xml:space="preserve">
     <value>Erro de conversão:{0}</value>
   </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Conversão de {0} para {1} falhou:{2}</value>
+  </data>
 </root>
