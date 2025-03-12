@@ -104,7 +104,7 @@
     <value>Anterior</value>
   </data>
   <data name="MudStepper_Complete" xml:space="preserve">
-    <value>Finalizado</value>
+    <value>Completar</value>
   </data>
   <data name="MudStepper_Skip" xml:space="preserve">
     <value>Saltar</value>
@@ -134,7 +134,7 @@
     <value>Filtro</value>
   </data>
   <data name="MudDataGrid_Hide" xml:space="preserve">
-    <value>Esconder</value>
+    <value>Ocultar</value>
   </data>
   <data name="MudDataGrid_Ungroup" xml:space="preserve">
     <value>Desagrupar</value>
