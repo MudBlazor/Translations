@@ -280,4 +280,79 @@
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
     <value>Ano anterior {0}</value>
   </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Não é um valor booleano válido</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Não é um número válido</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Não é um GUID válido</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Não é um valor de {0} válido</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Alternar Expansão do Grupo</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Ano seguinte {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Mês seguinte {0}</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Página atual {0}</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Última página</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Primeira página</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Próxima página</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Página {0}</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Página anterior</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} Avaliação</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Índice {0}</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Próximo</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Anterior</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Limpar</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Tabela de Conteúdos</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Primeira página</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Última página</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Próxima página</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Página anterior</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Fechar barra flutuante</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Tudo</value>
+  </data>
 </root>
