@@ -290,7 +290,7 @@
     <value>Mês anterior {0}</value>
   </data>
   <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
-    <value>Recolher Todos Grupos</value>
+    <value>Recolher Todos os Grupos</value>
   </data>
   <data name="MudDataGrid_IsEmpty" xml:space="preserve">
     <value>é vazio</value>
@@ -333,5 +333,26 @@
   </data>
   <data name="MudDataGrid_OpenFilters" xml:space="preserve">
     <value>Exibir Filtros</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Reiniciar</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Remover Filtro</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Primeira Página</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Página Anterior</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Exibir Opções de Coluna</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Próxima Página</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Última Página</value>
   </data>
 </root>
