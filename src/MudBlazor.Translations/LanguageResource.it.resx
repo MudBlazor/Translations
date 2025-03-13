@@ -316,4 +316,25 @@
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
     <value>Tutti</value>
   </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Errore di conversione: {0}</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Meno</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Più</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Successivo</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Precedente</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Salta</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Completa</value>
+  </data>
 </root>
