@@ -104,7 +104,7 @@
     <value>Anterior</value>
   </data>
   <data name="MudStepper_Complete" xml:space="preserve">
-    <value>Finalizado</value>
+    <value>Completar</value>
   </data>
   <data name="MudStepper_Skip" xml:space="preserve">
     <value>Saltar</value>
@@ -134,13 +134,13 @@
     <value>Filtro</value>
   </data>
   <data name="MudDataGrid_Hide" xml:space="preserve">
-    <value>Esconder</value>
+    <value>Ocultar</value>
   </data>
   <data name="MudDataGrid_Ungroup" xml:space="preserve">
     <value>Desagrupar</value>
   </data>
   <data name="MudDataGrid_Group" xml:space="preserve">
-    <value>Grupo</value>
+    <value>Agrupar</value>
   </data>
   <data name="MudDataGrid_FilterValue" xml:space="preserve">
     <value>Valor do filtro</value>
@@ -212,13 +212,13 @@
     <value>Não é vazio</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
-    <value>Mudar para Visualização em Grade</value>
+    <value>Mudar para Visualização em Grelha</value>
   </data>
   <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
     <value>Alternar Cor Atual</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
-    <value>Controle Deslizante de Matiz</value>
+    <value>Deslizador de Matiz</value>
   </data>
   <data name="MudDataGrid_Sort" xml:space="preserve">
     <value>Ordenar</value>
@@ -275,7 +275,7 @@
     <value>Selecionar Cor da Paleta</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
-    <value>Controle Deslizante de Alfa</value>
+    <value>Controle Deslizante do Canal Alfa</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
     <value>Ano anterior {0}</value>
@@ -395,6 +395,6 @@
     <value>Conversão de {0} para {1} falhou: {2}</value>
   </data>
   <data name="Converter_UnableToConvert" xml:space="preserve">
-    <value>Não possível converter de {0} para o tipo {1}</value>
+    <value>Não é possível converter de {1} para o tipo {0}</value>
   </data>
 </root>
