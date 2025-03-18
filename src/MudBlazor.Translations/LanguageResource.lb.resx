@@ -107,7 +107,7 @@
     <value>Dialog zoumaachen</value>
   </data>
   <data name="MudInput_Clear" xml:space="preserve">
-    <value>Zerécksetzen</value>
+    <value>Läschen</value>
   </data>
   <data name="MudInput_Decrement" xml:space="preserve">
     <value>Verréngeren</value>
@@ -168,5 +168,233 @@
   </data>
   <data name="MudCarousel_Next" xml:space="preserve">
     <value>Op d'nächst Slide</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Kee gëltegen Boolean</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Keng gëlteg Nummer</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Keng gëlteg GUID</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Keng Valeur vun {0}</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Kee/keng gëlteg(en) Datum oder Auerzäit</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Keng gëlteg Zäitspann</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Kee gëltegen {0}</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Konvertéierung op {0} ass net implementéiert</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Konvertéierungsfeeler: {0}</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Méi</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Weider</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Zeréck</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Iwwersprangen</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Zerécksetzen</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Ofschléissen</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>Läschen</value>
+  </data>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>Uwenden</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Filter bäisetzen</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Lueden amgaang...</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Ofspäicheren</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>All uweisen</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Kolonnen</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>All Gruppen ausdeenen</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>All Gruppen zesumme klappen</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Donnéeën aktualiséieren</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>wouer</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>falsch</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Sortéierung zerécksetzen</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Verstoppen</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Gruppéierung ophiewen</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Gruppéieren</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Filter Valeur</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>enthält</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>enthält net</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>gläich</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>net gläich</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>fänkt un mat</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>hält op mat</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>ass eidel</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>ass net eidel</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>ass</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>ass no</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>ass net</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>ass den oder no</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>ass virun</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>ass den oder virun</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Kolonn</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Operator</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Valeur</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Sortéieren</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Grupp ausdeenen/zesumme klappen</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Filtere läschen</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Éischt Säit</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Viregt Säit</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Nächst Säit</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Lescht Säit</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Kolonnenoptiounen uweisen</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Konvertéierung vun {1} op {0} ass net méiglech</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>No ënne beweegen</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Manner</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Filteren opmaachen</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Ofbriechen</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Filteren</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Filteren zerécksetzen</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>All verstoppen</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>No uewe beweegen</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Konvertéierung vun {0} op {1} ass feelgeschloen: {2}</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Linne pro Säit:</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} vun {2}</value>
   </data>
 </root>
