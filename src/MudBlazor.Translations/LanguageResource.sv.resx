@@ -293,9 +293,36 @@
     <value>Slå ihop alla grupper</value>
   </data>
   <data name="MudDataGrid_Equals" xml:space="preserve">
-    <value>lika med</value>
+    <value>är lika med</value>
   </data>
   <data name="MudDataGrid_NotEquals" xml:space="preserve">
     <value>är inte lika med</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Föregående</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Hoppa över</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Nollställ</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Klar</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Nästa</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Operator</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Byt till spektrumvy</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Ändra läge</value>
+  </data>
+  <data name="MudColorPicker_ColorDot" xml:space="preserve">
+    <value>Välj färgprick</value>
   </data>
 </root>
