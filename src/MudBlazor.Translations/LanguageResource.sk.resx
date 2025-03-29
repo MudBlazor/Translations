@@ -283,4 +283,118 @@
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
     <value>Riadkov na stránku:</value>
   </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Chyba konverzie: {0}</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Neplatný dátum a čas</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Odstrániť filter</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Konverzia na typ {0} nie je implementovaná</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Prvá stránka</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Predchádzajúca stránka</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Neplatná booleovská hodnota</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Neplatné číslo</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Neplatné GUID</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Konverzia z {0} na {1} zlyhala: {2}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Nepodarilo sa konvertovať na {0} z typu {1}</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Menej</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Viac</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Nie je hodnota typu {0}</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Neplatný časový úsek</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Ďalej</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Späť</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Preskočiť</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Obnoviť</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Dokončiť</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Vymazať filter</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Otvoriť filtre</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Prepnúť rozbalenie skupiny</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Posledná stránka</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Zobraziť možnosti stĺpcov</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Nasledujúca stránka</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Neplatný typ {0}</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>Vymazať</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Obnoviť údaje</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>začína na</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>končí na</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>je v alebo po</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>je v alebo pred</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Zavrieť prvok</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Zavrieť výber farby</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Posuvník odtieňa</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Posuvník priehľadnosti</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Zavrieť hlásenie</value>
+  </data>
 </root>
