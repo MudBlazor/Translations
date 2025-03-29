@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,229 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Nasledujúci rok {0}</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Zrušiť zoradenie</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>nepravda</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Všetky položky</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Zoskupiť</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Predchádzajúci rok {0}</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Filtrovať</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Zrušiť zoskupenie</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Skryť</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>obsahuje</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Predchádzajúca stránka</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Prepnúť na zobrazenie palety</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Prepnúť na zobrazenie v mriežke</value>
+  </data>
+  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
+    <value>Prepnúť aktuálnu farbu</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Index {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Prvá stránka</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Posledná stránka</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Zrušiť</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Načítava sa…</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Nasledujúci mesiac {0}</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Stĺpce</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>nerovná sa</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Aktuálna stránka {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Predchádzajúci mesiac {0}</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>Vybrať farbu z palety</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} z {2}</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>neobsahuje</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Prepnúť režim</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Uložiť</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Skryť všetko</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Nasledujúca stránka</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Zobraziť všetko</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>rovná sa</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Prepnúť na zobrazenie spektra</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Hodnota filtra</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Stránka {0}</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>Hodnotenie {0}</value>
+  </data>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>Použiť</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Pridať filter</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Rozbaliť všetky skupiny</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Zbaliť všetky skupiny</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>pravda</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>je prázdny</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>nie je prázdny</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>je</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>nie je</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>je po</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>je pred</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Stĺpec</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Operátor</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Hodnota</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Presunúť dole</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Presunúť hore</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Zoradiť</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Prepnúť {0}</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Zavrieť upozornenie</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Ďalší</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Predchádzajúci</value>
+  </data>
+  <data name="MudColorPicker_ColorDot" xml:space="preserve">
+    <value>Vybrať farbu</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Zavrieť dialóg</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Vymazať</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Znížiť</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Zvýšiť</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Obsah</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Prvá stránka</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Posledná stránka</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Nasledujúca stránka</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Predchádzajúca stránka</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Riadkov na stránku:</value>
+  </data>
 </root>
