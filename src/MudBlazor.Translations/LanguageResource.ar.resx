@@ -148,4 +148,46 @@
   <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
     <value>ليس فارغ</value>
   </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>يكون</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>معامل</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>القيمة</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>تحريك للأسفل</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>تحريك للأعلى</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>تبديل إلى عرض الشبكة</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>تبديل إلى عرض اللوحة</value>
+  </data>
+  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
+    <value>تبديل اللون الحالي</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>شريط تمرير اللون</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>شريط تمرير شفافية اللون</value>
+  </data>
+  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
+    <value>حدد لوحة الألوان</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>تبديل النمط</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>السنة الماضية {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>السنة القادمة {0}</value>
+  </data>
 </root>
