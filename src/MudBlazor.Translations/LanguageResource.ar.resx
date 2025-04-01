@@ -145,4 +145,7 @@
   <data name="MudDataGrid_IsEmpty" xml:space="preserve">
     <value>فارغ</value>
   </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>ليس فارغ</value>
+  </data>
 </root>
