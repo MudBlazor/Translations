@@ -316,4 +316,13 @@
   <data name="MudDataGrid_Sort" xml:space="preserve">
     <value>Отсортировать</value>
   </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Очистить фильтр</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Удалить фильтр</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Следующая страница</value>
+  </data>
 </root>
