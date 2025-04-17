@@ -316,4 +316,7 @@
   <data name="MudTablePager_NextPage" xml:space="preserve">
     <value>Következő oldal</value>
   </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Következő</value>
+  </data>
 </root>
