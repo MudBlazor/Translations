@@ -285,4 +285,52 @@
   <data name="MudStepper_Reset" xml:space="preserve">
     <value>Reiniciar</value>
   </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Número inválido</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>GUID no válido</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>No es valor de {0}</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Lapso de tiempo no valido</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Error de conversión:{0}</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Conversión de {0} a {1} ha fallado:{2}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>No se puede convertir a {0} del tipo {1}</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Menos</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Mas</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Limpiar filtro</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Eliminar filtro</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Página anterior</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Siguiente página</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Mostrar opciones de columna</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Booleano no válido</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Abrir filtros</value>
+  </data>
 </root>
