@@ -8,7 +8,6 @@
     <WarningLevel>9999</WarningLevel>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
-
     <Company>MudBlazor</Company>
     <Authors>Samuel Meenzen, MudBlazor Contributors</Authors>
     <PackageTags>Blazor, MudBlazor, Material, Material-Design, Components, Blazor-Components, Blazor-Library, Localization, Localize, Resource, Resx, Globalization</PackageTags>
