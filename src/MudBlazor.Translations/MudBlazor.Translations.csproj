@@ -1,13 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFrameworks>net8.0;net9.0</TargetFrameworks>
-
     <PackageId>MudBlazor.Translations</PackageId>
     <PackageDescription>Community translations for the MudBlazor component library.</PackageDescription>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
-
   <ItemGroup>
     <PackageReference Include="MudBlazor" Version="8.0.0" />
     <PackageReference Include="Microsoft.CodeAnalysis.ResxSourceGenerator" Version="3.11.0-beta1.25123.3">
@@ -15,14 +12,12 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
   </ItemGroup>
-
   <ItemGroup>
     <EmbeddedResource Update="*.resx">
       <Public>true</Public>
       <AsConstants>true</AsConstants>
     </EmbeddedResource>
   </ItemGroup>
-
   <ItemGroup>
     <None Include="..\..\$(PackageIcon)">
       <Pack>True</Pack>
@@ -33,10 +28,17 @@
       <PackagePath>\</PackagePath>
     </None>
   </ItemGroup>
-
-  <Target Name="Husky" BeforeTargets="Restore;CollectPackageReferences" Condition="'$(HUSKY)' != 0 and '$(IsCrossTargetingBuild)' == 'true'">
-    <Exec Command="dotnet tool restore" StandardOutputImportance="Low" StandardErrorImportance="High"/>
-    <Exec Command="dotnet husky install" StandardOutputImportance="Low" StandardErrorImportance="High" WorkingDirectory="../.."/>
+  <Target
+    Name="Husky"
+    BeforeTargets="Restore;CollectPackageReferences"
+    Condition="'$(HUSKY)' != 0 and '$(IsCrossTargetingBuild)' == 'true'"
+  >
+    <Exec Command="dotnet tool restore" StandardOutputImportance="Low" StandardErrorImportance="High" />
+    <Exec
+      Command="dotnet husky install"
+      StandardOutputImportance="Low"
+      StandardErrorImportance="High"
+      WorkingDirectory="../.."
+    />
   </Target>
-
 </Project>
