@@ -77,10 +77,10 @@
     <value>Kaydet</value>
   </data>
   <data name="MudDataGrid_HideAll" xml:space="preserve">
-    <value>Hepsini Gizle</value>
+    <value>Tümünü Gizle</value>
   </data>
   <data name="MudDataGrid_ShowAll" xml:space="preserve">
-    <value>Tümünü Göster</value>
+    <value>Hepsini Göster</value>
   </data>
   <data name="MudDataGrid_Columns" xml:space="preserve">
     <value>Sütunlar</value>
@@ -179,7 +179,7 @@
     <value>tarihine eşittir veya öncesidir</value>
   </data>
   <data name="MudDataGrid_Column" xml:space="preserve">
-    <value>Sütun</value>
+    <value>Kolon</value>
   </data>
   <data name="MudDataGrid_Operator" xml:space="preserve">
     <value>Operatör</value>
