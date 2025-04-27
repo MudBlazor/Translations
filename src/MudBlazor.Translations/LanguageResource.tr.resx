@@ -80,7 +80,7 @@
     <value>Tümünü Gizle</value>
   </data>
   <data name="MudDataGrid_ShowAll" xml:space="preserve">
-    <value>Tümünü Göster</value>
+    <value>Hepsini Göster</value>
   </data>
   <data name="MudDataGrid_Columns" xml:space="preserve">
     <value>Sütunlar</value>
