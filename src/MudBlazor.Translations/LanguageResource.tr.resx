@@ -179,7 +179,7 @@
     <value>tarihine eşittir veya öncesidir</value>
   </data>
   <data name="MudDataGrid_Column" xml:space="preserve">
-    <value>Sütun</value>
+    <value>Kolon</value>
   </data>
   <data name="MudDataGrid_Operator" xml:space="preserve">
     <value>Operatör</value>
