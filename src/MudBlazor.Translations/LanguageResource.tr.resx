@@ -77,7 +77,7 @@
     <value>Kaydet</value>
   </data>
   <data name="MudDataGrid_HideAll" xml:space="preserve">
-    <value>Hepsini Gizle</value>
+    <value>Tümünü Gizle</value>
   </data>
   <data name="MudDataGrid_ShowAll" xml:space="preserve">
     <value>Tümünü Göster</value>
