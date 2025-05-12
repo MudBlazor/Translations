@@ -73,4 +73,7 @@
   <data name="MudDataGrid_Cancel" xml:space="preserve">
     <value>Odustani</value>
   </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Spremi</value>
+  </data>
 </root>
