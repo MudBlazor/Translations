@@ -328,4 +328,10 @@
   <data name="MudStepper_Previous" xml:space="preserve">
     <value>Vorige</value>
   </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Filter wissen</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Eerste pagina</value>
+  </data>
 </root>

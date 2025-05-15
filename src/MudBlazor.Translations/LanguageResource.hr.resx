@@ -67,4 +67,13 @@
   <data name="MudDataGrid_Loading" xml:space="preserve">
     <value>Učitavanje...</value>
   </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Dodaj filter</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Odustani</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Spremi</value>
+  </data>
 </root>
