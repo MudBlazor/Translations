@@ -169,4 +169,7 @@
   <data name="MudAlert_Close" xml:space="preserve">
     <value>بستن اعلان</value>
   </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>شامل نباشد</value>
+  </data>
 </root>
