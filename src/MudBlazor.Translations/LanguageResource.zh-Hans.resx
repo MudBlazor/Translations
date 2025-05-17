@@ -167,7 +167,7 @@
     <value>上一页</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
-    <value>关闭小吃吧</value>
+    <value>关闭提示条</value>
   </data>
   <data name="MudDataGrid_ShowAll" xml:space="preserve">
     <value>显示所有</value>
@@ -191,7 +191,7 @@
     <value>以。。开始</value>
   </data>
   <data name="MudDataGrid_Apply" xml:space="preserve">
-    <value>申请</value>
+    <value>应用</value>
   </data>
   <data name="MudDataGrid_Unsort" xml:space="preserve">
     <value>取消排序</value>
@@ -348,5 +348,35 @@
   </data>
   <data name="MudDataGrid_OpenFilters" xml:space="preserve">
     <value>打开筛选器</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>无效的数字</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>无效的GUID</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>无效的日期</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>无效的布尔值</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>{0}无效</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>{0}转化异常</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>无法从类型 {1} 转换到 {0}</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>多于</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>切换组展开</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>展示列选项</value>
   </data>
 </root>
