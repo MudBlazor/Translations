@@ -277,9 +277,6 @@
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
     <value>Перемкнутися на Перегляд Спектру</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Перемкнути Поточний Колір</value>
-  </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Перемкнутися на Вид Палітра</value>
   </data>
@@ -288,9 +285,6 @@
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
     <value>Альфа Повзунок</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Оберіть Колір Палітри</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Перемкнути Режим</value>
@@ -312,8 +306,5 @@
   </data>
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
     <value>Наступний Рік {0}</value>
-  </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Оберіть Колір Точки</value>
   </data>
 </root>

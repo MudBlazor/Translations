@@ -91,9 +91,6 @@
   <data name="MudColorPicker_Close" xml:space="preserve">
     <value>Zamknij selektor</value>
   </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Wybierz kropke koloru</value>
-  </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
     <value>Przełącz na widok siatki</value>
   </data>
@@ -103,17 +100,11 @@
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Zmień tryb</value>
   </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Wybierz palete kolorów</value>
-  </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Przełącz na widok palety</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
     <value>Przełącz na widok widma</value>
-  </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Przełącz aktualny kolor</value>
   </data>
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
     <value>Wszystkie</value>

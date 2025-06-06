@@ -21,9 +21,6 @@
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
     <value>Glissière alpha</value>
   </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Choisir couleur</value>
-  </data>
   <data name="MudPagination_NextPage" xml:space="preserve">
     <value>Page suivante</value>
   </data>
@@ -78,9 +75,6 @@
   <data name="MudPagination_LastPage" xml:space="preserve">
     <value>Dernière page</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Basculer aperçu de couleur choisie</value>
-  </data>
   <data name="MudPagination_PageIndex" xml:space="preserve">
     <value>Page {0}</value>
   </data>
@@ -101,9 +95,6 @@
   </data>
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
     <value>Mois précédent {0}</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Choisir couleur palette</value>
   </data>
   <data name="MudTablePager_FirstPage" xml:space="preserve">
     <value>Première page</value>

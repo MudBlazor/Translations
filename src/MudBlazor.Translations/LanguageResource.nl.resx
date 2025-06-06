@@ -142,9 +142,6 @@
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
     <value>Alpha Slider</value>
   </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Selecteer paletkleur</value>
-  </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
     <value>Vorig jaar {0}</value>
   </data>
@@ -253,9 +250,6 @@
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Overschakelen naar paletweergave</value>
   </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Selecteer Kleur Dot</value>
-  </data>
   <data name="MudDialog_Close" xml:space="preserve">
     <value>Dialoog sluiten</value>
   </data>
@@ -288,9 +282,6 @@
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Tint slider</value>
-  </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Huidige kleur schakelen</value>
   </data>
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
     <value>Alle</value>

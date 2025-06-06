@@ -91,9 +91,6 @@
   <data name="MudCarousel_Next" xml:space="preserve">
     <value>Próximo</value>
   </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Selecionar Ponto Colorido</value>
-  </data>
   <data name="MudInput_Increment" xml:space="preserve">
     <value>Aumentar</value>
   </data>
@@ -118,17 +115,11 @@
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Mudar para Visão de Paleta</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Alternar Cor Atual</value>
-  </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Controle de Matiz</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
     <value>Controle de Alfa</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Selecionar Paleta de Cores</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Mudar de Modo</value>

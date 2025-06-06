@@ -97,9 +97,6 @@
   <data name="MudColorPicker_GridView" xml:space="preserve">
     <value>Prepnúť na zobrazenie v mriežke</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Prepnúť aktuálnu farbu</value>
-  </data>
   <data name="MudCarousel_Index" xml:space="preserve">
     <value>Index {0}</value>
   </data>
@@ -129,9 +126,6 @@
   </data>
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
     <value>Predchádzajúci mesiac {0}</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Vybrať farbu z palety</value>
   </data>
   <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
     <value>{0}-{1} z {2}</value>
@@ -249,9 +243,6 @@
   </data>
   <data name="MudCarousel_Previous" xml:space="preserve">
     <value>Predchádzajúci</value>
-  </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Vybrať farbu</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
     <value>Zavrieť dialóg</value>

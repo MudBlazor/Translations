@@ -217,17 +217,11 @@
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Palet Görünümüne Geç</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Geçerli Rengi Değiştir</value>
-  </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Renk Slider</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
     <value>Ana Slider</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Palet Rengini Seç</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Mod Değiştir</value>
@@ -270,9 +264,6 @@
   </data>
   <data name="MudCarousel_Previous" xml:space="preserve">
     <value>Önceki</value>
-  </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Renk Noktası Seç</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
     <value>İletişim kutusunu kapat</value>

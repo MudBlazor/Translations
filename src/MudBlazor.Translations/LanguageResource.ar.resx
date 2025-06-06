@@ -169,17 +169,11 @@
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>تبديل إلى عرض اللوحة</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>تبديل اللون الحالي</value>
-  </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>شريط تمرير اللون</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
     <value>شريط تمرير شفافية اللون</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>حدد لوحة الألوان</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>تبديل النمط</value>

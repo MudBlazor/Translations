@@ -160,9 +160,6 @@
   <data name="MudAlert_Close" xml:space="preserve">
     <value>Sulje hälytys</value>
   </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Valitse paletin väri</value>
-  </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
     <value>Vaihda taulukkonäkymään</value>
   </data>
@@ -198,9 +195,6 @@
   </data>
   <data name="MudCarousel_Previous" xml:space="preserve">
     <value>Edellinen</value>
-  </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Valitse väripiste</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
     <value>Sulje valintaikkuna</value>

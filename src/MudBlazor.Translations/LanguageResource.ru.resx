@@ -112,9 +112,6 @@
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
     <value>Альфа Слайдер</value>
   </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Выберите Цвет Палитры</value>
-  </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
     <value>Закрыть Выбор</value>
   </data>
@@ -139,9 +136,6 @@
   <data name="MudCarousel_Index" xml:space="preserve">
     <value>Индекс {0}</value>
   </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Выбор Цвета Точки</value>
-  </data>
   <data name="MudTablePager_FirstPage" xml:space="preserve">
     <value>Первая страница</value>
   </data>
@@ -165,9 +159,6 @@
   </data>
   <data name="MudCarousel_Previous" xml:space="preserve">
     <value>Предыдущий</value>
-  </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Переключить Текущий Цвет</value>
   </data>
   <data name="MudDataGrid_Columns" xml:space="preserve">
     <value>Столбцы</value>

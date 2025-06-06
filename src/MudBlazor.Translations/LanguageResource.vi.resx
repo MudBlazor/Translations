@@ -133,12 +133,6 @@
   <data name="MudColorPicker_GridView" xml:space="preserve">
     <value>Chọn màu kiểu lưới</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Chuyển đổi màu hiện tại</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Chọn Pallete màu</value>
-  </data>
   <data name="MudInput_Increment" xml:space="preserve">
     <value>Tăng</value>
   </data>
@@ -285,9 +279,6 @@
   </data>
   <data name="MudCarousel_Previous" xml:space="preserve">
     <value>Trước</value>
-  </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Chọn màu</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
     <value>Đóng hộp thoại</value>

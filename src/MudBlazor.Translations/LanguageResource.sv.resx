@@ -169,9 +169,6 @@
   <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
     <value>Växla {0}</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Växla nuvarande färg</value>
-  </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
     <value>Nästa månad {0}</value>
   </data>
@@ -186,9 +183,6 @@
   </data>
   <data name="MudChip_Close" xml:space="preserve">
     <value>Stäng chip</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Välj palettfärg</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
     <value>Föregående år {0}</value>
@@ -321,8 +315,5 @@
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Ändra läge</value>
-  </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Välj färgprick</value>
   </data>
 </root>

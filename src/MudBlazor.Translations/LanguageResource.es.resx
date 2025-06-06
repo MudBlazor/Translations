@@ -21,9 +21,6 @@
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Cambiar a la vista de paleta</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Alternar color actual</value>
-  </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Control deslizante del tono</value>
   </data>
@@ -65,9 +62,6 @@
   </data>
   <data name="MudChip_Close" xml:space="preserve">
     <value>Cerrar Chip</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Seleccione el color de la paleta</value>
   </data>
   <data name="MudAlert_Close" xml:space="preserve">
     <value>Cerrar alerta</value>
@@ -116,9 +110,6 @@
   </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
     <value>El próximo mes {0}</value>
-  </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Seleccionar color del punto</value>
   </data>
   <data name="MudTablePager_LastPage" xml:space="preserve">
     <value>Última pagina</value>
