@@ -280,20 +280,11 @@
   <data name="MudDataGrid_MoveUp" xml:space="preserve">
     <value>Flyt op</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Skift nuværende farve</value>
-  </data>
   <data name="Converter_ConversionNotImplemented" xml:space="preserve">
     <value>Konvertering til type {0} ikke implementeret</value>
   </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Vælg paletfarve</value>
-  </data>
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
     <value>Næste år {0}</value>
-  </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Vælg farve prik</value>
   </data>
   <data name="MudInput_Clear" xml:space="preserve">
     <value>Ryd</value>

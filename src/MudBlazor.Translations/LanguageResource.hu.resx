@@ -115,9 +115,6 @@
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
     <value>Minden</value>
   </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Színpont kiválasztása</value>
-  </data>
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
     <value>Sorok oldalanként:</value>
   </data>
@@ -274,14 +271,8 @@
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Váltás Paletta nézetre</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Jelenlegi szín váltása</value>
-  </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
     <value>Alpha csúszka</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Paletta színének kiválasztása</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Mód váltása</value>

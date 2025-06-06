@@ -76,9 +76,6 @@
   <data name="MudColorPicker_GridView" xml:space="preserve">
     <value>Passa alla Vista Griglia</value>
   </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Seleziona Colore Palette</value>
-  </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Cambia Modalità</value>
   </data>
@@ -127,14 +124,8 @@
   <data name="MudCarousel_Index" xml:space="preserve">
     <value>Indice {0}</value>
   </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Seleziona Punto di Colore</value>
-  </data>
   <data name="MudRatingItem_Label" xml:space="preserve">
     <value>Valutazione {0}</value>
-  </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Alterna Colore Corrente</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Slider Tonalità</value>

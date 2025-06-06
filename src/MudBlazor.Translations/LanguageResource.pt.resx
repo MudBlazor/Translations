@@ -214,9 +214,6 @@
   <data name="MudColorPicker_GridView" xml:space="preserve">
     <value>Mudar para Visualização em Grelha</value>
   </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Alternar Cor Atual</value>
-  </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Deslizador de Matiz</value>
   </data>
@@ -270,9 +267,6 @@
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Modo de Troca</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Selecionar Cor da Paleta</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
     <value>Controle Deslizante do Canal Alfa</value>
@@ -360,9 +354,6 @@
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Alternar para Visualização de Paleta</value>
-  </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Seleciona Cor do Ponto</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
     <value>Fechar janela</value>

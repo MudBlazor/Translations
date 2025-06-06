@@ -13,31 +13,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MudAlert_Close" xml:space="preserve">
-    <value>Alert schließen</value>
+    <value>Schließen</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
-    <value>Picker schließen</value>
+    <value>Schließen</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
-    <value>Zur Spektrum-Ansicht wechseln</value>
+    <value>Farbspektrum</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
-    <value>Zur Rasteransicht wechseln</value>
+    <value>Rasteransicht</value>
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
-    <value>Zur Palettenansicht wechseln</value>
-  </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Aktuelle Farbe umschalten</value>
+    <value>Palettenansicht</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Farbton-Schieberegler</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
     <value>Alpha-Schieberegler</value>
-  </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Palettenfarbe auswählen</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Modus wechseln</value>
@@ -81,9 +75,6 @@
   <data name="MudCarousel_Previous" xml:space="preserve">
     <value>Vorheriges</value>
   </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Farbpunkt auswählen</value>
-  </data>
   <data name="MudDialog_Close" xml:space="preserve">
     <value>Dialog schließen</value>
   </data>
@@ -106,7 +97,7 @@
     <value>{0} umschalten</value>
   </data>
   <data name="MudChip_Close" xml:space="preserve">
-    <value>Chip schließen</value>
+    <value>Schließen</value>
   </data>
   <data name="MudTablePager_FirstPage" xml:space="preserve">
     <value>Erste Seite</value>
@@ -121,7 +112,7 @@
     <value>Vorherige Seite</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
-    <value>Snackbar schließen</value>
+    <value>Schließen</value>
   </data>
   <data name="MudDataGrid_Clear" xml:space="preserve">
     <value>Löschen</value>
@@ -301,7 +292,7 @@
     <value>Filter entfernen</value>
   </data>
   <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
-    <value>Spaltenoptionen anzeigen</value>
+    <value>Spaltenoptionen</value>
   </data>
   <data name="MudDataGridPager_FirstPage" xml:space="preserve">
     <value>Erste Seite</value>
@@ -350,5 +341,26 @@
   </data>
   <data name="Converter_ConversionFailed" xml:space="preserve">
     <value>Konvertierung von {0} nach {1} fehlgeschlagen: {2}</value>
+  </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Farbfelder anzeigen</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Farbfelder ausblenden</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Erweitern</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Zusammenklappen</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Öffnen</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Öffnen</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Öffnen</value>
   </data>
 </root>

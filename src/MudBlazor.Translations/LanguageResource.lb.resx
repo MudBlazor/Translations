@@ -76,9 +76,6 @@
   <data name="MudColorPicker_GridView" xml:space="preserve">
     <value>Op d'Rasterusiicht wiesselen</value>
   </data>
-  <data name="MudColorPicker_PaletteColor" xml:space="preserve">
-    <value>Palette Faarf uwielen</value>
-  </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Modus wiesselen</value>
   </data>
@@ -99,9 +96,6 @@
   </data>
   <data name="MudPagination_PreviousPage" xml:space="preserve">
     <value>Viregt Säit</value>
-  </data>
-  <data name="MudColorPicker_ColorDot" xml:space="preserve">
-    <value>Faarf Punkt uwielen</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
     <value>Dialog zoumaachen</value>
@@ -138,9 +132,6 @@
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>Op d'Palettenusiicht wiesselen</value>
-  </data>
-  <data name="MudColorPicker_ToggleCurrentColor" xml:space="preserve">
-    <value>Aktuel Faarwenusiicht ëmschalten</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Faarftoun slider</value>
