@@ -62,19 +62,19 @@
     <value>{0} ëmschalten</value>
   </data>
   <data name="MudAlert_Close" xml:space="preserve">
-    <value>Alerte zoumaachen</value>
+    <value>Zoumaachen</value>
   </data>
   <data name="MudChip_Close" xml:space="preserve">
-    <value>Chip zoumaachen</value>
+    <value>Zoumaachen</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
-    <value>Picker zoumaachen</value>
+    <value>Zoumaachen</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
-    <value>Op d'Spektrumusiicht wiesselen</value>
+    <value>Spektrum</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
-    <value>Op d'Rasterusiicht wiesselen</value>
+    <value>Raster</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Modus wiesselen</value>
@@ -98,7 +98,7 @@
     <value>Viregt Säit</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
-    <value>Dialog zoumaachen</value>
+    <value>Zoumaachen</value>
   </data>
   <data name="MudInput_Clear" xml:space="preserve">
     <value>Läschen</value>
@@ -131,7 +131,7 @@
     <value>Op d'nächst Joer {0}</value>
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
-    <value>Op d'Palettenusiicht wiesselen</value>
+    <value>Palette</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Faarftoun slider</value>
@@ -146,7 +146,7 @@
     <value>Index {0}</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
-    <value>Snackbar zoumaachen</value>
+    <value>Zoumaachen</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
     <value>Alpha slider</value>
@@ -230,7 +230,7 @@
     <value>All Gruppen ausdeenen</value>
   </data>
   <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
-    <value>All Gruppen zesumme klappen</value>
+    <value>All Gruppen zesummeklappen</value>
   </data>
   <data name="MudDataGrid_RefreshData" xml:space="preserve">
     <value>Donnéeën aktualiséieren</value>
@@ -326,7 +326,7 @@
     <value>Sortéieren</value>
   </data>
   <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
-    <value>Grupp ausdeenen/zesumme klappen</value>
+    <value>Grupp ausdeenen/zesummeklappen</value>
   </data>
   <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
     <value>Filtere läschen</value>
@@ -344,7 +344,7 @@
     <value>Lescht Säit</value>
   </data>
   <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
-    <value>Kolonnenoptiounen uweisen</value>
+    <value>Kolonnenoptiounen</value>
   </data>
   <data name="Converter_UnableToConvert" xml:space="preserve">
     <value>Konvertéierung vun {1} op {0} ass net méiglech</value>
@@ -387,5 +387,26 @@
   </data>
   <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
     <value>{0}-{1} vun {2}</value>
+  </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Faarwen uweisen</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Faarwen verstoppen</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Ausdeenen</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Zesummeklappen</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Opmaachen</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Opmaachen</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Opmaachen</value>
   </data>
 </root>
