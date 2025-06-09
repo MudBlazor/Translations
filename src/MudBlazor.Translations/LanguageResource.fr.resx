@@ -25,16 +25,16 @@
     <value>Page suivante</value>
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
-    <value>Changer vers vue palette</value>
+    <value>Palette</value>
   </data>
   <data name="MudPagination_FirstPage" xml:space="preserve">
     <value>Première page</value>
   </data>
   <data name="MudChip_Close" xml:space="preserve">
-    <value>Fermer puce</value>
+    <value>Fermer</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
-    <value>Changer vers vue grille</value>
+    <value>Grille</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
     <value>Fermer la bannière</value>
@@ -61,7 +61,7 @@
     <value>Diapositive précédente</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
-    <value>Fermer boîte de dialogue</value>
+    <value>Fermer</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Glissière de teinte</value>
@@ -70,7 +70,7 @@
     <value>Décrémenter</value>
   </data>
   <data name="MudAlert_Close" xml:space="preserve">
-    <value>Fermer alerte</value>
+    <value>Fermer</value>
   </data>
   <data name="MudPagination_LastPage" xml:space="preserve">
     <value>Dernière page</value>
@@ -91,7 +91,7 @@
     <value>Année précédente {0}</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
-    <value>Fermer sélecteur</value>
+    <value>Fermer</value>
   </data>
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
     <value>Mois précédent {0}</value>
@@ -106,7 +106,7 @@
     <value>Page précédente</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
-    <value>Changer vers vue spectre</value>
+    <value>Spectre</value>
   </data>
   <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
     <value>Basculer {0}</value>
@@ -334,12 +334,33 @@
     <value>Première page</value>
   </data>
   <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
-    <value>Voir les options de la colonne</value>
+    <value>Options de la colonne</value>
   </data>
   <data name="MudDataGridPager_NextPage" xml:space="preserve">
     <value>Page suivante</value>
   </data>
   <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
     <value>Réduire/Agrandir le groupe</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Ouvrir</value>
+  </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Afficher échantillons</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Cacher échantillons</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Étendre</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Réduire</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Ouvrir</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Ouvrir</value>
   </data>
 </root>
