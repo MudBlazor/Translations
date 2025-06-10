@@ -299,7 +299,7 @@
     <value>Sayfa Başına Satır:</value>
   </data>
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
-    <value>Hepsi</value>
+    <value>Tümü</value>
   </data>
   <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
     <value>{0}-{1} / {2}</value>
