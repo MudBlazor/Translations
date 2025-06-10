@@ -68,7 +68,7 @@
     <value>Filtre Ekle</value>
   </data>
   <data name="MudDataGrid_Cancel" xml:space="preserve">
-    <value>İptal</value>
+    <value>Vazgeç</value>
   </data>
   <data name="MudDataGrid_Loading" xml:space="preserve">
     <value>Yükleniyor...</value>
@@ -218,10 +218,10 @@
     <value>Palet Görünümüne Geç</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
-    <value>Renk Slider</value>
+    <value>Ton Kaydırıcısı</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
-    <value>Ana Slider</value>
+    <value>Alfa Kaydırıcısı</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Mod Değiştir</value>
