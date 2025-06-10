@@ -359,7 +359,7 @@
     <value>{0} değeri değil</value>
   </data>
   <data name="Converter_InvalidDateTime" xml:space="preserve">
-    <value>Geçerli bir date time değil</value>
+    <value>Geçerli bir zaman değil</value>
   </data>
   <data name="Converter_InvalidTimeSpan" xml:space="preserve">
     <value>Geçerli bir zaman aralığı değil</value>
@@ -368,7 +368,7 @@
     <value>Geçerli bir {0} değil</value>
   </data>
   <data name="Converter_ConversionNotImplemented" xml:space="preserve">
-    <value>{0} türüne dönüştürme implemente edilmedi</value>
+    <value>{0} türüne dönüştürme uygulanamadı</value>
   </data>
   <data name="Converter_ConversionError" xml:space="preserve">
     <value>Dönüştürme hatası: {0}</value>
