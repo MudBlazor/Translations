@@ -116,7 +116,7 @@
     <value>Grup</value>
   </data>
   <data name="MudDataGrid_FilterValue" xml:space="preserve">
-    <value>Filtre değeri</value>
+    <value>Filtre Değeri</value>
   </data>
   <data name="MudDataGrid_Contains" xml:space="preserve">
     <value>içerir</value>
@@ -164,19 +164,19 @@
     <value>eşittir</value>
   </data>
   <data name="MudDataGrid_IsNot" xml:space="preserve">
-    <value>eşit değildir</value>
+    <value>değil</value>
   </data>
   <data name="MudDataGrid_IsAfter" xml:space="preserve">
     <value>sonrasıdır</value>
   </data>
   <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
-    <value>tarihine eşittir veya sonrasıdır</value>
+    <value>eşit veya sonrası</value>
   </data>
   <data name="MudDataGrid_IsBefore" xml:space="preserve">
     <value>öncesidir</value>
   </data>
   <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
-    <value>tarihine eşittir veya öncesidir</value>
+    <value>eşit veya öncesi</value>
   </data>
   <data name="MudDataGrid_Column" xml:space="preserve">
     <value>Kolon</value>
@@ -266,7 +266,7 @@
     <value>Önceki</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
-    <value>İletişim kutusunu kapat</value>
+    <value>Kapat</value>
   </data>
   <data name="MudInput_Clear" xml:space="preserve">
     <value>Temizle</value>
@@ -293,7 +293,7 @@
     <value>Önceki sayfa</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
-    <value>Snackbar'ı kapat</value>
+    <value>Kapat</value>
   </data>
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
     <value>Sayfa başına satır sayısı:</value>
@@ -323,7 +323,7 @@
     <value>Filtreyi Temizle</value>
   </data>
   <data name="MudDataGrid_OpenFilters" xml:space="preserve">
-    <value>Filtreleri aç</value>
+    <value>Filtreleri Aç</value>
   </data>
   <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
     <value>Grubu Genişlet/Daralt</value>
@@ -344,7 +344,7 @@
     <value>Son Sayfa</value>
   </data>
   <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
-    <value>Sütun Seçeneklerini Göster</value>
+    <value>Sütun Seçenekleri</value>
   </data>
   <data name="Converter_InvalidBoolean" xml:space="preserve">
     <value>Geçerli bir boolean değil</value>
