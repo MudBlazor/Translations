@@ -110,7 +110,7 @@
     <value>Gizle</value>
   </data>
   <data name="MudDataGrid_Ungroup" xml:space="preserve">
-    <value>Grubu Dağıt</value>
+    <value>Gruplamayı Kaldır</value>
   </data>
   <data name="MudDataGrid_Group" xml:space="preserve">
     <value>Grup</value>
