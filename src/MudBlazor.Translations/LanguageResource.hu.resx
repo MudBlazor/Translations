@@ -310,4 +310,7 @@
   <data name="MudStepper_Next" xml:space="preserve">
     <value>Következő</value>
   </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Előző</value>
+  </data>
 </root>
