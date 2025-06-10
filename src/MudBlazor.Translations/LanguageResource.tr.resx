@@ -179,7 +179,7 @@
     <value>eşit veya öncesi</value>
   </data>
   <data name="MudDataGrid_Column" xml:space="preserve">
-    <value>Kolon</value>
+    <value>Sütun</value>
   </data>
   <data name="MudDataGrid_Operator" xml:space="preserve">
     <value>Operatör</value>
