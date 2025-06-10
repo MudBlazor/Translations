@@ -137,10 +137,10 @@
     <value>ile biter</value>
   </data>
   <data name="MudDataGrid_IsEmpty" xml:space="preserve">
-    <value>boştur</value>
+    <value>boş</value>
   </data>
   <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
-    <value>boş değildir</value>
+    <value>boş değil</value>
   </data>
   <data name="MudDataGrid_EqualSign" xml:space="preserve">
     <value>=</value>
