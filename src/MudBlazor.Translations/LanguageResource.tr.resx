@@ -257,7 +257,7 @@
     <value>{0} Değerlendirme</value>
   </data>
   <data name="MudCarousel_Index" xml:space="preserve">
-    <value>Indeks {0}</value>
+    <value>Dizin {0}</value>
   </data>
   <data name="MudCarousel_Next" xml:space="preserve">
     <value>Sonraki</value>
