@@ -80,7 +80,7 @@
     <value>Tümünü Gizle</value>
   </data>
   <data name="MudDataGrid_ShowAll" xml:space="preserve">
-    <value>Hepsini Göster</value>
+    <value>Tümünü Göster</value>
   </data>
   <data name="MudDataGrid_Columns" xml:space="preserve">
     <value>Sütunlar</value>
@@ -200,22 +200,22 @@
     <value>Değiştir {0}</value>
   </data>
   <data name="MudAlert_Close" xml:space="preserve">
-    <value>Uyarıyı Kapat</value>
+    <value>Kapat</value>
   </data>
   <data name="MudChip_Close" xml:space="preserve">
-    <value>Chip'i Kapat</value>
+    <value>Kapat</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
-    <value>Renk Seçiciyi Kapat</value>
+    <value>Kapat</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
-    <value>Spektrum Görünümüne Geç</value>
+    <value>Spektrum</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
-    <value>Izgara Görünümüne Geç</value>
+    <value>Izgara</value>
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
-    <value>Palet Görünümüne Geç</value>
+    <value>Palet</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Ton Kaydırıcısı</value>
@@ -387,5 +387,26 @@
   </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
     <value>Sonraki ay {0}</value>
+  </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Paleti Göster</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Paleti Gizle</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Genişlet</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Daralt</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Açık</value>
   </data>
 </root>
