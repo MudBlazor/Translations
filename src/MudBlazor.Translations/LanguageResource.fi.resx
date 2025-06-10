@@ -260,6 +260,21 @@
     <value>Sarake</value>
   </data>
   <data name="MudDataGrid_MoveDown" xml:space="preserve">
-    <value>Siirrä alaspäin</value>
+    <value>Siirrä alas</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Sulje sirpale</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Indeksi {0}</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Siirrä ylös</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Vaihda asteikkonäkymään</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Vaihda palettinäkymään</value>
   </data>
 </root>
