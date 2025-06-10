@@ -161,7 +161,7 @@
     <value>&lt;=</value>
   </data>
   <data name="MudDataGrid_Is" xml:space="preserve">
-    <value>-dir</value>
+    <value>aynısı</value>
   </data>
   <data name="MudDataGrid_IsNot" xml:space="preserve">
     <value>değil</value>
@@ -239,13 +239,13 @@
     <value>Mevcut sayfa {0}</value>
   </data>
   <data name="MudPagination_FirstPage" xml:space="preserve">
-    <value>İlk sayfa</value>
+    <value>İlk Sayfa</value>
   </data>
   <data name="MudPagination_LastPage" xml:space="preserve">
-    <value>Son sayfa</value>
+    <value>Son Sayfa</value>
   </data>
   <data name="MudPagination_NextPage" xml:space="preserve">
-    <value>Sonraki sayfa</value>
+    <value>Sonraki Sayfa</value>
   </data>
   <data name="MudPagination_PageIndex" xml:space="preserve">
     <value>Sayfa {0}</value>
@@ -296,7 +296,7 @@
     <value>Kapat</value>
   </data>
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
-    <value>Sayfa başına satır sayısı:</value>
+    <value>Sayfa Başına Satır:</value>
   </data>
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
     <value>Hepsi</value>
