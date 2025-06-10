@@ -167,13 +167,13 @@
     <value>değil</value>
   </data>
   <data name="MudDataGrid_IsAfter" xml:space="preserve">
-    <value>sonrasıdır</value>
+    <value>sonrası</value>
   </data>
   <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
     <value>eşit veya sonrası</value>
   </data>
   <data name="MudDataGrid_IsBefore" xml:space="preserve">
-    <value>öncesidir</value>
+    <value>öncesi</value>
   </data>
   <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
     <value>eşit veya öncesi</value>
