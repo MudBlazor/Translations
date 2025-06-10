@@ -254,7 +254,7 @@
     <value>Önceki sayfa</value>
   </data>
   <data name="MudRatingItem_Label" xml:space="preserve">
-    <value>{0} Değerlendirmesi</value>
+    <value>{0} Değerlendirme</value>
   </data>
   <data name="MudCarousel_Index" xml:space="preserve">
     <value>Indeks {0}</value>
