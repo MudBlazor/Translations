@@ -229,4 +229,37 @@
   <data name="MudTablePager_NextPage" xml:space="preserve">
     <value>Seuraava sivu</value>
   </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Kutista kaikki ryhmät</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Päivitä tiedot</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>tosi</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>epätosi</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>päättyy</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>on yhtä kuin</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>ei ole yhtä kuin</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>on nyt tai ennen</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>on nyt tai jälkeen</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Sarake</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Siirrä alaspäin</value>
+  </data>
 </root>
