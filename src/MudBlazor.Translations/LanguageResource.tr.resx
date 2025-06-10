@@ -125,7 +125,7 @@
     <value>içermez</value>
   </data>
   <data name="MudDataGrid_Equals" xml:space="preserve">
-    <value>eşittir</value>
+    <value>eşit</value>
   </data>
   <data name="MudDataGrid_NotEquals" xml:space="preserve">
     <value>eşit değil</value>
