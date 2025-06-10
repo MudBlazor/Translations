@@ -161,7 +161,7 @@
     <value>&lt;=</value>
   </data>
   <data name="MudDataGrid_Is" xml:space="preserve">
-    <value>eşittir</value>
+    <value>-dir</value>
   </data>
   <data name="MudDataGrid_IsNot" xml:space="preserve">
     <value>değil</value>
