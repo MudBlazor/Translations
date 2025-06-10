@@ -229,4 +229,97 @@
   <data name="MudTablePager_NextPage" xml:space="preserve">
     <value>Seuraava sivu</value>
   </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Kutista kaikki ryhmät</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Päivitä tiedot</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>tosi</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>epätosi</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>päättyy</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>on yhtä kuin</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>ei ole yhtä kuin</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>on nyt tai ennen</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>on nyt tai jälkeen</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Sarake</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Siirrä alas</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Sulje sirpale</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Indeksi {0}</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Siirrä ylös</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Vaihda asteikkonäkymään</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Vaihda palettinäkymään</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Järjestä</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Laajenna/Supista {0}</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Sulje värinvalitsin</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Vaihda tilaa</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Vähennä</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Lisää</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Sulje ponnahdusilmoitus</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Näytä rivejä:</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Värisävyn säätö</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Alfakanavan säätö</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Seuraava</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Edellinen</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Ohita</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Päätä</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Palauta</value>
+  </data>
 </root>

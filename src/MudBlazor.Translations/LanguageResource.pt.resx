@@ -59,19 +59,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
-    <value>Recolher Todos os Grupos</value>
+    <value>Recolher todos os grupos</value>
   </data>
   <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
-    <value>Expandir Todos os Grupos</value>
+    <value>Expandir todos os grupos</value>
   </data>
   <data name="MudDataGrid_Clear" xml:space="preserve">
     <value>Limpar</value>
   </data>
   <data name="MudDataGrid_HideAll" xml:space="preserve">
-    <value>Ocultar Tudo</value>
+    <value>Ocultar tudo</value>
   </data>
   <data name="MudDataGrid_ShowAll" xml:space="preserve">
-    <value>Exibir Todos</value>
+    <value>Exibir todos</value>
   </data>
   <data name="MudDataGrid_Loading" xml:space="preserve">
     <value>Carregando...</value>
@@ -80,7 +80,7 @@
     <value>Aplicar</value>
   </data>
   <data name="MudDataGrid_AddFilter" xml:space="preserve">
-    <value>Adicionar Filtro</value>
+    <value>Adicionar filtro</value>
   </data>
   <data name="MudDataGrid_Cancel" xml:space="preserve">
     <value>Cancelar</value>
@@ -92,7 +92,7 @@
     <value>Colunas</value>
   </data>
   <data name="MudDataGrid_RefreshData" xml:space="preserve">
-    <value>Atualizar Dados</value>
+    <value>Atualizar dados</value>
   </data>
   <data name="MudDataGrid_True" xml:space="preserve">
     <value>verdadeiro</value>
@@ -197,7 +197,7 @@
     <value>Operador</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
-    <value>Mudar para Visualização de Espectro</value>
+    <value>Espectro</value>
   </data>
   <data name="MudDataGrid_Contains" xml:space="preserve">
     <value>Contém</value>
@@ -212,16 +212,16 @@
     <value>Não é vazio</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
-    <value>Mudar para Visualização em Grelha</value>
+    <value>Grelha</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
-    <value>Deslizador de Matiz</value>
+    <value>Deslizador de matiz</value>
   </data>
   <data name="MudDataGrid_Sort" xml:space="preserve">
     <value>Ordenar</value>
   </data>
   <data name="MudAlert_Close" xml:space="preserve">
-    <value>Fechar Alerta</value>
+    <value>Fechar</value>
   </data>
   <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
     <value>Alternar {0}</value>
@@ -254,7 +254,7 @@
     <value>Última página</value>
   </data>
   <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
-    <value>Mostra opções da coluna</value>
+    <value>Opções da coluna</value>
   </data>
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
     <value>Mês anterior {0}</value>
@@ -263,13 +263,13 @@
     <value>{0}-{1} de {2}</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
-    <value>Fechar Seletor</value>
+    <value>Fechar</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
-    <value>Modo de Troca</value>
+    <value>Trocar modo</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
-    <value>Controle Deslizante do Canal Alfa</value>
+    <value>Controle deslizante do canal alfa</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
     <value>Ano anterior {0}</value>
@@ -287,7 +287,7 @@
     <value>Não é um valor de {0}</value>
   </data>
   <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
-    <value>Alternar Expansão do Grupo</value>
+    <value>Alternar grupo</value>
   </data>
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
     <value>Ano seguinte {0}</value>
@@ -314,7 +314,7 @@
     <value>Página anterior</value>
   </data>
   <data name="MudRatingItem_Label" xml:space="preserve">
-    <value>{0} Avaliação</value>
+    <value>{0} avaliação</value>
   </data>
   <data name="MudCarousel_Index" xml:space="preserve">
     <value>Índice {0}</value>
@@ -329,7 +329,7 @@
     <value>Limpar</value>
   </data>
   <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
-    <value>Tabela de Conteúdos</value>
+    <value>Conteúdos</value>
   </data>
   <data name="MudTablePager_FirstPage" xml:space="preserve">
     <value>Primeira página</value>
@@ -344,19 +344,19 @@
     <value>Página anterior</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
-    <value>Fechar barra flutuante</value>
+    <value>Fechar</value>
   </data>
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
     <value>Tudo</value>
   </data>
   <data name="MudChip_Close" xml:space="preserve">
-    <value>Fechar Etiqueta</value>
+    <value>Fechar</value>
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
-    <value>Alternar para Visualização de Paleta</value>
+    <value>Paleta</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
-    <value>Fechar janela</value>
+    <value>Fechar</value>
   </data>
   <data name="MudInput_Decrement" xml:space="preserve">
     <value>Diminuir</value>
@@ -387,5 +387,26 @@
   </data>
   <data name="Converter_UnableToConvert" xml:space="preserve">
     <value>Não é possível converter de {1} para o tipo {0}</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Abrir</value>
+  </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Mostrar amostras de cores</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Ocultar amostras de cores</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Expandir</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Recolher</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Abrir</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Abrir</value>
   </data>
 </root>
