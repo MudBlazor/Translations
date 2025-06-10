@@ -224,7 +224,7 @@
     <value>Alfa Kaydırıcısı</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
-    <value>Mod Değiştir</value>
+    <value>Modu Değiştir</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
     <value>Önceki yıl {0}</value>
