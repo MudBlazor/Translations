@@ -113,7 +113,7 @@
     <value>Gruplamayı Kaldır</value>
   </data>
   <data name="MudDataGrid_Group" xml:space="preserve">
-    <value>Grup</value>
+    <value>Grupla</value>
   </data>
   <data name="MudDataGrid_FilterValue" xml:space="preserve">
     <value>Filtre Değeri</value>
