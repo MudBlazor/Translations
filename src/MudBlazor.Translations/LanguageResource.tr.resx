@@ -125,7 +125,7 @@
     <value>içermez</value>
   </data>
   <data name="MudDataGrid_Equals" xml:space="preserve">
-    <value>eşittir</value>
+    <value>eşit</value>
   </data>
   <data name="MudDataGrid_NotEquals" xml:space="preserve">
     <value>eşit değil</value>
@@ -167,13 +167,13 @@
     <value>değil</value>
   </data>
   <data name="MudDataGrid_IsAfter" xml:space="preserve">
-    <value>sonrasıdır</value>
+    <value>sonrası</value>
   </data>
   <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
     <value>eşit veya sonrası</value>
   </data>
   <data name="MudDataGrid_IsBefore" xml:space="preserve">
-    <value>öncesidir</value>
+    <value>öncesi</value>
   </data>
   <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
     <value>eşit veya öncesi</value>
@@ -218,10 +218,10 @@
     <value>Palet</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
-    <value>Ton Kaydırıcısı</value>
+    <value>Ton Kaydırıcı</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
-    <value>Alfa Kaydırıcısı</value>
+    <value>Alfa Kaydırıcı</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Modu Değiştir</value>
@@ -254,10 +254,10 @@
     <value>Önceki sayfa</value>
   </data>
   <data name="MudRatingItem_Label" xml:space="preserve">
-    <value>{0} Derecelendirme</value>
+    <value>{0} Değerlendirme</value>
   </data>
   <data name="MudCarousel_Index" xml:space="preserve">
-    <value>Indeks {0}</value>
+    <value>Dizin {0}</value>
   </data>
   <data name="MudCarousel_Next" xml:space="preserve">
     <value>Sonraki</value>
@@ -287,7 +287,7 @@
     <value>Son Sayfa</value>
   </data>
   <data name="MudTablePager_NextPage" xml:space="preserve">
-    <value>Sonraki sayfa</value>
+    <value>Sonraki Sayfa</value>
   </data>
   <data name="MudTablePager_PreviousPage" xml:space="preserve">
     <value>Önceki sayfa</value>
