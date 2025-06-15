@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,35 +117,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MudDataGrid_ShowAll" xml:space="preserve">
-    <value>نمایش همه</value>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>اعمال کردن</value>
   </data>
-  <data name="MudDataGrid_False" xml:space="preserve">
-    <value>نادرست</value>
-  </data>
-  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
-    <value>بستن همه گروه ها</value>
-  </data>
-  <data name="MudDataGrid_True" xml:space="preserve">
-    <value>درست</value>
-  </data>
-  <data name="MudDataGrid_NotEquals" xml:space="preserve">
-    <value>نابرابر</value>
-  </data>
-  <data name="MudDataGrid_Contains" xml:space="preserve">
-    <value>شامل</value>
-  </data>
-  <data name="MudDataGrid_Equals" xml:space="preserve">
-    <value>برابر</value>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>پاک کردن</value>
   </data>
   <data name="MudDataGrid_AddFilter" xml:space="preserve">
     <value>افزودن فیلتر</value>
   </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>لغو</value>
+  </data>
   <data name="MudDataGrid_Loading" xml:space="preserve">
     <value>در حال بارگذاری...</value>
-  </data>
-  <data name="MudDataGrid_Clear" xml:space="preserve">
-    <value>پاک کردن</value>
   </data>
   <data name="MudDataGrid_Save" xml:space="preserve">
     <value>ذخیره</value>
@@ -94,11 +138,26 @@
   <data name="MudDataGrid_HideAll" xml:space="preserve">
     <value>مخفی کردن همه</value>
   </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>نمایش همه</value>
+  </data>
   <data name="MudDataGrid_Columns" xml:space="preserve">
     <value>ستون ها</value>
   </data>
   <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
     <value>گسترش همه گروه ها</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>بستن همه گروه ها</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>تازه سازی</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>درست</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>نادرست</value>
   </data>
   <data name="MudDataGrid_Unsort" xml:space="preserve">
     <value>نامرتب</value>
@@ -106,11 +165,29 @@
   <data name="MudDataGrid_Filter" xml:space="preserve">
     <value>فیلتر</value>
   </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>پنهان</value>
+  </data>
   <data name="MudDataGrid_Ungroup" xml:space="preserve">
     <value>حذف گروه</value>
   </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>گروه</value>
+  </data>
   <data name="MudDataGrid_FilterValue" xml:space="preserve">
     <value>مقدار فیلتر</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>شامل</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>شامل نباشد</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>برابر</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>نابرابر</value>
   </data>
   <data name="MudDataGrid_StartsWith" xml:space="preserve">
     <value>شروع با</value>
@@ -124,14 +201,69 @@
   <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
     <value>خالی نیست</value>
   </data>
-  <data name="MudDataGrid_Cancel" xml:space="preserve">
-    <value>لغو</value>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
   </data>
-  <data name="MudDataGrid_RefreshData" xml:space="preserve">
-    <value>تازه سازی</value>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
   </data>
-  <data name="MudDataGrid_Hide" xml:space="preserve">
-    <value>پنهان</value>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>هست</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>نیست</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>بعد از</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="MudDataGrid_IsOnOrAfter" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>قبل از</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>ستون</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>عملگر</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>مقدار</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>حرکت به پایین</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>حرکت به بالا</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>مرتب سازی</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>بستن اعلان</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>بستن</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
     <value>بستن انتخابگر</value>
@@ -145,31 +277,175 @@
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>نمایش پالتی</value>
   </data>
-  <data name="MudDataGrid_EqualSign" xml:space="preserve">
-    <value>=</value>
+  <data name="MudColorPicker_ShowSwatches" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
-  <data name="MudDataGrid_Is" xml:space="preserve">
-    <value>هست</value>
+  <data name="MudColorPicker_AlphaSlider" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
-  <data name="MudDataGrid_IsNot" xml:space="preserve">
-    <value>نیست</value>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>سال قبل {0}</value>
   </data>
-  <data name="MudDataGrid_IsBefore" xml:space="preserve">
-    <value>قبل از</value>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>سال بعد {0}</value>
   </data>
-  <data name="MudDataGrid_Column" xml:space="preserve">
-    <value>ستون</value>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>ماه قبل {0}</value>
   </data>
-  <data name="MudDataGrid_Operator" xml:space="preserve">
-    <value>عملگر</value>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>ماه بعد {0}</value>
   </data>
-  <data name="MudDataGrid_Value" xml:space="preserve">
-    <value>مقدار</value>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>صفحه {0}</value>
   </data>
-  <data name="MudAlert_Close" xml:space="preserve">
-    <value>بستن اعلان</value>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>صفحه اول</value>
   </data>
-  <data name="MudDataGrid_NotContains" xml:space="preserve">
-    <value>شامل نباشد</value>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>صفحه آخر</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>صفحه بعد</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>صفحه {0}</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>صفحه قبل</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} امتیاز</value>
+  </data>
+  <data name="MudCarousel_Index" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>بعدی</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>قبلی</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>بستن</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>پاکسازی</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>کاهش</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>افزایش</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>محتوا</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>صفحه اول</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>صفحه آخر</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>صفحه بعد</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>صفحه قبل</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>بستن</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>تعداد رکورد</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>همه</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} از {2}</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>بعدی</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>قبلی</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>رد شدن</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>تنظیم مجدد</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>اتمام</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>حذف فیلتر</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>بازکردن فیلتر ها</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>حذف فیلتر</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>صفحه اول</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>صفحه قبل</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>صفحه بعد</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>صفحه آخر</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>تنظیمات ستون</value>
+  </data>
+  <data name="Converter_InvalidNumber" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Converter_InvalidGUID" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>مقدار وارد شده صحیح نیست {0}</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>فرمت تاریخ صحیح نیست</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>فرمت وارد شده صحیح نیست {0}</value>
+  </data>
+  <data name="Converter_UnableToConvert" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>کمتر</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>بیشتر</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>بستن</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>باز کردن</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>باز کردن</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>باز کردن</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>باز کردن</value>
   </data>
 </root>
