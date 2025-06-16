@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -229,14 +229,14 @@
     <value>بعد از</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="MudDataGrid_IsOnOrAfter" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="MudDataGrid_IsOnOrAfter" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
+    <value>روش یا بعدش</value>
   </data>
   <data name="MudDataGrid_IsBefore" xml:space="preserve">
     <value>قبل از</value>
   </data>
-  <data name="MudDataGrid_IsOnOrBefore" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="MudDataGrid_IsOnOrBefore" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
+    <value>روش یا قبلش</value>
   </data>
   <data name="MudDataGrid_Column" xml:space="preserve">
     <value>ستون</value>
@@ -256,7 +256,7 @@
   <data name="MudDataGrid_Sort" xml:space="preserve">
     <value>مرتب سازی</value>
   </data>
-  <data name="MudNavGroup_ToggleExpand" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="MudNavGroup_ToggleExpand" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
     <value />
   </data>
   <data name="MudAlert_Close" xml:space="preserve">
@@ -277,10 +277,10 @@
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
     <value>نمایش پالتی</value>
   </data>
-  <data name="MudColorPicker_ShowSwatches" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="MudColorPicker_ShowSwatches" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
     <value />
   </data>
-  <data name="MudColorPicker_AlphaSlider" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="MudColorPicker_AlphaSlider" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
     <value />
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
@@ -316,7 +316,7 @@
   <data name="MudRatingItem_Label" xml:space="preserve">
     <value>{0} امتیاز</value>
   </data>
-  <data name="MudCarousel_Index" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="MudCarousel_Index" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
     <value />
   </data>
   <data name="MudCarousel_Next" xml:space="preserve">
@@ -332,10 +332,10 @@
     <value>پاکسازی</value>
   </data>
   <data name="MudInput_Decrement" xml:space="preserve">
-    <value>کاهش</value>
+    <value>کم کردن</value>
   </data>
   <data name="MudInput_Increment" xml:space="preserve">
-    <value>افزایش</value>
+    <value>افزودن</value>
   </data>
   <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
     <value>محتوا</value>
@@ -385,7 +385,7 @@
   <data name="MudDataGrid_OpenFilters" xml:space="preserve">
     <value>بازکردن فیلتر ها</value>
   </data>
-  <data name="MudDataGrid_ToggleGroupExpansion" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="MudDataGrid_ToggleGroupExpansion" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
     <value />
   </data>
   <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
@@ -406,10 +406,10 @@
   <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
     <value>تنظیمات ستون</value>
   </data>
-  <data name="Converter_InvalidNumber" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="Converter_InvalidNumber" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
     <value />
   </data>
-  <data name="Converter_InvalidGUID" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="Converter_InvalidGUID" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
     <value />
   </data>
   <data name="Converter_NotValueOf" xml:space="preserve">
@@ -418,13 +418,13 @@
   <data name="Converter_InvalidDateTime" xml:space="preserve">
     <value>فرمت تاریخ صحیح نیست</value>
   </data>
-  <data name="Converter_InvalidTimeSpan" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="Converter_InvalidTimeSpan" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
     <value />
   </data>
   <data name="Converter_InvalidType" xml:space="preserve">
     <value>فرمت وارد شده صحیح نیست {0}</value>
   </data>
-  <data name="Converter_UnableToConvert" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="Converter_UnableToConvert" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
     <value />
   </data>
   <data name="HeatMap_Less" xml:space="preserve">
