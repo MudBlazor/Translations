@@ -342,4 +342,25 @@
   <data name="HeatMap_More" xml:space="preserve">
     <value>Více</value>
   </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Zobrazit vzorníky</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Skrýt vzorníky</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Rozbalit</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Sbalit</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Otevřít</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Otevřít</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Otevřít</value>
+  </data>
 </root>
