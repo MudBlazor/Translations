@@ -328,4 +328,31 @@
   <data name="MudStepper_Complete" xml:space="preserve">
     <value>Completa</value>
   </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Valore booleano non valido</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Valore numerico non valido</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Valore GUID non valido</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Non è un valore di {0}</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Valore di data e ora non valido</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Valore {0} non valido</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Conversione del tipo {0} non implementata</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Conversione da {0} a {1} fallita: {2}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Impossibile convertire da tipo {1} a {0}</value>
+  </data>
 </root>
