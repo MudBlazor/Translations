@@ -448,4 +448,7 @@
   <data name="MudColorPicker_Open" xml:space="preserve">
     <value>باز کردن</value>
   </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>تغییر حالت</value>
+  </data>
 </root>
