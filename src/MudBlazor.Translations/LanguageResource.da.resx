@@ -343,4 +343,28 @@
   <data name="MudDataGrid_Sort" xml:space="preserve">
     <value>Sorter</value>
   </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Udvid alle grupper</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Skjul alle grupper</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Filter</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Skjul</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Gruppe</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Filterværdi</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>indeholder</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>indeholder ikke</value>
+  </data>
 </root>
