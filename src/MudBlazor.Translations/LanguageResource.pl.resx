@@ -322,4 +322,58 @@
   <data name="MudStepper_Skip" xml:space="preserve">
     <value>Pomiń</value>
   </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Nieprawidłowy przedział czasu</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Wyczyść filtr</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Otwórz filtry</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Usuń filtr</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Pierwsza strona</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Poprzednia strona</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Następna strona</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Ostatnia strona</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Nieprawidłowa wartość logiczna</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Nieprawidłowa wartość liczbowa</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Nieprawidłowa wartość GUID</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Nieprawidłowa wartość typu {0}</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Konwersja do typu {0} nie jest zaimplementowana</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Błąd konwersji: {0}</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Konwersja z {0} do {1} nieudana: {2}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Nie można wykonać konwersji do typu {0} z typu {1}</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Mniej</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Więcej</value>
+  </data>
 </root>
