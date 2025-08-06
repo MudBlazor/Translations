@@ -76,4 +76,43 @@
   <data name="MudDataGrid_Save" xml:space="preserve">
     <value>Spremi</value>
   </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Sakrij Sve</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Prikaži Sve</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Stupci</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Raširi sve grupe</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Skupi sve grupe</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Osvježi podatke</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>istinito</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Ukloni poredak</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Filtriranje</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Sakrij</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Ukloni grupiranje</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Grupiraj</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Vrijednost za filtriranje</value>
+  </data>
 </root>
