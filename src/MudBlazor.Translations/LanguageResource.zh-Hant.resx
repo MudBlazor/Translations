@@ -168,4 +168,85 @@
   <data name="MudCarousel_Previous" xml:space="preserve">
     <value>前一項</value>
   </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>轉換錯誤: {0}</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>不是有效的布林值</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>不是有效的日期時間</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>不是有效的 GUID</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>不是有效的數值</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>不是有效的 {0}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>無法從類型 {1} 轉換至 {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>下個月 {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>明年 {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>上個月 {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>去年 {0}</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>顏色滑桿</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>切換模式</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>下一頁</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>上一頁</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>清除</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>減少</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>增加</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>目前頁面 {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>第一頁</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>第一頁</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>下一頁</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>上一頁</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>從 {0} 轉換到 {1} 失敗: {2}</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>不是有效的 {0}</value>
+  </data>
 </root>
