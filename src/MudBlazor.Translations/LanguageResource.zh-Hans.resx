@@ -376,4 +376,7 @@
   <data name="Converter_InvalidTimeSpan" xml:space="preserve">
     <value>无效的时间跨度</value>
   </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>末页</value>
+  </data>
 </root>
