@@ -184,4 +184,10 @@
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
     <value>السنة القادمة {0}</value>
   </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>بعد</value>
+  </data>
 </root>
