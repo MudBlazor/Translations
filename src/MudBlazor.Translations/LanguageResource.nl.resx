@@ -325,4 +325,13 @@
   <data name="MudDataGridPager_FirstPage" xml:space="preserve">
     <value>Eerste pagina</value>
   </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Geen geldig getal</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Geen geldige GUID</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Geen geldige {0}</value>
+  </data>
 </root>
