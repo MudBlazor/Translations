@@ -290,7 +290,7 @@
     <value>Применить</value>
   </data>
   <data name="MudDataGrid_MoveDown" xml:space="preserve">
-    <value>Двигаться Вниз</value>
+    <value>Двигаться вниз</value>
   </data>
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
     <value>Строк на странице:</value>
