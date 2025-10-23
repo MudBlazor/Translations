@@ -50,7 +50,7 @@
     <value>text/microsoft-resx</value>
   </resheader>
   <resheader name="version">
-    <value>3.0</value>
+    <value>1.0</value>
   </resheader>
   <resheader name="reader">
     <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -74,10 +74,10 @@
     <value>Palettvisning</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
-    <value>Fargetone-glidebryter</value>
+    <value>Fargetone-skyvebrytar</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
-    <value>Alfa-glidebryter</value>
+    <value>Alfa-skyvebrytar</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Bytt modus</value>
@@ -86,28 +86,28 @@
     <value>Neste år {0}</value>
   </data>
   <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
-    <value>Innholdsfortegnelse</value>
+    <value>Innhaldsliste</value>
   </data>
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
-    <value>Forrige måned {0}</value>
+    <value>Førre månad {0}</value>
   </data>
   <data name="MudPagination_CurrentPage" xml:space="preserve">
-    <value>Gjeldende side {0}</value>
+    <value>Gjeldande side {0}</value>
   </data>
   <data name="MudPagination_FirstPage" xml:space="preserve">
-    <value>Første side</value>
+    <value>Første sida</value>
   </data>
   <data name="MudPagination_LastPage" xml:space="preserve">
-    <value>Siste side</value>
+    <value>Siste sida</value>
   </data>
   <data name="MudPagination_NextPage" xml:space="preserve">
-    <value>Neste side</value>
+    <value>Neste sida</value>
   </data>
   <data name="MudPagination_PageIndex" xml:space="preserve">
     <value>Side {0}</value>
   </data>
   <data name="MudPagination_PreviousPage" xml:space="preserve">
-    <value>Forrige side</value>
+    <value>Førre sida</value>
   </data>
   <data name="MudCarousel_Index" xml:space="preserve">
     <value>Indeks {0}</value>
@@ -119,7 +119,7 @@
     <value>{0} vurdering</value>
   </data>
   <data name="MudCarousel_Previous" xml:space="preserve">
-    <value>Forrige</value>
+    <value>Førre</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
     <value>Lukk dialog</value>
@@ -128,37 +128,40 @@
     <value>Slett</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
-    <value>Forrige år {0}</value>
+    <value>Førre år {0}</value>
   </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
-    <value>Neste måned {0}</value>
+    <value>Neste månad {0}</value>
   </data>
   <data name="MudInput_Decrement" xml:space="preserve">
     <value>Reduser</value>
   </data>
   <data name="MudInput_Increment" xml:space="preserve">
-    <value>Øk</value>
+    <value>Auk</value>
   </data>
   <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
     <value>Veksle {0}</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Utvid gruppa</value>
   </data>
   <data name="MudChip_Close" xml:space="preserve">
     <value>Lukk</value>
   </data>
   <data name="MudTablePager_FirstPage" xml:space="preserve">
-    <value>Første side</value>
+    <value>Føste sida</value>
   </data>
   <data name="MudTablePager_LastPage" xml:space="preserve">
-    <value>Siste side</value>
+    <value>Siste sida</value>
   </data>
   <data name="MudTablePager_NextPage" xml:space="preserve">
-    <value>Neste side</value>
+    <value>Neste sida</value>
   </data>
   <data name="MudTablePager_PreviousPage" xml:space="preserve">
-    <value>Forrige side</value>
+    <value>Førre sida</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
-    <value>Lukk</value>
+    <value>Lukke</value>
   </data>
   <data name="MudDataGrid_Clear" xml:space="preserve">
     <value>Tøm</value>
@@ -203,13 +206,13 @@
     <value>Grupper</value>
   </data>
   <data name="MudDataGrid_Contains" xml:space="preserve">
-    <value>inneholder</value>
+    <value>innehald</value>
   </data>
   <data name="MudDataGrid_StartsWith" xml:space="preserve">
-    <value>begynner med</value>
+    <value>byrjar med</value>
   </data>
   <data name="MudDataGrid_EndsWith" xml:space="preserve">
-    <value>slutter med</value>
+    <value>sluttar med</value>
   </data>
   <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
     <value>&gt;</value>
@@ -227,49 +230,49 @@
     <value>er</value>
   </data>
   <data name="MudDataGrid_IsNot" xml:space="preserve">
-    <value>er ikke</value>
+    <value>er ikkje</value>
   </data>
   <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
     <value>er på eller før</value>
   </data>
   <data name="MudDataGrid_Column" xml:space="preserve">
-    <value>Kolonne</value>
+    <value>Søyle</value>
   </data>
   <data name="MudDataGrid_AddFilter" xml:space="preserve">
     <value>Legg til filter</value>
   </data>
   <data name="MudDataGrid_HideAll" xml:space="preserve">
-    <value>Skjul alle</value>
+    <value>Skjul alt</value>
   </data>
   <data name="MudDataGrid_ShowAll" xml:space="preserve">
-    <value>Vis alle</value>
+    <value>Syna alle</value>
   </data>
   <data name="MudDataGrid_Columns" xml:space="preserve">
-    <value>Kolonner</value>
+    <value>Søyler</value>
   </data>
   <data name="MudDataGrid_IsEmpty" xml:space="preserve">
     <value>er tom</value>
   </data>
   <data name="MudDataGrid_NotContains" xml:space="preserve">
-    <value>inneholder ikke</value>
+    <value>inneheld ikkje</value>
   </data>
   <data name="MudDataGrid_Equals" xml:space="preserve">
     <value>lik</value>
   </data>
   <data name="MudDataGrid_Ungroup" xml:space="preserve">
-    <value>Fjern gruppering</value>
+    <value>Opphev gruppering</value>
   </data>
   <data name="MudDataGrid_FilterValue" xml:space="preserve">
     <value>Filterverdi</value>
   </data>
   <data name="MudDataGrid_NotEquals" xml:space="preserve">
-    <value>ikke lik</value>
+    <value>ikkje lik</value>
   </data>
   <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
     <value>er på eller etter</value>
   </data>
   <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
-    <value>er ikke tom</value>
+    <value>er ikkje tom</value>
   </data>
   <data name="MudDataGrid_EqualSign" xml:space="preserve">
     <value>=</value>
@@ -278,10 +281,10 @@
     <value>!=</value>
   </data>
   <data name="MudDataGrid_IsAfter" xml:space="preserve">
-    <value>kommer etter</value>
+    <value>kjem etter</value>
   </data>
   <data name="MudDataGrid_IsBefore" xml:space="preserve">
-    <value>kommer før</value>
+    <value>kjem før</value>
   </data>
   <data name="MudDataGrid_Operator" xml:space="preserve">
     <value>Operatør</value>
@@ -308,7 +311,7 @@
     <value>{0}-{1} av {2}</value>
   </data>
   <data name="MudStepper_Previous" xml:space="preserve">
-    <value>Tilbake</value>
+    <value>Førre</value>
   </data>
   <data name="MudStepper_Skip" xml:space="preserve">
     <value>Hopp over</value>
@@ -320,37 +323,34 @@
     <value>Neste</value>
   </data>
   <data name="MudStepper_Reset" xml:space="preserve">
-    <value>Tilbakestill</value>
+    <value>Nullstill</value>
   </data>
   <data name="MudDataGridPager_LastPage" xml:space="preserve">
-    <value>Siste side</value>
+    <value>Siste sida</value>
   </data>
   <data name="MudDataGrid_OpenFilters" xml:space="preserve">
-    <value>Åpne filter</value>
+    <value>Opne filter</value>
   </data>
   <data name="MudDataGridPager_NextPage" xml:space="preserve">
-    <value>Neste side</value>
-  </data>
-  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
-    <value>Utvid gruppe</value>
+    <value>Neste sida</value>
   </data>
   <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
     <value>Fjern filter</value>
   </data>
   <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
-    <value>Kolonne alternativer</value>
+    <value>Søyle alternativer</value>
   </data>
   <data name="MudDataGridPager_FirstPage" xml:space="preserve">
-    <value>Første side</value>
+    <value>Første sida</value>
   </data>
   <data name="MudDataGrid_ClearFilter" xml:space="preserve">
     <value>Tilbakestill filter</value>
   </data>
   <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
-    <value>Forrige side</value>
+    <value>Førre sida</value>
   </data>
   <data name="Converter_UnableToConvert" xml:space="preserve">
-    <value>Konvertering til {0} fra type {1} er ikke mulig</value>
+    <value>Konvertering til {0} fra type {1} er ikkje mogleg</value>
   </data>
   <data name="Converter_InvalidGUID" xml:space="preserve">
     <value>Ugyldig GUID</value>
@@ -365,7 +365,7 @@
     <value>Ingen verdi for {0}</value>
   </data>
   <data name="HeatMap_More" xml:space="preserve">
-    <value>Mer</value>
+    <value>Meir</value>
   </data>
   <data name="Converter_ConversionError" xml:space="preserve">
     <value>Konverteringsfeil: {0}</value>
@@ -374,39 +374,39 @@
     <value>Ugyldig boolsk verdi</value>
   </data>
   <data name="Converter_ConversionNotImplemented" xml:space="preserve">
-    <value>Konvertering til type {0} er ikke implementert</value>
+    <value>Konvertering til type {0} er ikkje implementert</value>
   </data>
   <data name="Converter_InvalidDateTime" xml:space="preserve">
     <value>Ugyldig dato</value>
   </data>
   <data name="Converter_InvalidTimeSpan" xml:space="preserve">
-    <value>Ugyldig tidsintervall</value>
+    <value>Ugyldig tidsbilete</value>
   </data>
   <data name="Converter_InvalidType" xml:space="preserve">
     <value>{0} er ugyldig</value>
   </data>
   <data name="Converter_ConversionFailed" xml:space="preserve">
-    <value>Konvertering fra {0} til {1} mislyktes: {2}</value>
+    <value>Konvertering fra {0} til {1} feila: {2}</value>
   </data>
   <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
-    <value>Vis fargeprøver</value>
+    <value>Vis fargeprøvar</value>
   </data>
   <data name="MudColorPicker_HideSwatches" xml:space="preserve">
-    <value>Skjul fargeprøver</value>
+    <value>Skjul fargeutval</value>
   </data>
   <data name="MudTreeView_ExpandItem" xml:space="preserve">
     <value>Utvid</value>
   </data>
   <data name="MudTreeView_CollapseItem" xml:space="preserve">
-    <value>Fold sammen</value>
+    <value>Leggje saman</value>
   </data>
   <data name="MudTimePicker_Open" xml:space="preserve">
-    <value>Åpne</value>
+    <value>Opne</value>
   </data>
   <data name="MudBaseDatePicker_Open" xml:space="preserve">
-    <value>Åpne</value>
+    <value>Opne</value>
   </data>
   <data name="MudColorPicker_Open" xml:space="preserve">
-    <value>Åpne</value>
+    <value>Opne</value>
   </data>
 </root>
