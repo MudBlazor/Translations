@@ -7,21 +7,21 @@
       "commands": [
         "csharpier"
       ],
-      "rollForward": false
+      "rollForward": true
     },
     "husky": {
       "version": "0.7.2",
       "commands": [
         "husky"
       ],
-      "rollForward": false
+      "rollForward": true
     },
     "nbgv": {
       "version": "3.8.118",
       "commands": [
         "nbgv"
       ],
-      "rollForward": false
+      "rollForward": true
     }
   }
 }
