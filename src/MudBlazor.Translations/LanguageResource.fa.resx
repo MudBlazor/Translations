@@ -166,7 +166,7 @@
     <value>فیلتر</value>
   </data>
   <data name="MudDataGrid_Hide" xml:space="preserve">
-    <value>پنهان</value>
+    <value>مخفی</value>
   </data>
   <data name="MudDataGrid_Ungroup" xml:space="preserve">
     <value>حذف گروه</value>
