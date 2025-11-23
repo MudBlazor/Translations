@@ -363,4 +363,7 @@
   <data name="MudColorPicker_Open" xml:space="preserve">
     <value>Öffnen</value>
   </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>Die Datei '{0}' überschreitet die maximal zulässige Größe von {1} Byte.</value>
+  </data>
 </root>
