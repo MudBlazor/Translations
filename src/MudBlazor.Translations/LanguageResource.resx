@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -467,5 +467,8 @@
   </data>
   <data name="MudColorPicker_Open" xml:space="preserve">
     <value>Open</value>
+  </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>File '{0}' exceeds the maximum allowed size of {1} bytes.</value>
   </data>
 </root>
