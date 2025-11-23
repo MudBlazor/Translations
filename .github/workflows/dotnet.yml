@@ -9,29 +9,51 @@ on:
 env:
     HUSKY: 0
 
+permissions:
+    contents: read
+    issues: read
+    checks: write
+    pull-requests: write
+
 jobs:
-    build:
-
+    check_formatting:
         runs-on: ubuntu-latest
+        name: Check Formatting
+        continue-on-error: true
+        steps:
+            -   uses: actions/checkout@v6
+            -   run: |
+                    dotnet tool restore
+                    dotnet csharpier check .
 
+    test:
+        runs-on: ubuntu-latest
+        name: Test
         steps:
             -   uses: actions/checkout@v6
                 with:
                     fetch-depth: 0
+
+            # Build
             -   name: Setup .NET
                 uses: actions/setup-dotnet@v5
                 with:
                     dotnet-version: |
-                        7.0.x
                         8.0.x
                         9.0.x
+                        10.0.x
             -   name: Restore dependencies
                 run: dotnet restore
             -   name: Build
                 run: dotnet build --no-restore
+
+            # Test
             -   name: Test
-                run: dotnet test --no-build --verbosity normal /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
-#            -   name: Upload coverage reports to Codecov
-#                uses: codecov/codecov-action@v4
-#                env:
-#                    CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
+                run: dotnet test --no-build --report-trx --coverage --coverage-output-format cobertura --coverage-output cobertura.xml --results-directory TestResults
+
+            -   name: Publish Test Results
+                uses: EnricoMi/publish-unit-test-result-action@v2
+                if: (!cancelled())
+                with:
+                    files: |
+                        TestResults/*.trx
