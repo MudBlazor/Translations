@@ -166,7 +166,7 @@
     <value>فیلتر</value>
   </data>
   <data name="MudDataGrid_Hide" xml:space="preserve">
-    <value>پنهان</value>
+    <value>مخفی</value>
   </data>
   <data name="MudDataGrid_Ungroup" xml:space="preserve">
     <value>حذف گروه</value>
@@ -317,7 +317,7 @@
     <value>{0} امتیاز</value>
   </data>
   <data name="MudCarousel_Index" type="System.Resources.ResXNullRef, System.Windows.Forms" xml:space="preserve">
-    <value />
+    <value>اندیس{0}</value>
   </data>
   <data name="MudCarousel_Next" xml:space="preserve">
     <value>بعدی</value>

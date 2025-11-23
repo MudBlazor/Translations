@@ -249,4 +249,85 @@
   <data name="Converter_NotValueOf" xml:space="preserve">
     <value>不是有效的 {0}</value>
   </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>欄位</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>展開所有群組</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>摺疊所有群組</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>取消分組</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>分組</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>以...開頭</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>以...結尾</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>無資料</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>有資料</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>欄位</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>透明度滑桿</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>最後一頁</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>第{0}頁</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} 評分</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>索引 {0}</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>最後一頁</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>每頁資料筆數:</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>第{0}-{1}筆, 共{2}筆</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>顯示欄位選項</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>不是有效的時間</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>尚未實作轉換至 {0} 的功能</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>展開</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>開啟</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>開啟</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>開啟</value>
+  </data>
 </root>

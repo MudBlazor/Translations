@@ -1,45 +1,66 @@
+using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
 using Microsoft.Extensions.Localization;
 
 namespace MudBlazor.Translations.Tests;
 
+[SuppressMessage("Style", "VSTHRD200:Use \"Async\" suffix for async methods")]
+[SuppressMessage("Major Code Smell", "S4144:Methods should not have identical implementations")]
 public class TranslationsInterceptorTests
 {
-    [Fact, UseCulture(culture: "en-US", uiCulture: "de-DE")]
-    public void Translations_ShouldBeBasedOn_CurrentUICulture()
-    {
-        // Arrange
-        MudTranslationsInterceptor interceptor = new();
-        const string key = LanguageResource.MudAlert_Close;
-        string? defaultTranslation = LanguageResource.ResourceManager.GetString(key, CultureInfo.InvariantCulture);
+    [Test]
+    public async Task Translations_ShouldBeBasedOn_CurrentUICulture() =>
+        await TestCulture.RunAsync(
+            "en-US",
+            "de-DE",
+            async () =>
+            {
+                // Arrange
+                MudTranslationsInterceptor interceptor = new();
+                const string key = LanguageResource.MudAlert_Close;
+                string? defaultTranslation = LanguageResource.ResourceManager.GetString(
+                    key,
+                    CultureInfo.InvariantCulture
+                );
 
-        // Act
-        LocalizedString result = interceptor.Handle(key);
+                // Act
+                LocalizedString result = interceptor.Handle(key);
 
-        // Assert
-        defaultTranslation.Should().NotBeNullOrWhiteSpace();
-        result.Name.Should().Be(key);
-        result.Value.Should().NotBeNullOrWhiteSpace().And.NotBe(key);
-        result.Value.Should().NotBe(defaultTranslation);
-        result.ResourceNotFound.Should().BeFalse();
-    }
+                // Assert
+                await Assert.That(defaultTranslation).IsNotNullOrWhiteSpace();
+                await Assert.That(result.Name).IsEqualTo(key);
+                await Assert.That(result.Value).IsNotNullOrWhiteSpace();
+                await Assert.That(result.Value).IsNotEqualTo(key);
+                await Assert.That(result.Value).IsNotEqualTo(defaultTranslation);
+                await Assert.That(result.ResourceNotFound).IsFalse();
+            }
+        );
 
-    [Fact, UseCulture(culture: "en-US", uiCulture: "en-US")]
-    public void Translations_ShouldDefaultTo_English()
-    {
-        // Arrange
-        MudTranslationsInterceptor interceptor = new();
-        const string key = LanguageResource.MudAlert_Close;
-        string? defaultTranslation = LanguageResource.ResourceManager.GetString(key, CultureInfo.InvariantCulture);
+    [Test]
+    public async Task Translations_ShouldDefaultTo_English() =>
+        await TestCulture.RunAsync(
+            "en-US",
+            "en-US",
+            async () =>
+            {
+                // Arrange
+                MudTranslationsInterceptor interceptor = new();
+                const string key = LanguageResource.MudAlert_Close;
+                string? defaultTranslation = LanguageResource.ResourceManager.GetString(
+                    key,
+                    CultureInfo.InvariantCulture
+                );
 
-        // Act
-        LocalizedString result = interceptor.Handle(key);
+                // Act
+                LocalizedString result = interceptor.Handle(key);
 
-        // Assert
-        defaultTranslation.Should().NotBeNullOrWhiteSpace();
-        result.Name.Should().Be(key);
-        result.Value.Should().NotBeNullOrWhiteSpace().And.NotBe(key);
-        result.Value.Should().Be(defaultTranslation);
-        result.ResourceNotFound.Should().BeFalse();
-    }
+                // Assert
+                await Assert.That(defaultTranslation).IsNotNullOrWhiteSpace();
+                await Assert.That(result.Name).IsEqualTo(key);
+                await Assert.That(result.Value).IsNotNullOrWhiteSpace();
+                await Assert.That(result.Value).IsNotEqualTo(key);
+                await Assert.That(result.Value).IsEqualTo(defaultTranslation);
+                await Assert.That(result.ResourceNotFound).IsFalse();
+            }
+        );
 }
