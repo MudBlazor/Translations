@@ -409,4 +409,7 @@
   <data name="MudColorPicker_Open" xml:space="preserve">
     <value>Megnyitás</value>
   </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>A '{0}' fájl meghaladja a megengedett maximális {1} bájt méretet.</value>
+  </data>
 </root>

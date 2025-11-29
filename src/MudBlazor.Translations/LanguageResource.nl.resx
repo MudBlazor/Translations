@@ -334,4 +334,46 @@
   <data name="Converter_InvalidType" xml:space="preserve">
     <value>Geen geldige {0}</value>
   </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Conversiefout: {0}</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Filters tonen</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Groep uitvouwen/verbergen</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Filter verwijderen</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Vorige pagina</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Volgende pagina</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Laatste pagina</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Toon kolomopties</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Geen geldige boolean</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Waarde komt niet voor in {0}</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Geen geldige tijdsperiode</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Kan niet converteren van type {1} naar type {0}</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Minder</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Meer</value>
+  </data>
 </root>
