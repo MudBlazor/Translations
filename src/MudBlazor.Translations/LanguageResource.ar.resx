@@ -190,4 +190,7 @@
   <data name="MudDataGrid_IsAfter" xml:space="preserve">
     <value>بعد</value>
   </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
 </root>
