@@ -331,7 +331,7 @@
     <value>Konvertierung in Typ {0} nicht implementiert</value>
   </data>
   <data name="Converter_InvalidDateTime" xml:space="preserve">
-    <value>Keine gültiges Datum</value>
+    <value>Kein gültiges Datum</value>
   </data>
   <data name="Converter_InvalidTimeSpan" xml:space="preserve">
     <value>Keine gültige Zeitspanne</value>
