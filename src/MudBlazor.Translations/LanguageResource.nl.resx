@@ -376,4 +376,7 @@
   <data name="HeatMap_More" xml:space="preserve">
     <value>Meer</value>
   </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Geen geldige datum/tijd</value>
+  </data>
 </root>
