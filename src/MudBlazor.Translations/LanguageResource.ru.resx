@@ -322,4 +322,10 @@
   <data name="MudStepper_Complete" xml:space="preserve">
     <value>Завершить</value>
   </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Предыдущая страница</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>В конец</value>
+  </data>
 </root>
