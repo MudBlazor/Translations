@@ -367,4 +367,19 @@
   <data name="MudDataGrid_NotContains" xml:space="preserve">
     <value>indeholder ikke</value>
   </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>falsk</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>ikke lig med</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>slutter med</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Opdater data</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Fravælg sortering</value>
+  </data>
 </root>
