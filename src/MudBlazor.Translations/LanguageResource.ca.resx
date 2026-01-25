@@ -15,4 +15,118 @@
   <data name="MudDataGrid_Apply" xml:space="preserve">
     <value>Aplicar</value>
   </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Afegir filtre</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Cancel·lar</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Carregant...</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Mostra-ho tot</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Columnes</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Expandeix tots els grups</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Filtrar</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Amagar</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Desagrupar</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Agrupar</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Filtrar valor</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>conté</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>no conté</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>comença per</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>és</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>no és</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>és posterior a</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>és igual o posterior a</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>és anterior</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>és igual o anterior a</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Columna</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Operador</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Valor</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Ordenar</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Alternar {0}</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Tancar</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Tancar</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Tancar</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Espectre</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Graella</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Paleta</value>
+  </data>
 </root>
