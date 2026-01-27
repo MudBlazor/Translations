@@ -379,4 +379,7 @@
   <data name="MudDataGridPager_LastPage" xml:space="preserve">
     <value>末页</value>
   </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>从{0}转换到{1}失败：{2}</value>
+  </data>
 </root>
