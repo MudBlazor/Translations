@@ -382,4 +382,7 @@
   <data name="Converter_ConversionNotImplemented" xml:space="preserve">
     <value>Het omzetten naar type {0} is niet beschikbaar</value>
   </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>De conversie van {0} naar {1} is mislukt: {2}</value>
+  </data>
 </root>
