@@ -409,4 +409,7 @@
   <data name="MudColorPicker_Open" xml:space="preserve">
     <value>Opmaachen</value>
   </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>De Fichier '{0}' iwwerschreit d'maximal Gréisst vu {1} Bytes.</value>
+  </data>
 </root>
