@@ -355,4 +355,19 @@
   <data name="Converter_UnableToConvert" xml:space="preserve">
     <value>Impossibile convertire da tipo {1} a {0}</value>
   </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Apri filtri</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Prima pagina</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Pagina precedente</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Pagina successiva</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Ultima pagina</value>
+  </data>
 </root>
