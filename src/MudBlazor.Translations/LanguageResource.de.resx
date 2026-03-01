@@ -366,4 +366,67 @@
   <data name="MudFileUpload_FileSizeError" xml:space="preserve">
     <value>Die Datei '{0}' überschreitet die maximal zulässige Größe von {1} Byte.</value>
   </data>
+  <data name="MudTable_Loading" xml:space="preserve">
+    <value>Lade…</value>
+  </data>
+  <data name="MudTable_ExpandGroup" xml:space="preserve">
+    <value>Gruppe erweitern</value>
+  </data>
+  <data name="MudTable_EditRow" xml:space="preserve">
+    <value>Zeile bearbeiten</value>
+  </data>
+  <data name="MudTable_CancelEditRow" xml:space="preserve">
+    <value>Bearbeitung abbrechen</value>
+  </data>
+  <data name="MudTable_CollapseGroup" xml:space="preserve">
+    <value>Gruppe ausblenden</value>
+  </data>
+  <data name="MudTable_CommitRow" xml:space="preserve">
+    <value>Änderung übernehmen</value>
+  </data>
+  <data name="MudFileUpload_Button" xml:space="preserve">
+    <value>Dateien durchsuchen</value>
+  </data>
+  <data name="MudTabs_ScrollLeft" xml:space="preserve">
+    <value>Tabs nach links scrollen</value>
+  </data>
+  <data name="MudTabs_ScrollRight" xml:space="preserve">
+    <value>Tabs nach rechts scrollen</value>
+  </data>
+  <data name="MudTabs_ScrollUp" xml:space="preserve">
+    <value>Tabs nach oben scrollen</value>
+  </data>
+  <data name="MudTabs_CloseTab" xml:space="preserve">
+    <value>Tab schließen</value>
+  </data>
+  <data name="MudTabs_AddTab" xml:space="preserve">
+    <value>Tab hinzufügen</value>
+  </data>
+  <data name="MudTabs_ScrollDown" xml:space="preserve">
+    <value>Tabs nach unten scrollen</value>
+  </data>
+  <data name="MudFileUpload_MaximumFileCountExceeded" xml:space="preserve">
+    <value>{0} Dateien ausgewählt, was das Limit von {1} überschreitet</value>
+  </data>
+  <data name="MudExitPrompt_Title" xml:space="preserve">
+    <value>Navigation bestätigen</value>
+  </data>
+  <data name="MudExitPrompt_Text" xml:space="preserve">
+    <value>Website verlassen? Änderungen werden möglicherweise nicht gespeichert.</value>
+  </data>
+  <data name="MudExitPrompt_Exit" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="MudExitPrompt_Cancel" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="MudDataGrid_CollapseGroup" xml:space="preserve">
+    <value>Gruppe schließen</value>
+  </data>
+  <data name="MudDataGrid_ExpandGroup" xml:space="preserve">
+    <value>Gruppe erweitern</value>
+  </data>
+  <data name="MudFileUpload_DragAndDrop" xml:space="preserve">
+    <value>Dateien hier ablegen oder klicken zum Durchsuchen</value>
+  </data>
 </root>
