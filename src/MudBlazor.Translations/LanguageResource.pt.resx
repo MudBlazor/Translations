@@ -409,4 +409,13 @@
   <data name="MudColorPicker_Open" xml:space="preserve">
     <value>Abrir</value>
   </data>
+  <data name="MudDataGrid_CollapseGroup" xml:space="preserve">
+    <value>Recolher grupo</value>
+  </data>
+  <data name="MudDataGrid_ExpandGroup" xml:space="preserve">
+    <value>Expandir grupo</value>
+  </data>
+  <data name="MudTable_ExpandGroup" xml:space="preserve">
+    <value>Expandir grupo</value>
+  </data>
 </root>
