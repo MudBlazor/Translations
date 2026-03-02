@@ -412,4 +412,67 @@
   <data name="MudFileUpload_FileSizeError" xml:space="preserve">
     <value>De Fichier '{0}' iwwerschreit d'maximal Gréisst vu {1} Bytes.</value>
   </data>
+  <data name="MudDataGrid_CollapseGroup" xml:space="preserve">
+    <value>Grupp zesummeklappen</value>
+  </data>
+  <data name="MudDataGrid_ExpandGroup" xml:space="preserve">
+    <value>Grupp ausdeenen</value>
+  </data>
+  <data name="MudTable_Loading" xml:space="preserve">
+    <value>Luet...</value>
+  </data>
+  <data name="MudTable_ExpandGroup" xml:space="preserve">
+    <value>Grupp ausdeenen</value>
+  </data>
+  <data name="MudTable_EditRow" xml:space="preserve">
+    <value>Zeil veränneren</value>
+  </data>
+  <data name="MudTable_CancelEditRow" xml:space="preserve">
+    <value>Verännerung annuléieren</value>
+  </data>
+  <data name="MudTable_CollapseGroup" xml:space="preserve">
+    <value>Grupp zesummeklappen</value>
+  </data>
+  <data name="MudTable_CommitRow" xml:space="preserve">
+    <value>Verännerung iwwerhuelen</value>
+  </data>
+  <data name="MudFileUpload_DragAndDrop" xml:space="preserve">
+    <value>Fichieren hei ofleeën oder hei klicken fir duerch ze sichen</value>
+  </data>
+  <data name="MudFileUpload_Button" xml:space="preserve">
+    <value>Fichiere duerchsichen</value>
+  </data>
+  <data name="MudTabs_ScrollLeft" xml:space="preserve">
+    <value>Tabs no lénks scrollen</value>
+  </data>
+  <data name="MudTabs_ScrollRight" xml:space="preserve">
+    <value>Tabs no riets scrollen</value>
+  </data>
+  <data name="MudTabs_ScrollUp" xml:space="preserve">
+    <value>Tabs erop scrollen</value>
+  </data>
+  <data name="MudTabs_CloseTab" xml:space="preserve">
+    <value>Tab zoumaachen</value>
+  </data>
+  <data name="MudTabs_AddTab" xml:space="preserve">
+    <value>Tab bäisetzen</value>
+  </data>
+  <data name="MudTabs_ScrollDown" xml:space="preserve">
+    <value>Tab erof scrollen</value>
+  </data>
+  <data name="MudFileUpload_MaximumFileCountExceeded" xml:space="preserve">
+    <value>{0} Fichieren ausgewielt, wat d'Limit vun {1} iwwerschreit</value>
+  </data>
+  <data name="MudExitPrompt_Title" xml:space="preserve">
+    <value>Navigatioun bestätegen</value>
+  </data>
+  <data name="MudExitPrompt_Text" xml:space="preserve">
+    <value>Site verloossen? Ännerungen déi Dir gemaach hutt kéinten net gespeichert ginn.</value>
+  </data>
+  <data name="MudExitPrompt_Exit" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="MudExitPrompt_Cancel" xml:space="preserve">
+    <value>Annuléieren</value>
+  </data>
 </root>
