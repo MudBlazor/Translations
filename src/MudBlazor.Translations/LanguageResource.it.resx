@@ -373,4 +373,7 @@
   <data name="MudStepper_Reset" xml:space="preserve">
     <value>Ricomincia</value>
   </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Apri</value>
+  </data>
 </root>
