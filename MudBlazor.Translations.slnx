@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/MudBlazor.Translations/MudBlazor.Translations.csproj" />
+  <Project Path="test/MudBlazor.Translations.SampleApp/MudBlazor.Translations.SampleApp.csproj" />
+  <Project Path="test/MudBlazor.Translations.Tests/MudBlazor.Translations.Tests.csproj" />
+</Solution>
