@@ -397,4 +397,10 @@
   <data name="MudExitPrompt_Cancel" xml:space="preserve">
     <value>Annuleer</value>
   </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Toon kleurstalen</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Verberg kleurstalen</value>
+  </data>
 </root>
