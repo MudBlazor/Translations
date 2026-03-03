@@ -433,4 +433,46 @@
   <data name="MudExitPrompt_Exit" xml:space="preserve">
     <value>OK</value>
   </data>
+  <data name="MudTable_ExpandGroup" xml:space="preserve">
+    <value>Fäll ut grupp</value>
+  </data>
+  <data name="MudTable_CollapseGroup" xml:space="preserve">
+    <value>Fäll in grupp</value>
+  </data>
+  <data name="MudFileUpload_DragAndDrop" xml:space="preserve">
+    <value>Dra filer hit eller klicka för att bläddra</value>
+  </data>
+  <data name="MudFileUpload_Button" xml:space="preserve">
+    <value>Bläddra efter filer</value>
+  </data>
+  <data name="MudTabs_ScrollLeft" xml:space="preserve">
+    <value>Scrolla vänster</value>
+  </data>
+  <data name="MudTabs_ScrollRight" xml:space="preserve">
+    <value>Scrolla höger</value>
+  </data>
+  <data name="MudTabs_ScrollUp" xml:space="preserve">
+    <value>Scrolla upp</value>
+  </data>
+  <data name="MudTabs_CloseTab" xml:space="preserve">
+    <value>Stäng flik</value>
+  </data>
+  <data name="MudTabs_AddTab" xml:space="preserve">
+    <value>Lägg till flik</value>
+  </data>
+  <data name="MudTabs_ScrollDown" xml:space="preserve">
+    <value>Scrolla ner</value>
+  </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>Filen '{0}' överskrider den maximalt tillåtna storleken på {1} bitar.</value>
+  </data>
+  <data name="MudFileUpload_MaximumFileCountExceeded" xml:space="preserve">
+    <value>Valda {0} filer, vilket överskrider maxvärdet på {1}</value>
+  </data>
+  <data name="MudExitPrompt_Title" xml:space="preserve">
+    <value>Godkänn navigering</value>
+  </data>
+  <data name="MudExitPrompt_Text" xml:space="preserve">
+    <value>Lämna sidan? Ändringar som du har gjort kanske inte har sparats</value>
+  </data>
 </root>
