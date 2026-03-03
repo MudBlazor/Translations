@@ -380,7 +380,7 @@
     <value>Geen geldige datum</value>
   </data>
   <data name="Converter_ConversionNotImplemented" xml:space="preserve">
-    <value>Het omzetten naar type {0} is niet beschikbaar</value>
+    <value>Conversie naar type {0} niet geïmplementeerd</value>
   </data>
   <data name="Converter_ConversionFailed" xml:space="preserve">
     <value>De conversie van {0} naar {1} is gefaald: {2}</value>
@@ -405,5 +405,23 @@
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Schakel modus</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Uitklappen</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Inklappen</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Openen</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Openen</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Openen</value>
+  </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>Bestand '{0}' is groter dan het maximum van {1} bytes.</value>
   </data>
 </root>
