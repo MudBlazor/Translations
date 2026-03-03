@@ -158,10 +158,10 @@
     <value>Arvo</value>
   </data>
   <data name="MudAlert_Close" xml:space="preserve">
-    <value>Sulje hälytys</value>
+    <value>Sulje</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
-    <value>Vaihda taulukkonäkymään</value>
+    <value>Taulukkonäkymä</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
     <value>Edellinen vuosi {0}</value>
@@ -197,13 +197,13 @@
     <value>Edellinen</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
-    <value>Sulje valintaikkuna</value>
+    <value>Sulje</value>
   </data>
   <data name="MudInput_Clear" xml:space="preserve">
     <value>Tyhjennä</value>
   </data>
   <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
-    <value>Sisällysluettelo</value>
+    <value>Sisällys</value>
   </data>
   <data name="MudTablePager_FirstPage" xml:space="preserve">
     <value>Ensimmäinen sivu</value>
@@ -242,7 +242,7 @@
     <value>epätosi</value>
   </data>
   <data name="MudDataGrid_EndsWith" xml:space="preserve">
-    <value>päättyy</value>
+    <value>päättyy termiin</value>
   </data>
   <data name="MudDataGrid_Equals" xml:space="preserve">
     <value>on yhtä kuin</value>
@@ -278,34 +278,34 @@
     <value>Vaihda palettinäkymään</value>
   </data>
   <data name="MudDataGrid_Sort" xml:space="preserve">
-    <value>Järjestä</value>
+    <value>Lajittele</value>
   </data>
   <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
     <value>Laajenna/Supista {0}</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
-    <value>Sulje värinvalitsin</value>
+    <value>Sulje poimija</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
-    <value>Vaihda tilaa</value>
+    <value>Vaihda moodia</value>
   </data>
   <data name="MudInput_Decrement" xml:space="preserve">
-    <value>Vähennä</value>
+    <value>Vähennys</value>
   </data>
   <data name="MudInput_Increment" xml:space="preserve">
-    <value>Lisää</value>
+    <value>Lisäys</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
-    <value>Sulje ponnahdusilmoitus</value>
+    <value>Sulje snackbar</value>
   </data>
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
-    <value>Näytä rivejä:</value>
+    <value>Rivejä per sivu:</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
-    <value>Värisävyn säätö</value>
+    <value>Värisävysäädin</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
-    <value>Alfakanavan säätö</value>
+    <value>Alfa-kanavasäädin</value>
   </data>
   <data name="MudStepper_Next" xml:space="preserve">
     <value>Seuraava</value>
@@ -321,5 +321,86 @@
   </data>
   <data name="MudStepper_Reset" xml:space="preserve">
     <value>Palauta</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Piilota värimallit</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Tyhjennä suodatin</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Ei voida konvertoida tyypistä {1} tyypiksi {0}</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Ei ole boolean-arvo</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Avaa suodattimet</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Ei ole aikaväli</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Kutista</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Sarakevaihtoehdot</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Viimeinen sivu</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Ensimmäinen sivu</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Vähemmän</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Avaa</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Ei ole päivämääräaika</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Poista suodatin</value>
+  </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Näytä värimallit</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Konversio muodosta {0} muodoksi {1} epäonnistui: {2}</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Edellinen sivu</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Ei ole numero</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Lisää</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Laajenna</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Seuraava sivu</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Ei ole GUID</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Avaa</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Konversiovirhe: {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Avaa</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Ei ole {0}</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Konversiota muodoksi {0} ei ole toteutettu</value>
   </data>
 </root>
