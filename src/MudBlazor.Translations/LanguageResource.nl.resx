@@ -302,7 +302,7 @@
     <value>Rijen per pagina:</value>
   </data>
   <data name="MudDataGrid_NotEquals" xml:space="preserve">
-    <value>is niet gelijk aan</value>
+    <value>niet gelijk aan</value>
   </data>
   <data name="MudStepper_Next" xml:space="preserve">
     <value>Volgende</value>
