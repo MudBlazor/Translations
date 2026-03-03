@@ -356,7 +356,7 @@
     <value>Impossibile convertire in {0} dal tipo {1}</value>
   </data>
   <data name="MudDataGrid_OpenFilters" xml:space="preserve">
-    <value>Apri Filtri</value>
+    <value>Filtri</value>
   </data>
   <data name="MudDataGridPager_FirstPage" xml:space="preserve">
     <value>Prima Pagina</value>
