@@ -112,4 +112,142 @@
   <data name="MudDataGrid_Columns" xml:space="preserve">
     <value>Ustunlar</value>
   </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Barchasi</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Guruhni almashtirish</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Filtrni olib tashlash</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Ustun parametrlari</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>{0}ning qiymati emas</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Keyingi sahifa</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Keyingi</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Avvalgi</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Yopish</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Haqiqiy vaqt oralig'i emas</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Tozalash</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Kamaytirish</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Mundarija</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Birinchi sahifa</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Oxirgi sahifa</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Oldingi sahifa</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Qayta tiklash</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Oxirgi sahifa</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Yopish</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Har bir sahifadagi qatorlar:</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} ning {2}</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Ochish</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Keyingi</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Oldingi</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>O'tkazib yuborish</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>To'liq</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>{0} dan {1} ga o'tkazish muvaffaqiyatsiz tugadi: {2}</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Filtrni tozalash</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Filtrlarni ochish</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Birinchi sahifa</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Oldingi sahifa</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Keyingi sahifa</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Haqiqiy mantiqiy emas</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>{0} turiga o'tkazish amalga oshirilmadi</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>{0}turidan {1} ga o'tib bo'lmadi</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Ko'proq</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Haqiqiy raqam emas</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Haqiqiy GUID emas</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Haqiqiy sana vaqti emas</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Haqiqiy {0} emas</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Aylantirish xato: {0}</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Ochish</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Kamroq</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Kengaytirish</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Ochish</value>
+  </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>'{0} ' fayli ruxsat etilgan maksimal {1} bayt hajmidan oshib ketadi.</value>
+  </data>
 </root>
