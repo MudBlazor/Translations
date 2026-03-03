@@ -377,7 +377,7 @@
     <value>Meer</value>
   </data>
   <data name="Converter_InvalidDateTime" xml:space="preserve">
-    <value>Geen geldige datum/tijd</value>
+    <value>Geen geldige datum</value>
   </data>
   <data name="Converter_ConversionNotImplemented" xml:space="preserve">
     <value>Het omzetten naar type {0} is niet beschikbaar</value>
