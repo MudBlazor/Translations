@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,121 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>அதற்குப் பிறகு</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>அனைத்தையும் காண்பிக்க</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>இதுவல்ல</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>வரிசையில்லாமல் மாற்று</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>கொண்டிருக்கிறது</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>காலியாக இல்லை</value>
+  </data>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>இடு</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>அகற்று</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>வடிகட்டியைச் சேர்க்க</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>ரத்து செய்ய</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>ஏற்றப்படுகிறது...</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>சேமிக்க</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>அனைத்தையும் மறைக்க</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>நெடுவரிசைகள்</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>அனைத்து குழுக்களையும் விரிக்க</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>அனைத்து குழுக்களையும் மடிக்க</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>தரவை புதுப்பிக்க</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>மெய்</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>பொய்</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>குழுமற்றதாக மாற்று</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>மதிப்பின் மூலம் வடிகட்ட</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>கொண்டிருக்கவில்லை</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>நிகரானது</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>ஆகும்</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>அது அல்லது அதற்குப் பிறகு உள்ளது</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>அதற்குப் முன்பு</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>வடிகட்ட</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>குழுவாக்க</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>நிகராக இல்லை</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>மறைக்க</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>இதனால் தொடங்குகிறது</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>இதனால் முடிகிறது</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>காலியாக உள்ளது</value>
+  </data>
 </root>
