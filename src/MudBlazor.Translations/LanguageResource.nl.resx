@@ -140,7 +140,7 @@
     <value>Sluit melding</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
-    <value>Alpha Slider</value>
+    <value>Alpha regelaar</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
     <value>Vorig jaar {0}</value>
@@ -383,7 +383,7 @@
     <value>Het omzetten naar type {0} is niet beschikbaar</value>
   </data>
   <data name="Converter_ConversionFailed" xml:space="preserve">
-    <value>De conversie van {0} naar {1} is mislukt: {2}</value>
+    <value>De conversie van {0} naar {1} is gefaald: {2}</value>
   </data>
   <data name="MudExitPrompt_Title" xml:space="preserve">
     <value>Bevestig navigeren</value>
