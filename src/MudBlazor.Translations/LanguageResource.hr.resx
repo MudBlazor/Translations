@@ -68,13 +68,13 @@
     <value>Učitavanje...</value>
   </data>
   <data name="MudDataGrid_AddFilter" xml:space="preserve">
-    <value>Dodaj filter</value>
+    <value>Dodaj Filter</value>
   </data>
   <data name="MudDataGrid_Cancel" xml:space="preserve">
-    <value>Odustani</value>
+    <value>Otkaži</value>
   </data>
   <data name="MudDataGrid_Save" xml:space="preserve">
-    <value>Spremi</value>
+    <value>Sačuvaj</value>
   </data>
   <data name="MudDataGrid_HideAll" xml:space="preserve">
     <value>Sakrij Sve</value>
@@ -95,13 +95,13 @@
     <value>Osvježi podatke</value>
   </data>
   <data name="MudDataGrid_True" xml:space="preserve">
-    <value>istinito</value>
+    <value>true</value>
   </data>
   <data name="MudDataGrid_Unsort" xml:space="preserve">
     <value>Ukloni poredak</value>
   </data>
   <data name="MudDataGrid_Filter" xml:space="preserve">
-    <value>Filtriranje</value>
+    <value>Filtar</value>
   </data>
   <data name="MudDataGrid_Hide" xml:space="preserve">
     <value>Sakrij</value>
@@ -114,5 +114,275 @@
   </data>
   <data name="MudDataGrid_FilterValue" xml:space="preserve">
     <value>Vrijednost za filtriranje</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Očisti Filter</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Ukloni Filter</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>pogrešno</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>počinje sa</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>je</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>je na ili prije</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Pomakni dolje</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Poredaj</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Klizač prozirnosti</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Trenutna stranica {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Početna stranica</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Zadnja stranica</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} Ocjena</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Naredno</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Očisti</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>je na ili poslije</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>ne sadrži</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>različito</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>završava sa</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>nije prazno</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>je poslije</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Operator</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Promjeni na Palete prikaz</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Prethodna godina {0}</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Naredna stranica</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Prethodna stranica</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Zatvori dijalog</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Naredba godina {0}</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Naredno</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>sadrži</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Prebaci {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Prethodni mjesec {0}</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Smanjenje</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Sve</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Početna Stranica</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>jednako</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>je prazno</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Naredni mjesec {0}</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Tabelarni sadržaj</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Promjeni na Rešetka prikaz</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Kolona</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Prethodno</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Zatvori Picker</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Početna stranica</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Promjeni Prikaz Grupe</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>nije</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Zadnja stranica</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Naredna stranica</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>je prije</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Vrijednost</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Zatvori snackbar</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Indeks {0}</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Pomakni gore</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} od {2}</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Preskoči</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Zatvori Upozorenje</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Prethodno</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Uvećanje</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Završi</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>Zatvori Čip</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Otvori Filtere</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Promjeni na Spectrum prikaz</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Prethodna Stranica</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Klizač nijanse</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>Stranica {0}</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Naredna Stranica</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Zadnja Stranica</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Promjena načina rada</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Prethodna stranica</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Prikaži Mogućnosti za Urediti Stupace</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Nije važeća Booleova vrijednost</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Nije važeći broj</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Nije važeći GUID</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Nije vrijednost od {0}</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Nije važeće za {0}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Nije moguće pretvoriti u {0} iz {1}</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Manje</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Nije važeći datum i vrijeme</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Nije važeći vremenski raspon</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Pretvorba u tip {0} nije implementirana</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Više</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Pogreška kod pretvorbe: {0}</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Pretvorba iz {0} u {1} nije uspjela: {2}</value>
   </data>
 </root>

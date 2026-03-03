@@ -173,16 +173,16 @@
     <value>Nästa månad {0}</value>
   </data>
   <data name="MudAlert_Close" xml:space="preserve">
-    <value>Stäng varning</value>
+    <value>Stäng</value>
   </data>
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
     <value>Nästa år {0}</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
-    <value>Stäng väljare</value>
+    <value>Stäng</value>
   </data>
   <data name="MudChip_Close" xml:space="preserve">
-    <value>Stäng chip</value>
+    <value>Stäng</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
     <value>Föregående år {0}</value>
@@ -212,7 +212,7 @@
     <value>Sida {0}</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
-    <value>Stäng dialog</value>
+    <value>Stäng</value>
   </data>
   <data name="MudTablePager_LastPage" xml:space="preserve">
     <value>Sista sidan</value>
@@ -245,7 +245,7 @@
     <value>Nästa sida</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
-    <value>Stäng banderoll</value>
+    <value>Stäng</value>
   </data>
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
     <value>Rader per sida:</value>
@@ -290,7 +290,7 @@
     <value>är lika med</value>
   </data>
   <data name="MudDataGrid_NotEquals" xml:space="preserve">
-    <value>är inte lika med</value>
+    <value>skilt från</value>
   </data>
   <data name="MudStepper_Previous" xml:space="preserve">
     <value>Föregående</value>
@@ -311,9 +311,168 @@
     <value>Operator</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
-    <value>Byt till spektrumvy</value>
+    <value>Spektrumvy</value>
   </data>
   <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
     <value>Ändra läge</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Byt till grid-vy</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Palett</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Göm färgkartor</value>
+  </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Visa färgkartor</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Växla gruppering</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Ta bort filter</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Första sidan</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Föregående sida</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Nästa sida</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Sista sidan</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Kolumnalternativ</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Ogiltig boolesk</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Ogiltigt nummer</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Ogiltig GUID</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Ogiltigt värde för {0}</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Ogiltigt datum och tid</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Ogiltigt tidsspann</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Ogiltig {0}</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Konvertering till typen {0} är inte implementerad</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Konverteringsfel: {0}</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Konvertering från {0} till {1} gick fel: {2}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Kan inte konvertera från {0} till typen {1}</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Mindre</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Mer</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Expandera</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Kollapsa</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Öppna</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Öppna</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Öppna</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Återställ filter</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Visa filter</value>
+  </data>
+  <data name="MudTable_CancelEditRow" xml:space="preserve">
+    <value>Avbryt ändring</value>
+  </data>
+  <data name="MudExitPrompt_Cancel" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="MudDataGrid_CollapseGroup" xml:space="preserve">
+    <value>Fäll ihop grupp</value>
+  </data>
+  <data name="MudDataGrid_ExpandGroup" xml:space="preserve">
+    <value>Fäll ut grupp</value>
+  </data>
+  <data name="MudTable_Loading" xml:space="preserve">
+    <value>Laddar....</value>
+  </data>
+  <data name="MudTable_EditRow" xml:space="preserve">
+    <value>Ändra rad</value>
+  </data>
+  <data name="MudTable_CommitRow" xml:space="preserve">
+    <value>Spara rad</value>
+  </data>
+  <data name="MudExitPrompt_Exit" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="MudTable_ExpandGroup" xml:space="preserve">
+    <value>Fäll ut grupp</value>
+  </data>
+  <data name="MudTable_CollapseGroup" xml:space="preserve">
+    <value>Fäll in grupp</value>
+  </data>
+  <data name="MudFileUpload_DragAndDrop" xml:space="preserve">
+    <value>Dra filer hit eller klicka för att bläddra</value>
+  </data>
+  <data name="MudFileUpload_Button" xml:space="preserve">
+    <value>Bläddra efter filer</value>
+  </data>
+  <data name="MudTabs_ScrollLeft" xml:space="preserve">
+    <value>Scrolla vänster</value>
+  </data>
+  <data name="MudTabs_ScrollRight" xml:space="preserve">
+    <value>Scrolla höger</value>
+  </data>
+  <data name="MudTabs_ScrollUp" xml:space="preserve">
+    <value>Scrolla upp</value>
+  </data>
+  <data name="MudTabs_CloseTab" xml:space="preserve">
+    <value>Stäng flik</value>
+  </data>
+  <data name="MudTabs_AddTab" xml:space="preserve">
+    <value>Lägg till flik</value>
+  </data>
+  <data name="MudTabs_ScrollDown" xml:space="preserve">
+    <value>Scrolla ner</value>
+  </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>Filen '{0}' överskrider den maximalt tillåtna storleken på {1} bitar.</value>
+  </data>
+  <data name="MudFileUpload_MaximumFileCountExceeded" xml:space="preserve">
+    <value>Valda {0} filer, vilket överskrider maxvärdet på {1}</value>
+  </data>
+  <data name="MudExitPrompt_Title" xml:space="preserve">
+    <value>Godkänn navigering</value>
+  </data>
+  <data name="MudExitPrompt_Text" xml:space="preserve">
+    <value>Lämna sidan? Ändringar som du har gjort kanske inte har sparats</value>
   </data>
 </root>

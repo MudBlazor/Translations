@@ -110,10 +110,10 @@
     <value>قيمة الفلتر</value>
   </data>
   <data name="MudDataGrid_Columns" xml:space="preserve">
-    <value>الأعمدة</value>
+    <value>الحقول</value>
   </data>
   <data name="MudDataGrid_False" xml:space="preserve">
-    <value>خطأ</value>
+    <value>خاطئ</value>
   </data>
   <data name="MudDataGrid_NotEquals" xml:space="preserve">
     <value>لا يساوي</value>
@@ -134,10 +134,10 @@
     <value>الكل</value>
   </data>
   <data name="MudDataGrid_Clear" xml:space="preserve">
-    <value>مسح</value>
+    <value>إزالة</value>
   </data>
   <data name="MudDataGrid_StartsWith" xml:space="preserve">
-    <value>يبدأ بـ</value>
+    <value>يبدء بـ</value>
   </data>
   <data name="MudDataGrid_EndsWith" xml:space="preserve">
     <value>ينتهي بـ</value>
@@ -146,7 +146,7 @@
     <value>فارغ</value>
   </data>
   <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
-    <value>ليس فارغ</value>
+    <value>غير فارغ</value>
   </data>
   <data name="MudDataGrid_Is" xml:space="preserve">
     <value>يكون</value>
@@ -192,5 +192,116 @@
   </data>
   <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
     <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>إغلاق التحذير</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>إغلاق القصاصة</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>تبديل إلى عرض النطاق</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>يختلف عن</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>إغلاق الملتقط</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>على أو بعد</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>تبديل {0}</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>الصفحة التالية</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>الصفحة {0}</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>التالي</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>مسح</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>الفهرس</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>قبل</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>الصفحة السابقة</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0} تقييم</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>{0} مؤشر</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>السابق</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>الصفحة الأخيرة</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>على أو بعد</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>شهر قادم {0}</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>غلق الحوار</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>تناقص</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>تزايد</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>الصفحة الأولى</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>الصفحة التالية</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>الصفحة السابقة</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>غلق القائمة</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>حقل</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>شهر السابق {0}</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>الصفحة الحالية {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>الصفحة الأولى</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>الصفحة الأخيرة</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} من {2}</value>
   </data>
 </root>

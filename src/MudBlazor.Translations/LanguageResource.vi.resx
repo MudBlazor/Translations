@@ -307,4 +307,79 @@
   <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
     <value>{0}-{1} trong {2}</value>
   </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>Tiếp theo</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>Trước</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>Bỏ qua</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>Hoàn thành</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>Đặt lại</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Xóa bộ lọc</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Mở bộ lọc</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Loại bỏ bộ lọc</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Trang đầu</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Trang sau</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Trang trước</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Trang cuối</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Boolean không hợp lệ</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Số không hợp lệ</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>GUID không hợp lệ</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Không phải giá trị của {0}</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Ngày giờ không hợp lệ</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Khoảng thời gian không hợp lệ</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>{0} không hợp lệ</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Kiểu chuyển đổi {0} chưa được triển khai</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Lỗi chuyển đổi: {0}</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Chuyển đổi từ {0} sang {1} không thành công: {2}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Không thể chuyển đổi từ loại {1} sang {0}</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Ít hơn</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Nhiều hơn</value>
+  </data>
 </root>

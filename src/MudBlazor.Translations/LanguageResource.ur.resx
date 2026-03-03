@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,190 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>لاگو کریں</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>صاف کریں</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>چھانیں</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>منسوخ</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>سب چھپائیں</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>کالمز</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>محفوٰظ کریں</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>سب دکھائیں</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>تمام گروپوں کو سمیٹیں</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>درست</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>ڈیٹا تازہ کریں</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>پر مشتمل ہے</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>پرنھیں مشتمل ہے</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>برابر ہے</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>شروع ہوتا ہے</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>ختم ہوتا ہے</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>خالی نہیں ہے</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>برابر</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>غیر برابر</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>سے زیادہ ہے</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>سے زیادہ یا برابر ہے</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>سے کم ہے</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>ہے</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>نہیں ہے</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>اس کے ساتھ یا بعد ہے</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>کالم</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>قدر</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>نیچے لے جائیں</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>اوپر لےآئیں</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>ترتیب دیں</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>گرڈ ویو پرمنتقلی کریں۔</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>غلط</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>بے ترتیب</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>چھپائیں</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>بلا گروپ</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>برابر نہیں ہے</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>خالی ہے</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>سے کم یا برابر ہے</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>اس کے بعد ہے</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>اس سے پہلے ہے</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>اس کے ساتھ یا پہلے ہے</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>چھاننی</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>گروپ</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>رنگت کی تبدیلی کا پیمانہ</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>موجودہ انگ تبدیل کریں</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>چھاننی کی ترکیب</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>پھلا صفحہ</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>آخری صفحہ</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>اکلا صفحہ</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>پچھلا صفحہ</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>اگلا</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>پچھلا</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>ڈائلاگ باکس بند کریں</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>صاف کریں</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>کم کریں</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>بڑھائیں</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>مندرجات کی فھرست</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>پھلا صفحہ</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>آخری صفحہ</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>اگلا صفحہ</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>پچھلا صفحہ</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>تمام</value>
+  </data>
 </root>
