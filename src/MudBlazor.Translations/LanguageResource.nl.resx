@@ -403,4 +403,7 @@
   <data name="MudColorPicker_HideSwatches" xml:space="preserve">
     <value>Verberg kleurstalen</value>
   </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Schakel modus</value>
+  </data>
 </root>
