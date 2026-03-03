@@ -101,7 +101,7 @@
     <value>Incrementa</value>
   </data>
   <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
-    <value>Indice</value>
+    <value>Sommario</value>
   </data>
   <data name="MudTablePager_NextPage" xml:space="preserve">
     <value>Pagina successiva</value>
@@ -299,7 +299,7 @@
     <value>Muovi in Alto</value>
   </data>
   <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
-    <value>Anno precedente {0}</value>
+    <value>Cambia Modalità {0}</value>
   </data>
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
     <value>Righe per pagina:</value>
