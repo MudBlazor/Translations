@@ -371,7 +371,7 @@
     <value>Pagina Precedente</value>
   </data>
   <data name="MudStepper_Reset" xml:space="preserve">
-    <value>Ricomincia</value>
+    <value>Reimposta</value>
   </data>
   <data name="MudTimePicker_Open" xml:space="preserve">
     <value>Apri</value>
@@ -443,7 +443,7 @@
     <value>Scorri schede in basso</value>
   </data>
   <data name="MudTreeView_CollapseItem" xml:space="preserve">
-    <value>Comprimi</value>
+    <value>Collassa</value>
   </data>
   <data name="MudFileUpload_MaximumFileCountExceeded" xml:space="preserve">
     <value>Selezionati {0} file, che superano il massimo di {1}</value>
@@ -459,5 +459,20 @@
   </data>
   <data name="MudFileUpload_FileSizeError" xml:space="preserve">
     <value>Il file '{0}' supera la dimensione massima di {1} bytes</value>
+  </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Visualizza campioni</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Nascondi campioni</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Espandi</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Apri</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Apri</value>
   </data>
 </root>
