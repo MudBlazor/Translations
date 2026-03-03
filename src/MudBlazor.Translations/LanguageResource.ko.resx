@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
@@ -11,4 +12,334 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>거짓</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>이상</value>
+  </data>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>적용</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>정렬</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>올바른 날짜 시간 형식이 아닙니다</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>이전</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>이후 시점</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>저장</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>그룹 해제</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>다름</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>모두 숨기기</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>포함</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>모두 보이기</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>숨기기</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>참</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>컬럼</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>그룹</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>{0} 페이지</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>모두</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>필터 제거</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>정렬 해제</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>이전</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>필터 제거</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>필터</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>값이 있음</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>같음</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>비어 있음</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>컬럼</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>필터 값을 입력하세요</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>조건</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>증가</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>건너뛰기</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>처음부터</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>올바른 시간 범위 형식이 아닙니다</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>먼저 시점</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>이전 시점</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>나중 시점</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>불투명도 슬라이더</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>같음</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>모드 전환</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>이전</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>감소</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>이전</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>모두 펼치기</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>모두 접기</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>새로 고침</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>목차</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>지우기</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>{0} 접기/펼치기</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>제거</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>컬럼 옵션</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>올바른 {0} 형식이 아닙니다</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>마지막</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>{0} → {1} 변환이 실패했습니다: {2}</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>완료</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>다름</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>스펙트럼 보기</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>격자 보기</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>처음</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>팔레트 보기</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>마지막</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>색조 슬라이더</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>닫기</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>불러오는 중...</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>올바른 GUID 형식이 아닙니다</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>다음 ({0})</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>{0} 페이지 (현재)</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>끝맺음</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>초과</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>미포함</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>이전 ({0}년)</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>시작함</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>다음 ({0}년)</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>기준값</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>이전 ({0})</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>아래로</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>위로</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>{1} → {0}의 변환은 불가능합니다</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>마지막</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>{0}점</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>{0} 페이지</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>닫기</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>표시할 행 수:</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>이하</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>처음</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>그룹 펼치기/접기</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>미만</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>닫기</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>올바른 숫자 형식이 아닙니다</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>작아짐</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>{0} 값으로 변환하는 기능이 구현되지 않았습니다</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>이전</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>'참/거짓' 값이 아닙니다</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>커짐</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>필터 목록</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>변환 중 오류가 발생했습니다: {0}</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>새 필터 추가</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>같음</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>닫기</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>처음</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>올바른 {0} 값이 아닙니다</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>모두 지우기</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>다름</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}~{1} (총 {2}건)</value>
+  </data>
 </root>
