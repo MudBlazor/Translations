@@ -65,10 +65,10 @@
     <value>Chiudi Avviso</value>
   </data>
   <data name="MudChip_Close" xml:space="preserve">
-    <value>Chiudi Chip</value>
+    <value>Chiudi</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
-    <value>Chiudi Selezione</value>
+    <value>Chiudi</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
     <value>Passa alla Vista Spettro</value>
@@ -456,5 +456,8 @@
   </data>
   <data name="MudExitPrompt_Exit" xml:space="preserve">
     <value>Ok</value>
+  </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>Il file '{0}' supera la dimensione massima di {1} bytes</value>
   </data>
 </root>
