@@ -329,7 +329,7 @@
     <value>Visa färgkartor</value>
   </data>
   <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
-    <value>Växla grupp</value>
+    <value>Växla gruppering</value>
   </data>
   <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
     <value>Ta bort filter</value>
@@ -402,5 +402,35 @@
   </data>
   <data name="MudColorPicker_Open" xml:space="preserve">
     <value>Öppna</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Återställ filter</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Visa filter</value>
+  </data>
+  <data name="MudTable_CancelEditRow" xml:space="preserve">
+    <value>Avbryt ändring</value>
+  </data>
+  <data name="MudExitPrompt_Cancel" xml:space="preserve">
+    <value>Avbryt</value>
+  </data>
+  <data name="MudDataGrid_CollapseGroup" xml:space="preserve">
+    <value>Fäll ihop grupp</value>
+  </data>
+  <data name="MudDataGrid_ExpandGroup" xml:space="preserve">
+    <value>Fäll ut grupp</value>
+  </data>
+  <data name="MudTable_Loading" xml:space="preserve">
+    <value>Laddar....</value>
+  </data>
+  <data name="MudTable_EditRow" xml:space="preserve">
+    <value>Ändra rad</value>
+  </data>
+  <data name="MudTable_CommitRow" xml:space="preserve">
+    <value>Spara rad</value>
+  </data>
+  <data name="MudExitPrompt_Exit" xml:space="preserve">
+    <value>OK</value>
   </data>
 </root>
