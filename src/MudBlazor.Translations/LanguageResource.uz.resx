@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>Tozalash</value>
+  </data>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>Qo‘llash</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Yashirish</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>true</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Filtr qo‘shish</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Bekor qilish</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Yuklanmoqda...</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Barcha guruhlarni kengaytirish</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Ma'lumotlarni yangilash</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Saralashni bekor qilish</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Saqlash</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Barcha guruhlarni qisqartirish</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>false</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Filtr</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Barchasini yashirish</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Guruhni ajratish</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Barchasini ko‘rsatish</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Ustunlar</value>
+  </data>
 </root>
