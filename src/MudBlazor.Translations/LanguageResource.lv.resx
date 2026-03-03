@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,316 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>Pielietot</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>Notīrīt</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>Pievienot filtru</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>Atcelt</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>Ielādējas...</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>Saglabāt</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>Noslēpt visu</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>Noņemt kārtošanu</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>Filtrs</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>Slēpt</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>Atgrupēt</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>Grupēt</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>Filtra vērtība</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>satur</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>nesatur</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>nav vienāds ar</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>sākas ar</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>beidzas ar</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>ir tukšs</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>ir</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>ir aiz</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>vienāds vai pēc</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>Zemāk</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>Parādīt visu</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>vienāds ar</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>nav tukšs</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>nav</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>Kolonnas</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>pirms</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>ir pirms vai vienāds</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>Kolonna</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>Augstāk</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>Pārslēgt {0}</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>Aizvērt ziņu</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>Aizvērt</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>Operators</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>Vērtība</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>Kārtot</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>Pārslēgties uz spektru</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>Atvērt visas grupas</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>Pārslēgties uz režģa skatu</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>Pārslēgt režīmu</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>Nākamā lapa</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>{0}. lapa</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>Reitings {0}</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>Indekss {0}</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>Palielināt</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>Saturs</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} (no {2})</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>Sakļaut visas grupas</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>Pārslēgties uz paleti</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>Pagājušais gads {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>Nākamais gads {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>Pagājušais mēnesis {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>Pirmā lapa</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>Pēdējā lapa</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>Iepriekšējā lapa</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>Nākamā</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>Iepriekšējā</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>Aizvērt dialogu</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>Pirmā lapa</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>Iepriekšējā lapa</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>Aizvērt</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>Rindas lapā:</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>Atjaunināt datus</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>Toņa slīdnis</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>Caurspīdīguma slīdnis</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>Nākamais mēnesis {0}</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>Notīrīt</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>Samazināt</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>Pēdējā lapa</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>Nākamā lapa</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>Visas</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>patiess</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>nepatiess</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>Pašreizējā lapa {0}</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Nederīga datuma/laika vērtība</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>Notīrīt filtru</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Atvērt/aizvērt grupu</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Parādīt kolonnu opcijas</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>Atvērt filtrus</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>Noņemt filtru</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Pirmā lapa</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>Iepr. lapa</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>Nāk. lapa</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Mazāk</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Pēd. lapa</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Nederīga būla vērtība</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Nederīgs cipars</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Nederīgs GUID</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Nav pieņemama {0} vērtība</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Vairāk</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Nederīga laikposma vērtība</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Nederīga {0} vērtība</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Konvertācija uz {0} tipu nav implementēta</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Konvertēšanas kļūda: {0}</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>Konvertēšana no {0} uz {1} neizdevās: {2}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Nav iespējama konvertēšana uz {0} no {1} tipa</value>
+  </data>
 </root>
