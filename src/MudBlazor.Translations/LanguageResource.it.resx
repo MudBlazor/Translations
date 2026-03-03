@@ -389,7 +389,7 @@
     <value>Mostra Opzioni Colonne</value>
   </data>
   <data name="MudDataGrid_ClearFilter" xml:space="preserve">
-    <value>Rimuovi Filtri</value>
+    <value>Rimuovi filtro</value>
   </data>
   <data name="MudTable_CommitRow" xml:space="preserve">
     <value>Conferma modifica</value>
