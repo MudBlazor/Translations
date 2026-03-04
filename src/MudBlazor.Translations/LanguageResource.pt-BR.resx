@@ -346,4 +346,10 @@
   <data name="MudDataGridPager_LastPage" xml:space="preserve">
     <value>Última Página</value>
   </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>Não é um número válido</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>Não é um GUID válido</value>
+  </data>
 </root>
