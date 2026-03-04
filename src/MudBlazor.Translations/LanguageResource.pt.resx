@@ -362,7 +362,7 @@
     <value>Diminuir</value>
   </data>
   <data name="MudInput_Increment" xml:space="preserve">
-    <value>Aumentar</value>
+    <value>Incrementar</value>
   </data>
   <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
     <value>Linhas por página:</value>
