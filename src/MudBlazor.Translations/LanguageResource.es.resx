@@ -342,4 +342,13 @@
   <data name="MudDataGridPager_FirstPage" xml:space="preserve">
     <value>Página inicial</value>
   </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>Última página</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Fecha/Hora no válida</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Conversión al tipo {0} no implementado</value>
+  </data>
 </root>
