@@ -28,17 +28,24 @@
       <PackagePath>\</PackagePath>
     </None>
   </ItemGroup>
+  <!-- Automatically setup Husky.Net, set HUSKY to 0 in CI/CD disable this -->
   <Target
-    Name="Husky"
-    BeforeTargets="Restore;CollectPackageReferences"
-    Condition="'$(HUSKY)' != 0 and '$(IsCrossTargetingBuild)' == 'true'"
+    Name="husky"
+    AfterTargets="Restore"
+    Condition="'$(HUSKY)' != 0"
+    Inputs="../../dotnet-tools.json"
+    Outputs="../../.husky/_/install.stamp"
   >
     <Exec Command="dotnet tool restore" StandardOutputImportance="Low" StandardErrorImportance="High" />
     <Exec
       Command="dotnet husky install"
       StandardOutputImportance="Low"
       StandardErrorImportance="High"
-      WorkingDirectory="../.."
+      WorkingDirectory="../../"
     />
+    <Touch Files="../../.husky/_/install.stamp" AlwaysCreate="true" />
+    <ItemGroup>
+      <FileWrites Include="../../.husky/_/install.stamp" />
+    </ItemGroup>
   </Target>
 </Project>
