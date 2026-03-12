@@ -339,4 +339,7 @@
   <data name="MudFileUpload_FileSizeError" xml:space="preserve">
     <value>Archivo '{0}' excede el tamaño máximo permitido de {1} bytes.</value>
   </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>Página inicial</value>
+  </data>
 </root>
