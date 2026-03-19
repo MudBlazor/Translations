@@ -475,7 +475,7 @@
     <value>Conversão de {0} para {1} falhou: {2}</value>
   </data>
   <data name="Converter_UnableToConvert" xml:space="preserve">
-    <value>Não é possível converter para {0} do tipo {1]</value>
+    <value>Não é possível converter para {0} do tipo {1}</value>
   </data>
   <data name="HeatMap_Less" xml:space="preserve">
     <value>Menos</value>
