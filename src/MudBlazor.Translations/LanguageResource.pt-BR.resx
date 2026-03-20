@@ -463,4 +463,10 @@
   <data name="HeatMap_More" xml:space="preserve">
     <value>Mais</value>
   </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Abrir</value>
+  </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>O arquivo '{0}' excede o tamanho máximo permitido de {1} bytes.</value>
+  </data>
 </root>
