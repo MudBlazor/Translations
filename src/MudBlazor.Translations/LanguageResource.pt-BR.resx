@@ -469,4 +469,10 @@
   <data name="MudFileUpload_FileSizeError" xml:space="preserve">
     <value>O arquivo '{0}' excede o tamanho máximo permitido de {1} bytes.</value>
   </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Mostrar amostras</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Esconder amostras</value>
+  </data>
 </root>
