@@ -326,7 +326,7 @@
     <value>Exibir filtros</value>
   </data>
   <data name="MudStepper_Reset" xml:space="preserve">
-    <value>Reiniciar</value>
+    <value>Redefinir</value>
   </data>
   <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
     <value>Remover filtro</value>
