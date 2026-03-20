@@ -352,4 +352,88 @@
   <data name="Converter_InvalidGUID" xml:space="preserve">
     <value>Não é um GUID válido</value>
   </data>
+  <data name="MudFileUpload_DragAndDrop" xml:space="preserve">
+    <value>Solte arquivos aqui ou clique para procurar</value>
+  </data>
+  <data name="MudDataGrid_CollapseGroup" xml:space="preserve">
+    <value>Recolher grupo</value>
+  </data>
+  <data name="MudDataGrid_ExpandGroup" xml:space="preserve">
+    <value>Expandir grupo</value>
+  </data>
+  <data name="MudTable_Loading" xml:space="preserve">
+    <value>Carregando...</value>
+  </data>
+  <data name="MudTable_ExpandGroup" xml:space="preserve">
+    <value>Expandir grupo</value>
+  </data>
+  <data name="MudTable_EditRow" xml:space="preserve">
+    <value>Editar linha</value>
+  </data>
+  <data name="MudTable_CancelEditRow" xml:space="preserve">
+    <value>Cancelar edição</value>
+  </data>
+  <data name="MudTable_CollapseGroup" xml:space="preserve">
+    <value>Recolher grupo</value>
+  </data>
+  <data name="MudTable_CommitRow" xml:space="preserve">
+    <value>Confirmar edição</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Alternar grupo</value>
+  </data>
+  <data name="MudFileUpload_Button" xml:space="preserve">
+    <value>Procurar arquivos</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>Não é um valor do tipo {0}</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Não é uma data/hora válida</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>Não é um intervalo de tempo válido</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Expandir</value>
+  </data>
+  <data name="MudTabs_ScrollLeft" xml:space="preserve">
+    <value>Rolar abas para esquerda</value>
+  </data>
+  <data name="MudTabs_ScrollRight" xml:space="preserve">
+    <value>Rolar abas para direita</value>
+  </data>
+  <data name="MudTabs_CloseTab" xml:space="preserve">
+    <value>Fechar aba</value>
+  </data>
+  <data name="MudTabs_AddTab" xml:space="preserve">
+    <value>Adicionar aba</value>
+  </data>
+  <data name="MudTabs_ScrollDown" xml:space="preserve">
+    <value>Rolar abas abaixo</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Recolher</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Abrir</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Abrir</value>
+  </data>
+  <data name="MudFileUpload_MaximumFileCountExceeded" xml:space="preserve">
+    <value>Foram selecionados {0} arquivo(s), que excedem o máximo de {1}</value>
+  </data>
+  <data name="MudExitPrompt_Title" xml:space="preserve">
+    <value>Confirmar Navegação</value>
+  </data>
+  <data name="MudExitPrompt_Text" xml:space="preserve">
+    <value>Vai deixar o site? As alterações que você fez não serão salvas.</value>
+  </data>
+  <data name="MudExitPrompt_Exit" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="MudExitPrompt_Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
 </root>
