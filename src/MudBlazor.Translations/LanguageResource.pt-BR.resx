@@ -439,4 +439,28 @@
   <data name="MudTabs_ScrollUp" xml:space="preserve">
     <value>Rolar abas para cima</value>
   </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Não é um {0} válido</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>Erro de conversão: {0}</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>A conversão de {0} para {1} falhou: {2}</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>Não é um booleano válido</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>Conversão para o tipo {0} não implementada</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>Não é possível converter para {0} do tipo {1}</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>Menos</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>Mais</value>
+  </data>
 </root>
