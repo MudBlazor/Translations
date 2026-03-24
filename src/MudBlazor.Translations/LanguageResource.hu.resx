@@ -412,4 +412,67 @@
   <data name="MudFileUpload_FileSizeError" xml:space="preserve">
     <value>A '{0}' fájl meghaladja a megengedett maximális {1} bájt méretet.</value>
   </data>
+  <data name="MudFileUpload_DragAndDrop" xml:space="preserve">
+    <value>Húzza ide a fájlokat, vagy kattintson a böngészéshez</value>
+  </data>
+  <data name="MudDataGrid_CollapseGroup" xml:space="preserve">
+    <value>Csoportosítás összecsukása</value>
+  </data>
+  <data name="MudDataGrid_ExpandGroup" xml:space="preserve">
+    <value>Csoportosítás kinyitása</value>
+  </data>
+  <data name="MudTable_Loading" xml:space="preserve">
+    <value>Töltés...</value>
+  </data>
+  <data name="MudTable_EditRow" xml:space="preserve">
+    <value>Sor szerkesztése</value>
+  </data>
+  <data name="MudTable_CancelEditRow" xml:space="preserve">
+    <value>Módosítás visszavonása</value>
+  </data>
+  <data name="MudTable_CollapseGroup" xml:space="preserve">
+    <value>Csoportosítás összecsukása</value>
+  </data>
+  <data name="MudTable_CommitRow" xml:space="preserve">
+    <value>Szerkesztés jóváhagyása</value>
+  </data>
+  <data name="MudFileUpload_Button" xml:space="preserve">
+    <value>Fájlok böngészése</value>
+  </data>
+  <data name="MudTabs_ScrollLeft" xml:space="preserve">
+    <value>Fülek balra görgetése</value>
+  </data>
+  <data name="MudTabs_ScrollRight" xml:space="preserve">
+    <value>Fülek jobbra görgetése</value>
+  </data>
+  <data name="MudTabs_ScrollUp" xml:space="preserve">
+    <value>Fülek felfelé görgetése</value>
+  </data>
+  <data name="MudTabs_CloseTab" xml:space="preserve">
+    <value>Lap bezárása</value>
+  </data>
+  <data name="MudTabs_AddTab" xml:space="preserve">
+    <value>Lap hozzáadása</value>
+  </data>
+  <data name="MudTabs_ScrollDown" xml:space="preserve">
+    <value>Fülek lefelé görgetése</value>
+  </data>
+  <data name="MudFileUpload_MaximumFileCountExceeded" xml:space="preserve">
+    <value>{0} fájl lett kijelölve, ami meghaladja a {1} darabos maximális számot</value>
+  </data>
+  <data name="MudExitPrompt_Title" xml:space="preserve">
+    <value>Navigáció megerősítése</value>
+  </data>
+  <data name="MudExitPrompt_Text" xml:space="preserve">
+    <value>Elhagyja az oldalt? Előfordulhat, hogy a végzett módosítások nem kerülnek mentésre.</value>
+  </data>
+  <data name="MudExitPrompt_Exit" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="MudExitPrompt_Cancel" xml:space="preserve">
+    <value>Mégse</value>
+  </data>
+  <data name="MudTable_ExpandGroup" xml:space="preserve">
+    <value>Csoport kibontása</value>
+  </data>
 </root>
