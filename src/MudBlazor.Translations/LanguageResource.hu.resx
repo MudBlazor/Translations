@@ -475,4 +475,16 @@
   <data name="MudTable_ExpandGroup" xml:space="preserve">
     <value>Csoport kibontása</value>
   </data>
+  <data name="MudRangeInput_Start" xml:space="preserve">
+    <value>Kezdés</value>
+  </data>
+  <data name="MudRangeInput_End" xml:space="preserve">
+    <value>Vége</value>
+  </data>
+  <data name="MudDateRangePicker_Start" xml:space="preserve">
+    <value>Kezdő dátum</value>
+  </data>
+  <data name="MudDateRangePicker_End" xml:space="preserve">
+    <value>Vég dátum</value>
+  </data>
 </root>
