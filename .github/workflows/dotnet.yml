@@ -21,7 +21,7 @@ jobs:
         name: Check Formatting
         continue-on-error: true
         steps:
-            -   uses: actions/checkout@v6
+            -   uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
             -   run: |
                     dotnet tool restore
                     dotnet csharpier check .
@@ -30,13 +30,13 @@ jobs:
         runs-on: ubuntu-latest
         name: Test
         steps:
-            -   uses: actions/checkout@v6
+            -   uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
                 with:
                     fetch-depth: 0
 
             # Build
             -   name: Setup .NET
-                uses: actions/setup-dotnet@v5
+                uses: actions/setup-dotnet@c2fa09f4bde5ebb9d1777cf28262a3eb3db3ced7 # v5
                 with:
                     dotnet-version: |
                         8.0.x
@@ -52,7 +52,7 @@ jobs:
                 run: dotnet test --no-build --report-trx --coverage --coverage-output-format cobertura --coverage-output cobertura.xml --results-directory TestResults
 
             -   name: Publish Test Results
-                uses: EnricoMi/publish-unit-test-result-action@v2
+                uses: EnricoMi/publish-unit-test-result-action@c950f6fb443cb5af20a377fd0dfaa78838901040 # v2
                 if: (!cancelled())
                 with:
                     files: |
