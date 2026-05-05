@@ -4,8 +4,19 @@
         {
             "name": "Run csharpier",
             "command": "dotnet",
-            "args": ["csharpier", "format", "${staged}"],
-            "include": ["**/*.cs", "**/*.csproj", "**/*.props", "**/*.targets", "**/*.xml", "**/*.config"]
+            "args": [
+                "csharpier",
+                "format",
+                "${staged}"
+            ],
+            "include": [
+                "**/*.cs",
+                "**/*.csproj",
+                "**/*.props",
+                "**/*.targets",
+                "**/*.xml",
+                "**/*.config"
+            ]
         }
     ]
 }
