@@ -441,4 +441,10 @@
   <data name="MudDateRangePicker_End" xml:space="preserve">
     <value>Enddatum</value>
   </data>
+  <data name="MudDataGrid_SelectRow" xml:space="preserve">
+    <value>Zeile auswählen</value>
+  </data>
+  <data name="MudDataGrid_SelectAllRows" xml:space="preserve">
+    <value>Alle Zeilen auswählen</value>
+  </data>
 </root>
