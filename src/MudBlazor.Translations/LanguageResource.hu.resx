@@ -131,7 +131,7 @@
     <value>Mégse</value>
   </data>
   <data name="MudDataGrid_Loading" xml:space="preserve">
-    <value>Betöltés...</value>
+    <value>Betöltés…</value>
   </data>
   <data name="MudDataGrid_Save" xml:space="preserve">
     <value>Mentés</value>
@@ -422,7 +422,7 @@
     <value>Csoportosítás kinyitása</value>
   </data>
   <data name="MudTable_Loading" xml:space="preserve">
-    <value>Töltés...</value>
+    <value>Töltés…</value>
   </data>
   <data name="MudTable_EditRow" xml:space="preserve">
     <value>Sor szerkesztése</value>
@@ -486,5 +486,11 @@
   </data>
   <data name="MudDateRangePicker_End" xml:space="preserve">
     <value>Vég dátum</value>
+  </data>
+  <data name="MudDataGrid_SelectRow" xml:space="preserve">
+    <value>Sor kiválasztása</value>
+  </data>
+  <data name="MudDataGrid_SelectAllRows" xml:space="preserve">
+    <value>Összes sor kiválasztása</value>
   </data>
 </root>
