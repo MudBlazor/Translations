@@ -394,4 +394,25 @@
   <data name="MudDateRangePicker_End" xml:space="preserve">
     <value>Data końcowa</value>
   </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Pokaż próbki</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Ukryj próbki</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Przełącz grupę</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Zwiń</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Otwórz</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Otwórz</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Otwórz</value>
+  </data>
 </root>
