@@ -415,4 +415,7 @@
   <data name="MudColorPicker_Open" xml:space="preserve">
     <value>Otwórz</value>
   </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Pokaż opcje kolumny</value>
+  </data>
 </root>
