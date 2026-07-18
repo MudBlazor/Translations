@@ -104,7 +104,7 @@
     <value>Przełącz na widok palety</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
-    <value>Przełącz na widok widma</value>
+    <value>Paleta</value>
   </data>
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
     <value>Wszystkie</value>
@@ -290,7 +290,7 @@
     <value>Poprzednia strona</value>
   </data>
   <data name="MudRatingItem_Label" xml:space="preserve">
-    <value>{0} Ocena</value>
+    <value>{0} ocena</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
     <value>Zamknij snackbar</value>
@@ -375,5 +375,11 @@
   </data>
   <data name="HeatMap_More" xml:space="preserve">
     <value>Więcej</value>
+  </data>
+  <data name="MudTable_CancelEditRow" xml:space="preserve">
+    <value>Anuluj edycję</value>
+  </data>
+  <data name="MudFileUpload_MaximumFileCountExceeded" xml:space="preserve">
+    <value>Wybrano {0} plików, co przekracza maksymalną liczbę {1}</value>
   </data>
 </root>
