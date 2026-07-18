@@ -418,4 +418,16 @@
   <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
     <value>Pokaż opcje kolumny</value>
   </data>
+  <data name="MudDataGrid_CollapseGroup" xml:space="preserve">
+    <value>Zwiń grupę</value>
+  </data>
+  <data name="MudDataGrid_ExpandGroup" xml:space="preserve">
+    <value>Rozwiń grupę</value>
+  </data>
+  <data name="MudRangeInput_Start" xml:space="preserve">
+    <value>Początek</value>
+  </data>
+  <data name="MudRangeInput_End" xml:space="preserve">
+    <value>Koniec</value>
+  </data>
 </root>
