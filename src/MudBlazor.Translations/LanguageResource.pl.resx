@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MudAlert_Close" xml:space="preserve">
-    <value>Zamknij alert</value>
+    <value>Zamknij</value>
   </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
     <value>Następny miesiąc {0}</value>
@@ -83,16 +83,16 @@
     <value>Poprzedni</value>
   </data>
   <data name="MudChip_Close" xml:space="preserve">
-    <value>Zamknij czip</value>
+    <value>Zamknij</value>
   </data>
   <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
-    <value>Suwak alfa</value>
+    <value>Suwak przezroczystości</value>
   </data>
   <data name="MudColorPicker_Close" xml:space="preserve">
-    <value>Zamknij selektor</value>
+    <value>Zamknij</value>
   </data>
   <data name="MudColorPicker_GridView" xml:space="preserve">
-    <value>Przełącz na widok siatki</value>
+    <value>Siatka</value>
   </data>
   <data name="MudColorPicker_HueSlider" xml:space="preserve">
     <value>Suwak odcienia</value>
@@ -101,10 +101,10 @@
     <value>Zmień tryb</value>
   </data>
   <data name="MudColorPicker_PaletteView" xml:space="preserve">
-    <value>Przełącz na widok palety</value>
+    <value>Paleta</value>
   </data>
   <data name="MudColorPicker_SpectrumView" xml:space="preserve">
-    <value>Przełącz na widok widma</value>
+    <value>Spektrum</value>
   </data>
   <data name="MudDataGridPager_AllItems" xml:space="preserve">
     <value>Wszystkie</value>
@@ -206,7 +206,7 @@
     <value>&lt;</value>
   </data>
   <data name="MudDataGrid_Loading" xml:space="preserve">
-    <value>Ładowanie...</value>
+    <value>Ładowanie…</value>
   </data>
   <data name="MudDataGrid_MoveDown" xml:space="preserve">
     <value>Przejdź w dół</value>
@@ -254,7 +254,7 @@
     <value>Wartość</value>
   </data>
   <data name="MudDialog_Close" xml:space="preserve">
-    <value>Zamknij dialog</value>
+    <value>Zamknij</value>
   </data>
   <data name="MudInput_Clear" xml:space="preserve">
     <value>Wyczyść</value>
@@ -290,10 +290,10 @@
     <value>Poprzednia strona</value>
   </data>
   <data name="MudRatingItem_Label" xml:space="preserve">
-    <value>{0} Ocena</value>
+    <value>{0} ocena</value>
   </data>
   <data name="MudSnackbar_Close" xml:space="preserve">
-    <value>Zamknij snackbar</value>
+    <value>Zamknij</value>
   </data>
   <data name="MudTablePager_FirstPage" xml:space="preserve">
     <value>Pierwsza strona</value>
@@ -375,5 +375,122 @@
   </data>
   <data name="HeatMap_More" xml:space="preserve">
     <value>Więcej</value>
+  </data>
+  <data name="MudTable_CancelEditRow" xml:space="preserve">
+    <value>Anuluj edycję</value>
+  </data>
+  <data name="MudFileUpload_MaximumFileCountExceeded" xml:space="preserve">
+    <value>Wybrano {0} plików, co przekracza maksymalną liczbę {1}</value>
+  </data>
+  <data name="MudFileUpload_DragAndDrop" xml:space="preserve">
+    <value>Przeciągnij pliki tutaj lub kliknij, aby je wybrać</value>
+  </data>
+  <data name="MudTable_Loading" xml:space="preserve">
+    <value>Ładowanie…</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>Rozwiń</value>
+  </data>
+  <data name="MudDateRangePicker_End" xml:space="preserve">
+    <value>Data końcowa</value>
+  </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>Pokaż próbki</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>Ukryj próbki</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>Przełącz grupę</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>Zwiń</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>Otwórz</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>Otwórz</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>Otwórz</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>Pokaż opcje kolumny</value>
+  </data>
+  <data name="MudDataGrid_CollapseGroup" xml:space="preserve">
+    <value>Zwiń grupę</value>
+  </data>
+  <data name="MudDataGrid_ExpandGroup" xml:space="preserve">
+    <value>Rozwiń grupę</value>
+  </data>
+  <data name="MudRangeInput_Start" xml:space="preserve">
+    <value>Początek</value>
+  </data>
+  <data name="MudRangeInput_End" xml:space="preserve">
+    <value>Koniec</value>
+  </data>
+  <data name="MudTable_ExpandGroup" xml:space="preserve">
+    <value>Rozwiń grupę</value>
+  </data>
+  <data name="MudTable_EditRow" xml:space="preserve">
+    <value>Edytuj wiersz</value>
+  </data>
+  <data name="MudTable_CollapseGroup" xml:space="preserve">
+    <value>Zwiń grupę</value>
+  </data>
+  <data name="MudTable_CommitRow" xml:space="preserve">
+    <value>Zatwierdź edycję</value>
+  </data>
+  <data name="MudDataGrid_SelectRow" xml:space="preserve">
+    <value>Wybierz wiersz</value>
+  </data>
+  <data name="MudDataGrid_SelectAllRows" xml:space="preserve">
+    <value>Wybierz wszystkie wiersze</value>
+  </data>
+  <data name="MudFileUpload_Button" xml:space="preserve">
+    <value>Przeglądaj pliki</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>Nieprawidłowa data i godzina</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>Nieprawidłowy {0}</value>
+  </data>
+  <data name="MudTabs_ScrollLeft" xml:space="preserve">
+    <value>Przewiń zakładki w lewo</value>
+  </data>
+  <data name="MudTabs_ScrollRight" xml:space="preserve">
+    <value>Przewiń zakładki w prawo</value>
+  </data>
+  <data name="MudTabs_ScrollUp" xml:space="preserve">
+    <value>Przewiń zakładki w górę</value>
+  </data>
+  <data name="MudTabs_CloseTab" xml:space="preserve">
+    <value>Zamknij zakładkę</value>
+  </data>
+  <data name="MudTabs_AddTab" xml:space="preserve">
+    <value>Dodaj zakładkę</value>
+  </data>
+  <data name="MudTabs_ScrollDown" xml:space="preserve">
+    <value>Przewiń zakładki w dół</value>
+  </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>Plik '{0}' przekracza maksymalny dozwolony rozmiar {1} bajtów.</value>
+  </data>
+  <data name="MudExitPrompt_Title" xml:space="preserve">
+    <value>Potwierdzenie przejścia</value>
+  </data>
+  <data name="MudExitPrompt_Text" xml:space="preserve">
+    <value>Opuścić stronę? Wprowadzone zmiany mogą nie zostać zapisane.</value>
+  </data>
+  <data name="MudExitPrompt_Exit" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="MudExitPrompt_Cancel" xml:space="preserve">
+    <value>Anuluj</value>
+  </data>
+  <data name="MudDateRangePicker_Start" xml:space="preserve">
+    <value>Data początkowa</value>
   </data>
 </root>
