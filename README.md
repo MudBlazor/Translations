@@ -47,7 +47,7 @@ documentation page.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+This project is licensed under the [MIT License](https://github.com/MudBlazor/Translations/blob/main/LICENSE).
 
 ## Contributing
 
