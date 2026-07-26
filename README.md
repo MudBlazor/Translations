@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/github/license/meenzen/MudBlazor.Translations.svg)](https://github.com/meenzen/MudBlazor.Translations/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/MudBlazor/Translations.svg)](https://github.com/MudBlazor/Translations/blob/main/LICENSE)
 [![NuGet](https://img.shields.io/nuget/v/MudBlazor.Translations.svg)](https://www.nuget.org/packages/MudBlazor.Translations)
 [![NuGet](https://img.shields.io/nuget/dt/MudBlazor.Translations.svg)](https://www.nuget.org/packages/MudBlazor.Translations)
 [![Translation status](https://hosted.weblate.org/widget/mudblazor/svg-badge.svg)](https://hosted.weblate.org/engage/mudblazor/)
