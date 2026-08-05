@@ -475,4 +475,10 @@
   <data name="MudColorPicker_HideSwatches" xml:space="preserve">
     <value>Esconder amostras</value>
   </data>
+  <data name="MudRangeInput_End" xml:space="preserve">
+    <value>Fim</value>
+  </data>
+  <data name="MudDateRangePicker_End" xml:space="preserve">
+    <value>Data final</value>
+  </data>
 </root>
