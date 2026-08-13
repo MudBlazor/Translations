@@ -127,7 +127,7 @@
     <value>Tout afficher</value>
   </data>
   <data name="MudDataGrid_Loading" xml:space="preserve">
-    <value>Chargement en cours...</value>
+    <value>Chargement en cours…</value>
   </data>
   <data name="MudDataGrid_Columns" xml:space="preserve">
     <value>Colonnes</value>
@@ -373,7 +373,7 @@
     <value>Étendre groupe</value>
   </data>
   <data name="MudTable_Loading" xml:space="preserve">
-    <value>Chargement en cours...</value>
+    <value>Chargement en cours…</value>
   </data>
   <data name="MudTable_ExpandGroup" xml:space="preserve">
     <value>Étendre groupe</value>
@@ -428,5 +428,23 @@
   </data>
   <data name="MudExitPrompt_Cancel" xml:space="preserve">
     <value>Annuler</value>
+  </data>
+  <data name="MudRangeInput_Start" xml:space="preserve">
+    <value>De</value>
+  </data>
+  <data name="MudRangeInput_End" xml:space="preserve">
+    <value>À</value>
+  </data>
+  <data name="MudDateRangePicker_Start" xml:space="preserve">
+    <value>Du</value>
+  </data>
+  <data name="MudDateRangePicker_End" xml:space="preserve">
+    <value>Au</value>
+  </data>
+  <data name="MudDataGrid_SelectRow" xml:space="preserve">
+    <value>Sélectionner la ligne</value>
+  </data>
+  <data name="MudDataGrid_SelectAllRows" xml:space="preserve">
+    <value>Sélectionner toutes les lignes</value>
   </data>
 </root>
