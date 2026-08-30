@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -306,11 +306,11 @@
   <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
     <value>Previous month {0}</value>
   </data>
-  <data name="MudFormComponent_Required" xml:space="preserve">
-    <value>Required</value>
-  </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
     <value>Next month {0}</value>
+  </data>
+  <data name="MudFormComponent_Required" xml:space="preserve">
+    <value>Required</value>
   </data>
   <data name="MudPagination_CurrentPage" xml:space="preserve">
     <value>Current page {0}</value>
