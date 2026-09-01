@@ -447,4 +447,7 @@
   <data name="MudDataGrid_SelectAllRows" xml:space="preserve">
     <value>Alle Zeilen auswählen</value>
   </data>
+  <data name="MudFormComponent_Required" xml:space="preserve">
+    <value>Erforderlich</value>
+  </data>
 </root>
