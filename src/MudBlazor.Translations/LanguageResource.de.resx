@@ -450,4 +450,25 @@
   <data name="MudFormComponent_Required" xml:space="preserve">
     <value>Erforderlich</value>
   </data>
+  <data name="MudSelect_SelectAll" xml:space="preserve">
+    <value>Alle auswählen</value>
+  </data>
+  <data name="MudRating_Label" xml:space="preserve">
+    <value>Bewertung</value>
+  </data>
+  <data name="MudTable_SelectRow" xml:space="preserve">
+    <value>Zeile auswählen</value>
+  </data>
+  <data name="MudTable_SelectAllRows" xml:space="preserve">
+    <value>Alle Zeilen auswählen</value>
+  </data>
+  <data name="MudTable_SelectGroup" xml:space="preserve">
+    <value>Gruppe auswählen</value>
+  </data>
+  <data name="MudBreadcrumbs_Label" xml:space="preserve">
+    <value>Breadcrumb</value>
+  </data>
+  <data name="MudSplitPanel_ResizePanels" xml:space="preserve">
+    <value>Panelgröße anpassen</value>
+  </data>
 </root>
