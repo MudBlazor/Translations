@@ -493,4 +493,28 @@
   <data name="MudDataGrid_SelectAllRows" xml:space="preserve">
     <value>Összes sor kiválasztása</value>
   </data>
+  <data name="MudSelect_SelectAll" xml:space="preserve">
+    <value>Összes kiválasztása</value>
+  </data>
+  <data name="MudFormComponent_Required" xml:space="preserve">
+    <value>Kötelező</value>
+  </data>
+  <data name="MudRating_Label" xml:space="preserve">
+    <value>Értékelés</value>
+  </data>
+  <data name="MudTable_SelectRow" xml:space="preserve">
+    <value>Sor kiválasztása</value>
+  </data>
+  <data name="MudTable_SelectAllRows" xml:space="preserve">
+    <value>Összes sor kiválasztása</value>
+  </data>
+  <data name="MudBreadcrumbs_Label" xml:space="preserve">
+    <value>Navigációs nyomvonal</value>
+  </data>
+  <data name="MudSplitPanel_ResizePanels" xml:space="preserve">
+    <value>Panelek méretének módosítása</value>
+  </data>
+  <data name="MudTable_SelectGroup" xml:space="preserve">
+    <value>Csoport kiválasztása</value>
+  </data>
 </root>
