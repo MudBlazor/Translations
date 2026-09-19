@@ -1,14 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
 <root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
   <resheader name="version">
-    <value>1.3</value>
+    <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MudDataGrid_Apply" xml:space="preserve">
+    <value>جێبەجێکردن</value>
+  </data>
+  <data name="MudDataGrid_Clear" xml:space="preserve">
+    <value>پاککردنەوە</value>
+  </data>
+  <data name="MudDataGrid_AddFilter" xml:space="preserve">
+    <value>زیادکردنی فلتەر</value>
+  </data>
+  <data name="MudDataGrid_Cancel" xml:space="preserve">
+    <value>هەڵوەشاندنەوە</value>
+  </data>
+  <data name="MudDataGrid_Loading" xml:space="preserve">
+    <value>بار دەکرێت…</value>
+  </data>
+  <data name="MudDataGrid_Save" xml:space="preserve">
+    <value>پاشەکەوتکردن</value>
+  </data>
+  <data name="MudDataGrid_HideAll" xml:space="preserve">
+    <value>شاردنەوەی هەموو</value>
+  </data>
+  <data name="MudDataGrid_ShowAll" xml:space="preserve">
+    <value>پیشاندانی هەموو</value>
+  </data>
+  <data name="MudDataGrid_Columns" xml:space="preserve">
+    <value>ستوونەکان</value>
+  </data>
+  <data name="MudDataGrid_ExpandAllGroups" xml:space="preserve">
+    <value>فراوانکردنی هەموو گرووپەکان</value>
+  </data>
+  <data name="MudDataGrid_CollapseAllGroups" xml:space="preserve">
+    <value>نوشتاندنەوەی هەموو گرووپەکان</value>
+  </data>
+  <data name="MudDataGrid_RefreshData" xml:space="preserve">
+    <value>نوێکردنەوەی داتا</value>
+  </data>
+  <data name="MudDataGrid_True" xml:space="preserve">
+    <value>ڕاست</value>
+  </data>
+  <data name="MudDataGrid_False" xml:space="preserve">
+    <value>هەڵە</value>
+  </data>
+  <data name="MudDataGrid_Unsort" xml:space="preserve">
+    <value>لابردنی ڕیزکردن</value>
+  </data>
+  <data name="MudDataGrid_Filter" xml:space="preserve">
+    <value>فلتەر</value>
+  </data>
+  <data name="MudDataGrid_Hide" xml:space="preserve">
+    <value>شاردنەوە</value>
+  </data>
+  <data name="MudDataGrid_Ungroup" xml:space="preserve">
+    <value>لابردنی گرووپکردن</value>
+  </data>
+  <data name="MudDataGrid_CollapseGroup" xml:space="preserve">
+    <value>نوشتاندنەوەی گرووپ</value>
+  </data>
+  <data name="MudDataGrid_ExpandGroup" xml:space="preserve">
+    <value>فراوانکردنی گرووپ</value>
+  </data>
+  <data name="MudDataGrid_Group" xml:space="preserve">
+    <value>گرووپکردن</value>
+  </data>
+  <data name="MudDataGrid_FilterValue" xml:space="preserve">
+    <value>بەهای فلتەر</value>
+  </data>
+  <data name="MudDataGrid_Contains" xml:space="preserve">
+    <value>لەخۆدەگرێت</value>
+  </data>
+  <data name="MudDataGrid_NotContains" xml:space="preserve">
+    <value>لەخۆناگرێت</value>
+  </data>
+  <data name="MudDataGrid_Equals" xml:space="preserve">
+    <value>یەکسانە بە</value>
+  </data>
+  <data name="MudDataGrid_NotEquals" xml:space="preserve">
+    <value>یەکسان نییە بە</value>
+  </data>
+  <data name="MudDataGrid_StartsWith" xml:space="preserve">
+    <value>دەست پێدەکات بە</value>
+  </data>
+  <data name="MudDataGrid_EndsWith" xml:space="preserve">
+    <value>کۆتایی دێت بە</value>
+  </data>
+  <data name="MudDataGrid_IsEmpty" xml:space="preserve">
+    <value>بەتاڵە</value>
+  </data>
+  <data name="MudDataGrid_IsNotEmpty" xml:space="preserve">
+    <value>بەتاڵ نییە</value>
+  </data>
+  <data name="MudDataGrid_EqualSign" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="MudDataGrid_NotEqualSign" xml:space="preserve">
+    <value>!=</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanSign" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="MudDataGrid_GreaterThanOrEqualSign" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="MudDataGrid_LessThanSign" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+  <data name="MudDataGrid_LessThanOrEqualSign" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="MudDataGrid_Is" xml:space="preserve">
+    <value>بریتییە لە</value>
+  </data>
+  <data name="MudDataGrid_IsNot" xml:space="preserve">
+    <value>بریتی نییە لە</value>
+  </data>
+  <data name="MudDataGrid_IsAfter" xml:space="preserve">
+    <value>لە دوای</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrAfter" xml:space="preserve">
+    <value>لە هەمان کات یان دوای</value>
+  </data>
+  <data name="MudDataGrid_IsBefore" xml:space="preserve">
+    <value>لە پێش</value>
+  </data>
+  <data name="MudDataGrid_IsOnOrBefore" xml:space="preserve">
+    <value>لە هەمان کات یان پێش</value>
+  </data>
+  <data name="MudDataGrid_Column" xml:space="preserve">
+    <value>ستوون</value>
+  </data>
+  <data name="MudDataGrid_Operator" xml:space="preserve">
+    <value>ئۆپەراتۆر</value>
+  </data>
+  <data name="MudDataGrid_Value" xml:space="preserve">
+    <value>بەها</value>
+  </data>
+  <data name="MudDataGrid_MoveDown" xml:space="preserve">
+    <value>بردنە خوارەوە</value>
+  </data>
+  <data name="MudDataGrid_MoveUp" xml:space="preserve">
+    <value>بردنە سەرەوە</value>
+  </data>
+  <data name="MudDataGrid_Sort" xml:space="preserve">
+    <value>ڕیزکردن</value>
+  </data>
+  <data name="MudNavGroup_ToggleExpand" xml:space="preserve">
+    <value>کردنەوە/داخستنی {0}</value>
+  </data>
+  <data name="MudAlert_Close" xml:space="preserve">
+    <value>داخستن</value>
+  </data>
+  <data name="MudChip_Close" xml:space="preserve">
+    <value>داخستن</value>
+  </data>
+  <data name="MudSelect_SelectAll" xml:space="preserve">
+    <value>دیاریکردنی هەموو</value>
+  </data>
+  <data name="MudColorPicker_Close" xml:space="preserve">
+    <value>داخستن</value>
+  </data>
+  <data name="MudColorPicker_SpectrumView" xml:space="preserve">
+    <value>شەبەنگ</value>
+  </data>
+  <data name="MudColorPicker_GridView" xml:space="preserve">
+    <value>تۆڕ</value>
+  </data>
+  <data name="MudColorPicker_PaletteView" xml:space="preserve">
+    <value>پالێت</value>
+  </data>
+  <data name="MudColorPicker_ShowSwatches" xml:space="preserve">
+    <value>پیشاندانی نموونە ڕەنگەکان</value>
+  </data>
+  <data name="MudColorPicker_HideSwatches" xml:space="preserve">
+    <value>شاردنەوەی نموونە ڕەنگەکان</value>
+  </data>
+  <data name="MudColorPicker_HueSlider" xml:space="preserve">
+    <value>خلیسکێنەری تۆنی ڕەنگ</value>
+  </data>
+  <data name="MudColorPicker_AlphaSlider" xml:space="preserve">
+    <value>خلیسکێنەری ئەلفا</value>
+  </data>
+  <data name="MudColorPicker_ModeSwitch" xml:space="preserve">
+    <value>گۆڕینی دۆخ</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevYear" xml:space="preserve">
+    <value>ساڵی پێشوو {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
+    <value>ساڵی داهاتوو {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_PrevMonth" xml:space="preserve">
+    <value>مانگی پێشوو {0}</value>
+  </data>
+  <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
+    <value>مانگی داهاتوو {0}</value>
+  </data>
+  <data name="MudFormComponent_Required" xml:space="preserve">
+    <value>پێویستە</value>
+  </data>
+  <data name="MudPagination_CurrentPage" xml:space="preserve">
+    <value>پەڕەی ئێستا {0}</value>
+  </data>
+  <data name="MudPagination_FirstPage" xml:space="preserve">
+    <value>یەکەم پەڕە</value>
+  </data>
+  <data name="MudPagination_LastPage" xml:space="preserve">
+    <value>دوایین پەڕە</value>
+  </data>
+  <data name="MudPagination_NextPage" xml:space="preserve">
+    <value>پەڕەی داهاتوو</value>
+  </data>
+  <data name="MudPagination_PageIndex" xml:space="preserve">
+    <value>پەڕەی {0}</value>
+  </data>
+  <data name="MudPagination_PreviousPage" xml:space="preserve">
+    <value>پەڕەی پێشوو</value>
+  </data>
+  <data name="MudRatingItem_Label" xml:space="preserve">
+    <value>هەڵسەنگاندنی {0}</value>
+  </data>
+  <data name="MudRating_Label" xml:space="preserve">
+    <value>هەڵسەنگاندن</value>
+  </data>
+  <data name="MudCarousel_Index" xml:space="preserve">
+    <value>سلایدی {0}</value>
+  </data>
+  <data name="MudCarousel_Next" xml:space="preserve">
+    <value>دواتر</value>
+  </data>
+  <data name="MudCarousel_Previous" xml:space="preserve">
+    <value>پێشوو</value>
+  </data>
+  <data name="MudDialog_Close" xml:space="preserve">
+    <value>داخستن</value>
+  </data>
+  <data name="MudInput_Clear" xml:space="preserve">
+    <value>پاککردنەوە</value>
+  </data>
+  <data name="MudInput_Decrement" xml:space="preserve">
+    <value>کەمکردنەوە</value>
+  </data>
+  <data name="MudInput_Increment" xml:space="preserve">
+    <value>زیادکردن</value>
+  </data>
+  <data name="MudRangeInput_Start" xml:space="preserve">
+    <value>دەستپێک</value>
+  </data>
+  <data name="MudRangeInput_End" xml:space="preserve">
+    <value>کۆتایی</value>
+  </data>
+  <data name="MudDateRangePicker_Start" xml:space="preserve">
+    <value>بەرواری دەستپێک</value>
+  </data>
+  <data name="MudDateRangePicker_End" xml:space="preserve">
+    <value>بەرواری کۆتایی</value>
+  </data>
+  <data name="MudPageContentNavigation_NavMenu" xml:space="preserve">
+    <value>ناوەڕۆک</value>
+  </data>
+  <data name="MudTable_SelectRow" xml:space="preserve">
+    <value>دیاریکردنی ڕیز</value>
+  </data>
+  <data name="MudTable_SelectAllRows" xml:space="preserve">
+    <value>دیاریکردنی هەموو ڕیزەکان</value>
+  </data>
+  <data name="MudTable_SelectGroup" xml:space="preserve">
+    <value>دیاریکردنی گرووپ</value>
+  </data>
+  <data name="MudTable_Loading" xml:space="preserve">
+    <value>بار دەکرێت…</value>
+  </data>
+  <data name="MudTable_ExpandGroup" xml:space="preserve">
+    <value>فراوانکردنی گرووپ</value>
+  </data>
+  <data name="MudTable_EditRow" xml:space="preserve">
+    <value>دەستکاریکردنی ڕیز</value>
+  </data>
+  <data name="MudTable_CancelEditRow" xml:space="preserve">
+    <value>هەڵوەشاندنەوەی دەستکاری</value>
+  </data>
+  <data name="MudTable_CollapseGroup" xml:space="preserve">
+    <value>نوشتاندنەوەی گرووپ</value>
+  </data>
+  <data name="MudTable_CommitRow" xml:space="preserve">
+    <value>پەسەندکردنی دەستکاری</value>
+  </data>
+  <data name="MudTablePager_FirstPage" xml:space="preserve">
+    <value>یەکەم پەڕە</value>
+  </data>
+  <data name="MudTablePager_LastPage" xml:space="preserve">
+    <value>دوایین پەڕە</value>
+  </data>
+  <data name="MudTablePager_NextPage" xml:space="preserve">
+    <value>پەڕەی داهاتوو</value>
+  </data>
+  <data name="MudTablePager_PreviousPage" xml:space="preserve">
+    <value>پەڕەی پێشوو</value>
+  </data>
+  <data name="MudSnackbar_Close" xml:space="preserve">
+    <value>داخستن</value>
+  </data>
+  <data name="MudDataGridPager_RowsPerPage" xml:space="preserve">
+    <value>ڕیز بۆ هەر پەڕەیەک:</value>
+  </data>
+  <data name="MudDataGridPager_AllItems" xml:space="preserve">
+    <value>هەموو</value>
+  </data>
+  <data name="MudDataGridPager_InfoFormat" xml:space="preserve">
+    <value>{0}-{1} لە {2}</value>
+  </data>
+  <data name="MudStepper_Next" xml:space="preserve">
+    <value>دواتر</value>
+  </data>
+  <data name="MudStepper_Previous" xml:space="preserve">
+    <value>پێشوو</value>
+  </data>
+  <data name="MudStepper_Skip" xml:space="preserve">
+    <value>بازدان</value>
+  </data>
+  <data name="MudStepper_Reset" xml:space="preserve">
+    <value>ڕێکخستنەوە</value>
+  </data>
+  <data name="MudStepper_Complete" xml:space="preserve">
+    <value>تەواوکردن</value>
+  </data>
+  <data name="MudDataGrid_ClearFilter" xml:space="preserve">
+    <value>پاککردنەوەی فلتەر</value>
+  </data>
+  <data name="MudDataGrid_OpenFilters" xml:space="preserve">
+    <value>کردنەوەی فلتەرەکان</value>
+  </data>
+  <data name="MudDataGrid_ToggleGroupExpansion" xml:space="preserve">
+    <value>کردنەوە/داخستنی گرووپ</value>
+  </data>
+  <data name="MudDataGrid_RemoveFilter" xml:space="preserve">
+    <value>لابردنی فلتەر</value>
+  </data>
+  <data name="MudDataGrid_SelectRow" xml:space="preserve">
+    <value>دیاریکردنی ڕیز</value>
+  </data>
+  <data name="MudDataGrid_SelectAllRows" xml:space="preserve">
+    <value>دیاریکردنی هەموو ڕیزەکان</value>
+  </data>
+  <data name="MudDataGridPager_FirstPage" xml:space="preserve">
+    <value>یەکەم پەڕە</value>
+  </data>
+  <data name="MudDataGridPager_PreviousPage" xml:space="preserve">
+    <value>پەڕەی پێشوو</value>
+  </data>
+  <data name="MudDataGridPager_NextPage" xml:space="preserve">
+    <value>پەڕەی داهاتوو</value>
+  </data>
+  <data name="MudDataGridPager_LastPage" xml:space="preserve">
+    <value>دوایین پەڕە</value>
+  </data>
+  <data name="MudDataGrid_ShowColumnOptions" xml:space="preserve">
+    <value>هەڵبژاردەکانی ستوون</value>
+  </data>
+  <data name="MudFileUpload_DragAndDrop" xml:space="preserve">
+    <value>فایلەکان ڕابکێشە بۆ ئێرە یان کرتە بکە بۆ گەڕان</value>
+  </data>
+  <data name="MudFileUpload_Button" xml:space="preserve">
+    <value>گەڕان لە فایلەکان</value>
+  </data>
+  <data name="Converter_InvalidBoolean" xml:space="preserve">
+    <value>بولیەنێکی دروست نییە</value>
+  </data>
+  <data name="Converter_InvalidNumber" xml:space="preserve">
+    <value>ژمارەیەکی دروست نییە</value>
+  </data>
+  <data name="Converter_InvalidGUID" xml:space="preserve">
+    <value>GUID دروست نییە</value>
+  </data>
+  <data name="Converter_NotValueOf" xml:space="preserve">
+    <value>بەهایەکی {0} نییە</value>
+  </data>
+  <data name="Converter_InvalidDateTime" xml:space="preserve">
+    <value>بەروار و کاتێکی دروست نییە</value>
+  </data>
+  <data name="Converter_InvalidTimeSpan" xml:space="preserve">
+    <value>ماوەیەکی کاتیی دروست نییە</value>
+  </data>
+  <data name="Converter_InvalidType" xml:space="preserve">
+    <value>{0} دروست نییە</value>
+  </data>
+  <data name="Converter_ConversionNotImplemented" xml:space="preserve">
+    <value>گۆڕین بۆ جۆری {0} جێبەجێ نەکراوە</value>
+  </data>
+  <data name="Converter_ConversionError" xml:space="preserve">
+    <value>هەڵەی گۆڕین: {0}</value>
+  </data>
+  <data name="Converter_ConversionFailed" xml:space="preserve">
+    <value>گۆڕین لە {0} بۆ {1} سەرکەوتوو نەبوو: {2}</value>
+  </data>
+  <data name="Converter_UnableToConvert" xml:space="preserve">
+    <value>ناتوانرێت لە جۆری {1} بگۆڕدرێت بۆ {0}</value>
+  </data>
+  <data name="HeatMap_Less" xml:space="preserve">
+    <value>کەمتر</value>
+  </data>
+  <data name="HeatMap_More" xml:space="preserve">
+    <value>زیاتر</value>
+  </data>
+  <data name="MudTreeView_ExpandItem" xml:space="preserve">
+    <value>فراوانکردن</value>
+  </data>
+  <data name="MudTabs_ScrollLeft" xml:space="preserve">
+    <value>خلیسکاندنی تابەکان بۆ چەپ</value>
+  </data>
+  <data name="MudTabs_ScrollRight" xml:space="preserve">
+    <value>خلیسکاندنی تابەکان بۆ ڕاست</value>
+  </data>
+  <data name="MudTabs_ScrollUp" xml:space="preserve">
+    <value>خلیسکاندنی تابەکان بۆ سەرەوە</value>
+  </data>
+  <data name="MudTabs_CloseTab" xml:space="preserve">
+    <value>داخستنی تاب</value>
+  </data>
+  <data name="MudTabs_AddTab" xml:space="preserve">
+    <value>زیادکردنی تاب</value>
+  </data>
+  <data name="MudTabs_ScrollDown" xml:space="preserve">
+    <value>خلیسکاندنی تابەکان بۆ خوارەوە</value>
+  </data>
+  <data name="MudTreeView_CollapseItem" xml:space="preserve">
+    <value>نوشتاندنەوە</value>
+  </data>
+  <data name="MudTimePicker_Open" xml:space="preserve">
+    <value>کردنەوە</value>
+  </data>
+  <data name="MudBaseDatePicker_Open" xml:space="preserve">
+    <value>کردنەوە</value>
+  </data>
+  <data name="MudColorPicker_Open" xml:space="preserve">
+    <value>کردنەوە</value>
+  </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>قەبارەی فایلی '{0}' لە زۆرترین قەبارەی ڕێگەپێدراو کە {1} بایتە تێدەپەڕێت.</value>
+  </data>
+  <data name="MudFileUpload_MaximumFileCountExceeded" xml:space="preserve">
+    <value>{0} فایل هەڵبژێردراوە، کە لە زۆرترین ژمارەی ڕێگەپێدراو ({1}) زیاترە</value>
+  </data>
+  <data name="MudExitPrompt_Title" xml:space="preserve">
+    <value>پشتڕاستکردنەوەی جێهێشتن</value>
+  </data>
+  <data name="MudExitPrompt_Text" xml:space="preserve">
+    <value>ماڵپەڕەکە جێدەهێڵیت؟ لەوانەیە ئەو گۆڕانکارییانەی کردووتن پاشەکەوت نەکرێن.</value>
+  </data>
+  <data name="MudExitPrompt_Exit" xml:space="preserve">
+    <value>باشە</value>
+  </data>
+  <data name="MudExitPrompt_Cancel" xml:space="preserve">
+    <value>هەڵوەشاندنەوە</value>
+  </data>
+  <data name="MudBreadcrumbs_Label" xml:space="preserve">
+    <value>ڕێڕەوی پەڕە</value>
+  </data>
+  <data name="MudSplitPanel_ResizePanels" xml:space="preserve">
+    <value>گۆڕینی قەبارەی پانێڵەکان</value>
+  </data>
 </root>
