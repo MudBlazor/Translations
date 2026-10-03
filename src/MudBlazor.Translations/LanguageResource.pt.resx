@@ -74,7 +74,7 @@
     <value>Exibir todos</value>
   </data>
   <data name="MudDataGrid_Loading" xml:space="preserve">
-    <value>Carregando...</value>
+    <value>A carregar…</value>
   </data>
   <data name="MudDataGrid_Apply" xml:space="preserve">
     <value>Aplicar</value>
@@ -417,5 +417,104 @@
   </data>
   <data name="MudTable_ExpandGroup" xml:space="preserve">
     <value>Expandir grupo</value>
+  </data>
+  <data name="MudSelect_SelectAll" xml:space="preserve">
+    <value>Selecionar todos</value>
+  </data>
+  <data name="MudFormComponent_Required" xml:space="preserve">
+    <value>Obrigatório</value>
+  </data>
+  <data name="MudRating_Label" xml:space="preserve">
+    <value>Classificação</value>
+  </data>
+  <data name="MudDateRangePicker_Start" xml:space="preserve">
+    <value>Data início</value>
+  </data>
+  <data name="MudDateRangePicker_End" xml:space="preserve">
+    <value>Data fim</value>
+  </data>
+  <data name="MudTable_SelectRow" xml:space="preserve">
+    <value>Selecionar linha</value>
+  </data>
+  <data name="MudTable_SelectAllRows" xml:space="preserve">
+    <value>Selecionar tudo</value>
+  </data>
+  <data name="MudTable_SelectGroup" xml:space="preserve">
+    <value>Selecionar grupo</value>
+  </data>
+  <data name="MudTable_Loading" xml:space="preserve">
+    <value>A carregar …</value>
+  </data>
+  <data name="MudTable_EditRow" xml:space="preserve">
+    <value>Editar linha</value>
+  </data>
+  <data name="MudTable_CancelEditRow" xml:space="preserve">
+    <value>Cancelar edição</value>
+  </data>
+  <data name="MudTable_CollapseGroup" xml:space="preserve">
+    <value>Colapsar grupo</value>
+  </data>
+  <data name="MudTable_CommitRow" xml:space="preserve">
+    <value>Confirmar edição</value>
+  </data>
+  <data name="MudDataGrid_SelectRow" xml:space="preserve">
+    <value>Selecionar linha</value>
+  </data>
+  <data name="MudDataGrid_SelectAllRows" xml:space="preserve">
+    <value>Selecionar todas</value>
+  </data>
+  <data name="MudFileUpload_DragAndDrop" xml:space="preserve">
+    <value>Arraste ficheiros para aqui ou clique em procurar</value>
+  </data>
+  <data name="MudFileUpload_Button" xml:space="preserve">
+    <value>Procurar ficheiros</value>
+  </data>
+  <data name="MudTabs_CloseTab" xml:space="preserve">
+    <value>Fechar aba</value>
+  </data>
+  <data name="MudTabs_AddTab" xml:space="preserve">
+    <value>Adicionar aba</value>
+  </data>
+  <data name="MudFileUpload_FileSizeError" xml:space="preserve">
+    <value>O ficheiro '{0}' ultrapassa o tamanho máximo permitido de {1} bytes.</value>
+  </data>
+  <data name="MudFileUpload_MaximumFileCountExceeded" xml:space="preserve">
+    <value>{0} ficheiros selecionados, que ultrapassam o limite maximo {1}</value>
+  </data>
+  <data name="MudExitPrompt_Title" xml:space="preserve">
+    <value>Confirme navegação</value>
+  </data>
+  <data name="MudExitPrompt_Text" xml:space="preserve">
+    <value>Pretende sair? As alterações realizadas não serão gravadas.</value>
+  </data>
+  <data name="MudExitPrompt_Exit" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="MudExitPrompt_Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="MudBreadcrumbs_Label" xml:space="preserve">
+    <value>Está em</value>
+  </data>
+  <data name="MudRangeInput_Start" xml:space="preserve">
+    <value>Início</value>
+  </data>
+  <data name="MudRangeInput_End" xml:space="preserve">
+    <value>Fim</value>
+  </data>
+  <data name="MudTabs_ScrollLeft" xml:space="preserve">
+    <value>Mover abas para a esquerda</value>
+  </data>
+  <data name="MudTabs_ScrollRight" xml:space="preserve">
+    <value>Mover abas para a direita</value>
+  </data>
+  <data name="MudTabs_ScrollUp" xml:space="preserve">
+    <value>Mover abas para cima</value>
+  </data>
+  <data name="MudTabs_ScrollDown" xml:space="preserve">
+    <value>Mover abas para baixo</value>
+  </data>
+  <data name="MudSplitPanel_ResizePanels" xml:space="preserve">
+    <value>Redimensionar painéis</value>
   </data>
 </root>
