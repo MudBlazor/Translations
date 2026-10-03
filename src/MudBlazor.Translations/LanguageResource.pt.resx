@@ -290,7 +290,7 @@
     <value>Alternar grupo</value>
   </data>
   <data name="MudBaseDatePicker_NextYear" xml:space="preserve">
-    <value>Ano seguinte {0}</value>
+    <value>Próximo Ano {0}</value>
   </data>
   <data name="MudBaseDatePicker_NextMonth" xml:space="preserve">
     <value>Mês seguinte {0}</value>
