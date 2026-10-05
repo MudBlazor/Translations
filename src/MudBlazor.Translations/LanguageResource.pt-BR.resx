@@ -179,7 +179,7 @@
     <value>Cancelar</value>
   </data>
   <data name="MudDataGrid_Loading" xml:space="preserve">
-    <value>Carregando...</value>
+    <value>Carregando…</value>
   </data>
   <data name="MudDataGrid_Save" xml:space="preserve">
     <value>Salvar</value>
@@ -480,5 +480,11 @@
   </data>
   <data name="MudDateRangePicker_End" xml:space="preserve">
     <value>Data final</value>
+  </data>
+  <data name="MudRangeInput_Start" xml:space="preserve">
+    <value>Início</value>
+  </data>
+  <data name="MudDateRangePicker_Start" xml:space="preserve">
+    <value>Data inicial</value>
   </data>
 </root>
