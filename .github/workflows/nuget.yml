@@ -11,6 +11,9 @@ jobs:
 
         runs-on: ubuntu-latest
         environment: production
+        permissions:
+            contents: read
+            id-token: write
 
         steps:
             -   uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
@@ -27,7 +30,10 @@ jobs:
                 run: dotnet restore
             -   name: Build
                 run: dotnet build -c Release --no-restore /p:PublicRelease=true
-            -   name: Push to nuget.org
-                env:
-                    NUGET_KEY: ${{ secrets.NUGET_KEY }}
-                run: dotnet nuget push "src/*/bin/Release/*.nupkg" --api-key "$NUGET_KEY" --skip-duplicate --source https://api.nuget.org/v3/index.json
+            -   name: NuGet login
+                uses: NuGet/login@v1
+                id: login
+                with:
+                  user: MudBlazor
+            -   name: NuGet push
+                run: dotnet nuget push "src/*/bin/Release/*.nupkg" --api-key ${{steps.login.outputs.NUGET_API_KEY}} --skip-duplicate --source https://api.nuget.org/v3/index.json
