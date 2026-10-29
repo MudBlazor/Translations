@@ -471,4 +471,10 @@
   <data name="MudSplitPanel_ResizePanels" xml:space="preserve">
     <value>Panelgröße anpassen</value>
   </data>
+  <data name="MudDataGrid_IsAnyOf" xml:space="preserve">
+    <value>ist eines von</value>
+  </data>
+  <data name="MudDataGrid_ReorderColumn" xml:space="preserve">
+    <value>Spalte neu anordnen</value>
+  </data>
 </root>
