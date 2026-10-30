@@ -181,7 +181,7 @@
     <value>&gt;=</value>
   </data>
   <data name="MudDataGrid_AddFilter" xml:space="preserve">
-    <value>Ajouter filtre</value>
+    <value>Ajouter un filtre</value>
   </data>
   <data name="MudDataGrid_Cancel" xml:space="preserve">
     <value>Annuler</value>
@@ -193,7 +193,7 @@
     <value>Réduire tous les groupes</value>
   </data>
   <data name="MudDataGrid_RefreshData" xml:space="preserve">
-    <value>Rafraîchir données</value>
+    <value>Rafraîchir les données</value>
   </data>
   <data name="MudDataGrid_Filter" xml:space="preserve">
     <value>Filtrer</value>
