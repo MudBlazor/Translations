@@ -517,4 +517,10 @@
   <data name="MudTable_SelectGroup" xml:space="preserve">
     <value>Csoport kiválasztása</value>
   </data>
+  <data name="MudDataGrid_IsAnyOf" xml:space="preserve">
+    <value>a következők közül bármelyik</value>
+  </data>
+  <data name="MudDataGrid_ReorderColumn" xml:space="preserve">
+    <value>Oszlop átrendezése</value>
+  </data>
 </root>
