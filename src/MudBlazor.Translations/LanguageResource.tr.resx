@@ -350,7 +350,7 @@
     <value>Geçerli bir mantıksal değer değil</value>
   </data>
   <data name="Converter_InvalidNumber" xml:space="preserve">
-    <value>Geçerli bir numara değil</value>
+    <value>Geçerli bir sayı değil</value>
   </data>
   <data name="Converter_InvalidGUID" xml:space="preserve">
     <value>Geçerli bir GUID değil</value>
